@@ -1,15 +1,29 @@
 
-Tproblem.definition.State#getTypeGenerator()Lmetaheuristics/generators/GeneratorType;R
-HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.java( ((&"1*‹
-1)	 )(è
-å
-)	 )(-
-%0'metaheuristics.generators.GeneratorType"__id*K
-
-__unknown_file (/*-
-problem.definition.State"
-typeGenerator";
-) )(/
--
-%0'metaheuristics.generators.GeneratorTypeB
-problem.definition.StateH
+;metaheuristics.generators.LimitThreshold#%field_initializer
+__unknown_file ("1*÷
+1 (»
+≈
+b
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java' '(3E*
+(metaheuristics.generators.LimitThreshold"
+listCountBetterGender"__id*
+ (
+""¬
+ø
+b
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java( ((-?*
+(metaheuristics.generators.LimitThreshold"
+listCountGender"__id*
+ (
+""º
+π
+b
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java) )(09*
+(metaheuristics.generators.LimitThreshold"
+	listTrace"__id*
+ (
+"""x
+a
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java •(
+implicit returnB,*
+(metaheuristics.generators.LimitThreshold

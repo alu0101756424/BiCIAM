@@ -2,37 +2,34 @@ package local_search.complement;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import problem.definition.State;
 
 public class TabuSolutions {
-	
-	public static List<State> listTabu = new ArrayList<State>();
+    
+    public static List<State> listTabu = new ArrayList<>();
+    public static int maxelements = 10;
 
-	public static int maxelements; 
+    public TabuSolutions() {
+    }
 
-	public List<State> filterNeighborhood(List<State> listNeighborhood) throws Exception {
-		List<State> listFiltrate = new ArrayList<State>();
-		//List<ProblemState> auxList = new ArrayList<ProblemState>();
-		//auxList = listNeighborhood;
-		//Problem problem = new Problem();
-		if (!listTabu.isEmpty()) {
-			for (int i = listNeighborhood.size() - 1; i >= 0 ; i--) {
-				int count_tabu = 0; 
-				while (listTabu.size() > count_tabu) {
-					if (listNeighborhood.get(i).equals(listTabu.get(count_tabu))) {
-						listNeighborhood.remove(i);
-					}
-					count_tabu++;
-				}
-			}
-			listFiltrate = listNeighborhood;
-			if (listFiltrate.isEmpty()) {
-				throw new Exception();
-			}
-		} else {
-			listFiltrate = listNeighborhood;
-		}
-		return listFiltrate;
-	}
+    public List<State> filterNeighbor(List<State> listNeighborhood) throws Exception {
+        List<State> listFiltrate = new ArrayList<>();
+        if (listTabu == null) {
+            listTabu = new ArrayList<>();
+        }
+        
+        for (State neighbor : listNeighborhood) {
+            boolean isTabu = false;
+            for (State tabuState : listTabu) {
+                if (neighbor.Comparator(tabuState)) {
+                    isTabu = true;
+                    break;
+                }
+            }
+            if (!isTabu) {
+                listFiltrate.add(neighbor);
+            }
+        }
+        return listFiltrate;
+    }
 }

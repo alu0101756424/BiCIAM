@@ -1,15 +1,15 @@
 
-.metaheuristics.generators.InstanceGA#<init>()V
-__unknown_file ("startingBlock*»
-startingBlock\
-TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/InstanceGA.java (Ö
-Ó
-\
-TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/InstanceGA.java (
-%0"7metaheuristics.generators.InstanceGA#%field_initializer*4
- ((&
-$metaheuristics.generators.InstanceGA"s
-\
-TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/InstanceGA.java (
-implicit returnB(&
-$metaheuristics.generators.InstanceGA
+gmetaheuristics.generators.MultiobjectiveStochasticHillClimbing#getReference()Lproblem/definition/State;x
+nC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveStochasticHillClimbing.javaC C("1*ç
+1D	 D(©
+¦
+D	 D(
+%0problem.definition.State"__id*t
+
+__unknown_file (X*V@
+>metaheuristics.generators.MultiobjectiveStochasticHillClimbing"
+stateReferenceHC",
+D D( 
+
+%0problem.definition.StateBB@
+>metaheuristics.generators.MultiobjectiveStochasticHillClimbingH

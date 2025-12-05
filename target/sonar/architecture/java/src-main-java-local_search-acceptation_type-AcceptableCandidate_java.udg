@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764948092069*java2.Bæ
+1.0alu0101756424_BiCIAMJavaFrontend"1764954062270*java2.Bê
 I
 Dsrc/main/java/local_search/acceptation_type/AcceptableCandidate.java2
 	
@@ -17,8 +17,8 @@ module-key5
 )com.example:local_search.acceptation_type9
 7
 1local_search.acceptation_type.AcceptableCandidate11
-
-class12
+
+	interface12
 
 access13
 
@@ -63,7 +63,7 @@ module-key5
 >
 108
 101112 *
-1 (*:7B
+1 (%:7B
 
 
 13
@@ -75,7 +75,7 @@ module-key5
 B
 17<
 171819 *
-1	 	(210:7B
+1 (210:7B
 
 
 13
@@ -89,19 +89,19 @@ B
 212223r¢
 
 172124*
-1	* 	(/
+1 ("
 
 172124*
-1	> 	(C
+11 (6
 
 172125*
-1	0 	(<
+1# (/
 
 172126*
-1	* 	(/
+1 ("
 
 172125*
-1	D 	(R
+17 (E
 
 172126*
-1	> 	(C
+11 (6

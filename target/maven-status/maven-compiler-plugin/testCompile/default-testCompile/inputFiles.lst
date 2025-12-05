@@ -1,10 +1,15 @@
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\evolutionary_algorithms\complement\ProbabilisticSamplingTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\local_search\acceptation_type\AcceptationTypeTest.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\local_search\candidate_type\CandidateTypeTest.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\local_search\complement\ComplementTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheurictics\strategy\StrategyTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\GeneratorsTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\HillClimbingTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\MultiGeneratorTest.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\MultiobjectiveHillClimbingDistanceTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\ParticleSwarmOptimizationTest.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\metaheuristics\generators\ParticleTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\problem\definition\ObjetiveFunctionTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\problem\definition\ProblemTest.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\problem\definition\StateTest.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\test\java\problem_operators\MutationOperatorTest.java

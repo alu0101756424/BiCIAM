@@ -1,10 +1,5 @@
-/**
- * @(#) TypeCandidate.java
- */
-
 package local_search.candidate_type;
 
-public enum CandidateType{
-	
-	SmallerCandidate, GreaterCandidate, RandomCandidate, NotDominatedCandidate;
+public enum CandidateType {
+    RandomCandidate, GreaterCandidate, SmallerCandidate, NotDominatedCandidate
 }

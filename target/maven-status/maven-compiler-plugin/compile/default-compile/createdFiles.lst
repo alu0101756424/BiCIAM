@@ -57,6 +57,7 @@ local_search\candidate_type\NotDominatedCandidate.class
 factory_interface\IFFactoryReplace.class
 metaheuristics\generators\Generator.class
 problem\definition\State.class
+local_search\candidate_type\CandidateValue$1.class
 problem\definition\ObjetiveFunction.class
 evolutionary_algorithms\complement\AIOMutation.class
 evolutionary_algorithms\complement\SamplingType.class

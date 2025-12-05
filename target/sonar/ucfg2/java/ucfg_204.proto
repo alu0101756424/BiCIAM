@@ -1,9 +1,15 @@
 
-Hmetaheuristics.generators.MultiobjectiveHillClimbingRestart#getTrace()[Fw
-kC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingRestart.java¹ ¹("1*%
-1
-»	 »("
-
-» »(
-""B?=
-;metaheuristics.generators.MultiobjectiveHillClimbingRestartH
+Umetaheuristics.generators.SimulatedAnnealing#getReference()Lproblem/definition/State;f
+\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javaR R("1*Õ
+1S	 S(—
+”
+S	 S(
+%0problem.definition.State"__id*b
+
+__unknown_file (F*D.
+,metaheuristics.generators.SimulatedAnnealing"
+stateReferenceSA",
+S S( 
+
+%0problem.definition.StateB0.
+,metaheuristics.generators.SimulatedAnnealingH

@@ -1,15 +1,16 @@
 
-Mproblem.definition.Problem#getCodification()Lproblem/definition/Codification;T
-JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.java5 5($"1*Í
-16	 6(ˆ
-…
-6	 6(%
-%0problem.definition.Codification"__id*L
+Eproblem.definition.Problem#getOperator()Lproblem/definition/Operator;T
+JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.java< <("1*¿
+1=	 =(
+}
+=	 =(!
+%0problem.definition.Operator"__id*H
 
-__unknown_file (0*.
-problem.definition.Problem"
-codification"3
-6 6('
-%
-%0problem.definition.CodificationB
+__unknown_file (,**
+problem.definition.Problem"
+
+operator"/
+= =(#
+!
+%0problem.definition.OperatorB
 problem.definition.ProblemH

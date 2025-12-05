@@ -1,15 +1,30 @@
 
-Ometaheuristics.generators.HillClimbing#getReference()Lproblem/definition/State;`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javaW W("1*Ï
-1X	 X(‘
-Ž
-X	 X(
-%0problem.definition.State"__id*\
+Rmetaheuristics.generators.HillClimbing#awardUpdateREF(Lproblem/definition/State;)Z`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java| |("startingBlock*ª
+startingBlock| |(4
+š
+{ {(
+
+%0"
+__annotate*2
 
-__unknown_file (@*>(
-&metaheuristics.generators.HillClimbing"
-stateReferenceHC",
-X X( 
-
-%0problem.definition.StateB*(
-&metaheuristics.generators.HillClimbingH
+__unknown_file (
+java.lang.Override*H
+
+__unknown_file (,
+*
+stateCandidateproblem.definition.Statej
+h
+|% |(3*
+stateCandidateproblem.definition.State"__annotation*"
+
+__unknown_file (
+
+%0*
+1*!
+1~	 ~("
+~ ~(
+"":6
+| |(3*
+stateCandidateproblem.definition.StateB*(
+&metaheuristics.generators.HillClimbingHX

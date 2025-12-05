@@ -1,15 +1,9 @@
 
-Ymetaheuristics.generators.HillClimbing#getType()Lmetaheuristics/generators/GeneratorType;`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javam m("1*Í
-1n	 n(ù
-ö
-n	 n(-
-%0'metaheuristics.generators.GeneratorType"__id*Y
-
-__unknown_file (=*;(
-&metaheuristics.generators.HillClimbing"
-Generatortype";
-n n(/
--
-%0'metaheuristics.generators.GeneratorTypeB*(
+3metaheuristics.generators.HillClimbing#getTrace()[Fb
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javaö ö("1*%
+1
+ú	 ú("
+
+ú ú(
+""B*(
 &metaheuristics.generators.HillClimbingH

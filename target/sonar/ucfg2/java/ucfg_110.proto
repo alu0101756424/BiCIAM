@@ -1,15 +1,50 @@
 
-clocal_search.candidate_type.CandidateValue#getTabusolution()Llocal_search/complement/TabuSolutions;d
-ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/local_search/candidate_type/CandidateValue.javaN N(%"1*é
-1O	 O(ž
-›
-O	 O(+
-%0%local_search.complement.TabuSolutions"__id*\
+blocal_search.acceptation_type.Dominance#ListDominance(Lproblem/definition/State;Ljava/util/List;)Za
+WC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/local_search/acceptation_type/Dominance.java4 4( "2*“
+25 5(W
+U
+5 5(
+refproblem.definition.State"__id*"
 
-__unknown_file (@*>,
-*local_search.candidate_type.CandidateValue"
-tabusolution"9
-O O(-
-+
-%0%local_search.complement.TabuSolutionsB.,
-*local_search.candidate_type.CandidateValueH
+__unknown_file (
+""¢
+Ÿ
+5 5(
+refproblem.definition.State"
+__arrayGet*B
+
+__unknown_file (&
+$
+listRefPoblacFinaljava.util.List*"
+
+__unknown_file (
+""*
+4
+1*!
+37 7("
+7 7(
+""*±
+46 6(™–
+6 6(.
+%0boolean"hlocal_search.acceptation_type.Dominance#dominance(Lproblem/definition/State;Lproblem/definition/State;)Z*G
+
+__unknown_file (+)
+'local_search.acceptation_type.Dominance*=
+
+__unknown_file (!
+
+refproblem.definition.State*H
+
+__unknown_file (,
+*
+stateCandidateproblem.definition.State2?dominance(Lproblem/definition/State;Lproblem/definition/State;)*
+2
+3*!
+1: :("
+: :(
+"":6
+4! 4(6*
+stateCandidateproblem.definition.State:0
+47 4(U$
+listRefPoblacFinaljava.util.ListB+)
+'local_search.acceptation_type.DominanceHX

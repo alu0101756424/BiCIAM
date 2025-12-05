@@ -1,47 +1,15 @@
 
-9metaheuristics.generators.HillClimbing#%field_initializer
-__unknown_file ("1*Ô	
-1 (ïí
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java!0 !(@
-%0java.util.ArrayList"java.util.ArrayList≥
-∞
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java!, !(B
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList÷
-”
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java! !(C@(
-&metaheuristics.generators.HillClimbing"
-listStateReference"__id*'
- (
-
-%0java.util.ArrayListƒ
-¡
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java' '(3C(
-&metaheuristics.generators.HillClimbing"
-listCountBetterGender"__id*
- (
-""æ
-ª
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java( ((-=(
-&metaheuristics.generators.HillClimbing"
-listCountGender"__id*
- (
-""∏
-µ
-`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java) )(07(
-&metaheuristics.generators.HillClimbing"
-	listTrace"__id*
- (
-"""v
-_
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java û(
-implicit returnB*(
-&metaheuristics.generators.HillClimbing
+bmetaheuristics.generators.HillClimbing#getGeneratorType()Lmetaheuristics/generators/GeneratorType;`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javad d(&"1*Í
+1e	 e(ù
+ö
+e	 e(-
+%0'metaheuristics.generators.GeneratorType"__id*Y
+
+__unknown_file (=*;(
+&metaheuristics.generators.HillClimbing"
+Generatortype";
+e e(/
+-
+%0'metaheuristics.generators.GeneratorTypeB*(
+&metaheuristics.generators.HillClimbingH

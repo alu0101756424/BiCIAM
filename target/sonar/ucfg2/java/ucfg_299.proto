@@ -1,30 +1,48 @@
 
-ametaheuristics.generators.MultiCaseSimulatedAnnealing#awardUpdateREF(Lproblem/definition/State;)Zo
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java| |("startingBlock*™
-startingBlock| |(4ù
-ö
-{ {(
-
-%0"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*H
-
-__unknown_file (,
-*
-stateCandidateproblem.definition.Statej
-h
-|% |(3*
-stateCandidateproblem.definition.State"__annotation*"
-
-__unknown_file (
-
-%0*
-1*!
-1~	 ~("
-~ ~(
-"":6
-| |(3*
-stateCandidateproblem.definition.StateB97
-5metaheuristics.generators.MultiCaseSimulatedAnnealingHX
+=metaheuristics.generators.GeneticAlgorithm#%field_initializer
+__unknown_file ("1*í
+
+1 (ôñ
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java %  (5
+%0java.util.ArrayList"java.util.ArrayList∑
+¥
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java !  (7
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList’
+“
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java   (8;,
+*metaheuristics.generators.GeneticAlgorithm"
+	listState"__id*'
+ (
+
+%0java.util.ArrayListÃ
+…
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java9 9(3G,
+*metaheuristics.generators.GeneticAlgorithm"
+listCountBetterGender"__id*
+ (
+""∆
+√
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java: :(-A,
+*metaheuristics.generators.GeneticAlgorithm"
+listCountGender"__id*
+ (
+""¿
+Ω
+d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java; ;(0;,
+*metaheuristics.generators.GeneticAlgorithm"
+	listTrace"__id*
+ (
+"""z
+c
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java ¸(
+implicit returnB.,
+*metaheuristics.generators.GeneticAlgorithm

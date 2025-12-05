@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764948088174*java2.B–
+1.0alu0101756424_BiCIAMJavaFrontend"1764954058594*java2.BÑ
 C
 >src/main/java/local_search/candidate_type/SearchCandidate.java2
 	
@@ -17,8 +17,8 @@ module-key5
 'com.example:local_search.candidate_type9
 1
 +local_search.candidate_type.SearchCandidate11
-
-class12
+
+	interface12
 
 access13
 
@@ -27,21 +27,25 @@ module-key5
 simple-name15
 
 SearchCandidate16
-i
-clocal_search.candidate_type.SearchCandidate#stateSearch(Ljava/util/List;)Lproblem/definition/State;18
+
+{local_search.candidate_type.SearchCandidate#candidate(Lproblem/definition/State;Ljava/util/List;)Lproblem/definition/State;18
 
 method19
-
-stateSearch20
+
+	candidate20
 
 problem.definition.State22
 
 unknown23
 
 returns24
+
+	has param25
 
 
-uses25J#
+uses26
+
+is type27J#
 !
 1
 12
@@ -58,22 +62,11 @@ clocal_search.candidate_type.SearchCandidate#stateSearch(Ljava/util/List;)Lprobl
 
 5
 6j˜
->
-108
-101112 *
-1 (&:7B
-
-
-13
-14
-
-
-15
-16
 B
 17<
 171819 *
-1 (210:7B
+1 (
+210:7B
 
 
 13
@@ -82,15 +75,38 @@ B
 
 15
 20
+>
+108
+101112 *
+1 (!:7B
+
+
+13
+14
+
+
+15
+16
 
 21
-212223rQ
+212223r¢
 
 172124*
-1 (
+1 (
+
 
 172125*
-1 (
+1 (
 
-172125*
-1) (.
+172126*
+1 (
+
+
+172127*
+1 ()
+
+172126*
+1 (
+
+172126*
+10 (5

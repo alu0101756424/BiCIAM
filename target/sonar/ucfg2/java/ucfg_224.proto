@@ -1,9 +1,18 @@
 
-9metaheuristics.generators.SimulatedAnnealing#getTrace()[Fh
-\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javaŸ Ÿ("1*%
+emetaheuristics.generators.MultiobjectiveHillClimbingDistance#getReference()Lproblem/definition/State;x
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java ("1*ë
 1
-¡	 ¡("
+	 (©
+¦
 
-¡ ¡(
-""B0.
-,metaheuristics.generators.SimulatedAnnealingH
+	 (
+%0problem.definition.State"__id*r
+
+__unknown_file (V*T>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
+stateReferenceHC".
+
+ ( 
+
+%0problem.definition.StateB@>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistanceH

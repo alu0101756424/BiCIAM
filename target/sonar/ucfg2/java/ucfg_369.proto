@@ -1,18 +1,18 @@
 
-\metaheuristics.generators.DistributionEstimationAlgorithm#getListReference()Ljava/util/List;u
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.javaÑ Ñ($"1*Ñ
+„metaheuristics.generators.DistributionEstimationAlgorithm#getDistributionType()Levolutionary_algorithms/complement/DistributionType;u
+iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java… …(,"1*ž
 1
-Ò	 Ò(™
-–
+†	 †(Á
+¾
 
-Ò	 Ò(
-%0java.util.List"__id*l
+†	 †(9
+%03evolutionary_algorithms.complement.DistributionType"__id*o
 
-__unknown_file (P*N;
-9metaheuristics.generators.DistributionEstimationAlgorithm"
-referenceList"$
+__unknown_file (S*Q;
+9metaheuristics.generators.DistributionEstimationAlgorithm"
+distributionType"I
 
-Ò Ò(
-
-%0java.util.ListB=;
+† †(;
+9
+%03evolutionary_algorithms.complement.DistributionTypeB=;
 9metaheuristics.generators.DistributionEstimationAlgorithmH

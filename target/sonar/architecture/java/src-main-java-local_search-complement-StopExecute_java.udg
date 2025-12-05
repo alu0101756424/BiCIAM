@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764948091806*java2.Bù
+1.0alu0101756424_BiCIAMJavaFrontend"1764954062083*java2.Bè
 ;
 6src/main/java/local_search/complement/StopExecute.java2
 	
@@ -17,8 +17,8 @@ module-key5
 #com.example:local_search.complement9
 )
 #local_search.complement.StopExecute11
-
-class12
+
+	interface12
 
 access13
 
@@ -27,8 +27,8 @@ module-key5
 simple-name15
 
 StopExecute16
-O
-Ilocal_search.complement.StopExecute#stopIterations(II)Ljava/lang/Boolean;18
+=
+7local_search.complement.StopExecute#stopIterations(II)Z18
 
 method19
 
@@ -49,22 +49,10 @@ Ilocal_search.complement.StopExecute#stopIterations(II)Ljava/lang/Boolean;18
 
 5
 6jÑ
-B
-17<
-171819 *
-1 (210:7B
-
-
-13
-14
-
-
-15
-20
 >
 108
 101112 *
-1 (:7B
+1 (:7B
 
 
 13
@@ -73,3 +61,15 @@ B
 
 15
 16
+B
+17<
+171819 *
+1 (210:7B
+
+
+13
+14
+
+
+15
+20

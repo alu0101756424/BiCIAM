@@ -1,7 +1,15 @@
 
-3metaheuristics.generators.InstanceEE#isTerminate()Z^
-TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/InstanceEE.java ("1*!
-1	 ("
- (
-""B(&
-$metaheuristics.generators.InstanceEEHX
+`metaheuristics.generators.EvolutionStrategies#getType()Lmetaheuristics/generators/GeneratorType;g
+]C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/EvolutionStrategies.javam m("1*ñ
+1n	 n(¤
+¡
+n	 n(-
+%0'metaheuristics.generators.GeneratorType"__id*`
+
+__unknown_file (D*B/
+-metaheuristics.generators.EvolutionStrategies"
+generatorType";
+n n(/
+-
+%0'metaheuristics.generators.GeneratorTypeB1/
+-metaheuristics.generators.EvolutionStrategiesH

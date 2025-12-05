@@ -61,7 +61,9 @@ public class MultiobjectiveHillClimbingDistance extends Generator{
 			Strategy.getStrategy().listRefPoblacFinal.add(stateReferenceHC.clone());
 			distanceSolution.add(new Double(0));
 		}
-		ifacceptCandidate = new FactoryAcceptCandidate();
+		if (ifacceptCandidate == null) {
+			ifacceptCandidate = new FactoryAcceptCandidate();
+		}
 		AcceptableCandidate candidate = ifacceptCandidate.createAcceptCandidate(typeAcceptation);
 		State lastState = Strategy.getStrategy().listRefPoblacFinal.get(Strategy.getStrategy().listRefPoblacFinal.size()-1);
 		List<State> neighborhood = new ArrayList<State>();

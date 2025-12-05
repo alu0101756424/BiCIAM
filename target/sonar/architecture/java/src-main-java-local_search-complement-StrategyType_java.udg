@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764948089298*java2.B·
+1.0alu0101756424_BiCIAMJavaFrontend"1764954059587*java2.B·
 <
 7src/main/java/local_search/complement/StrategyType.java2
 	
@@ -38,19 +38,19 @@ l
 flocal_search.complement.StrategyType#valueOf(Ljava/lang/String;)Llocal_search/complement/StrategyType;22
 
 valueOf23
-/
-)local_search.complement.StrategyType.TABU25
+1
++local_search.complement.StrategyType.NORMAL25
 
 field26
-
-
-TABU27
+
+NORMAL27
 
 calls28
-1
-+local_search.complement.StrategyType.NORMAL30
-
-NORMAL31J#
+/
+)local_search.complement.StrategyType.TABU30
+
+
+TABU31J#
 !
 1
 12
@@ -70,7 +70,7 @@ flocal_search.complement.StrategyType#valueOf(Ljava/lang/String;)Llocal_search/c
 6
 210
 212219 *
-1 (210:7B
+1 (210:7B
 
 
 15
@@ -78,23 +78,23 @@ flocal_search.complement.StrategyType#valueOf(Ljava/lang/String;)Llocal_search/c
 6
 170
 171819 *
-1 (210:7B
+1 (210:7B
 
 
 15
 20
 6
-240
-242526 *
-1	 	(210:7B
+290
+293026 *
+1 (210:7B
 
 
 15
-27
+31
 >
 108
 101112 *
-1 (:7B
+1 (:7B
 
 
 13
@@ -104,22 +104,22 @@ flocal_search.complement.StrategyType#valueOf(Ljava/lang/String;)Llocal_search/c
 15
 16
 6
-290
-293026 *
-1	 	(210:7B
+240
+242526 *
+1 (210:7B
 
 
 15
-31rl
+27rl
 
 241028*
-1	 	(
+1 (
 
 241028*
-1	 	(
+1 (
 
 291028*
-1	 	(
+1 (
 
 291028*
-1	 	(
+1 (

@@ -1,7 +1,62 @@
 
-Imetaheuristics.generators.SimulatedAnnealing#getSonList()Ljava/util/List;f
-\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javaz z("1*!
-1|	 |("
-| |(
-""B0.
-,metaheuristics.generators.SimulatedAnnealingH
+Ometaheuristics.generators.MultiobjectiveHillClimbingDistance#%field_initializer
+__unknown_file ("1*Š
+1 («¨
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java0 (@
+%0java.util.ArrayList"java.util.ArrayListÉ
+Æ
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java, (B
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList‚
+ÿ
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java (CV>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
+listStateReference"__id*'
+ (
+
+%0java.util.ArrayList«¨
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java' (7
+%2java.util.ArrayList"java.util.ArrayListÉ
+Æ
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java# (9
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListù
+ö
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java (:M>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
+	listTrace"__id*'
+ (
+
+%2java.util.ArrayList«¨
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java( (8
+%4java.util.ArrayList"java.util.ArrayListÉ
+Æ
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java$ (:
+%5"java.util.ArrayList#<init>()V*'
+ (
+
+%4java.util.ArrayListü
+ù
+v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java (;P>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
+visitedState"__id*'
+ (
+
+%4java.util.ArrayList"Œ
+u
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java ÿ(
+implicit returnB@>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance

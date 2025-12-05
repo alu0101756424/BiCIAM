@@ -1,45 +1,18 @@
 
-Emetaheuristics.generators.MultiobjectiveTabuSearch#%field_initializer
-__unknown_file ("1*·
+[metaheuristics.generators.MultiobjectiveTabuSearch#getReference()Lproblem/definition/State;l
+bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java ("1*á
+1
+€	 €(Ÿ
+œ
 
-1 (¡ž
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java1 (A
-%0java.util.ArrayList"java.util.ArrayList¿
-¼
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java- (C
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListî
-ë
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java (DL4
-2metaheuristics.generators.MultiobjectiveTabuSearch"
-listStateReference"__id*'
- (
-
-%0java.util.ArrayList¡ž
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java!% !(5
-%2java.util.ArrayList"java.util.ArrayList¿
-¼
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java!! !(7
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayListå
-â
-l
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java! !(8C4
-2metaheuristics.generators.MultiobjectiveTabuSearch"
-	listTrace"__id*'
- (
-
-%2java.util.ArrayList"‚
-k
-bC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveTabuSearch.java º(
-implicit returnB64
-2metaheuristics.generators.MultiobjectiveTabuSearch
+€	 €(
+%0problem.definition.State"__id*h
+
+__unknown_file (L*J4
+2metaheuristics.generators.MultiobjectiveTabuSearch"
+stateReferenceTS".
+
+€ €( 
+
+%0problem.definition.StateB64
+2metaheuristics.generators.MultiobjectiveTabuSearchH

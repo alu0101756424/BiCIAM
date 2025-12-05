@@ -1,16 +1,9 @@
 
-Lmetaheuristics.generators.Particle#getStatePBest()Lproblem/definition/State;\
-RC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/Particle.java) )("1*Å
-1*	 *(‡
-„
-*	 *(
-%0problem.definition.State"__id*R
-
-__unknown_file (6*4$
-"metaheuristics.generators.Particle"
+Kmetaheuristics.generators.Particle#getReference()Lproblem/definition/State;^
+RC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/Particle.java¦ ¦("1*%
+1
+¨	 ¨("
 
-statePBest",
-* *( 
-
-%0problem.definition.StateB&$
+¨ ¨(
+""B&$
 "metaheuristics.generators.ParticleH

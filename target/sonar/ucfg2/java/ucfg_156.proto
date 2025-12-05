@@ -1,15 +1,9 @@
 
-Mmetaheuristics.generators.TabuSearch#getReference()Lproblem/definition/State;^
-TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.javaW W("1*Í
-1X	 X(
-Œ
-X	 X(
-%0problem.definition.State"__id*Z
-
-__unknown_file (>*<&
-$metaheuristics.generators.TabuSearch"
-stateReferenceTS",
-X X( 
-
-%0problem.definition.StateB(&
+Ametaheuristics.generators.TabuSearch#getSonList()Ljava/util/List;`
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java— —("1*%
+1
+™	 ™("
+
+™ ™(
+""B(&
 $metaheuristics.generators.TabuSearchH

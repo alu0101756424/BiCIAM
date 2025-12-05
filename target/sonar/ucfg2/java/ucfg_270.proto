@@ -1,9 +1,52 @@
 
-?metaheuristics.generators.Particle#getSonList()Ljava/util/List;^
-RC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/Particle.javaæ æ("1*%
-1
-¿	 ¿("
-
-¿ ¿(
-""B&$
-"metaheuristics.generators.ParticleH
+Ñlocal_search.acceptation_type.AcceptNotBadU#acceptCandidate(Lproblem/definition/State;Lproblem/definition/State;)Ljava/lang/Boolean;e
+[C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/local_search/acceptation_type/AcceptNotBadU.java (""startingBlock*≤
+startingBlock" (Lõ
+ò
+
+ 
+(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*F
+
+__unknown_file (*
+(
+stateCurrentproblem.definition.Stateh
+f
+) (5(
+stateCurrentproblem.definition.State"__annotation*"
+
+__unknown_file (
+
+%0ù
+ö
+
+ 
+(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*H
+
+__unknown_file (,
+*
+stateCandidateproblem.definition.Statej
+h
+= (K*
+stateCandidateproblem.definition.State"__annotation*"
+
+__unknown_file (
+
+%1*
+1*
+1 ("
+ (2:4
+# (6(
+stateCurrentproblem.definition.State:6
+7 (K*
+stateCandidateproblem.definition.StateB/-
++local_search.acceptation_type.AcceptNotBadUH

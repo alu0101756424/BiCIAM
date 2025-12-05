@@ -1,15 +1,9 @@
 
-Umetaheuristics.generators.SimulatedAnnealing#getReference()Lproblem/definition/State;f
-\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javaR R("1*Õ
-1S	 S(—
-”
-S	 S(
-%0problem.definition.State"__id*b
-
-__unknown_file (F*D.
-,metaheuristics.generators.SimulatedAnnealing"
-stateReferenceSA",
-S S( 
-
-%0problem.definition.StateB0.
-,metaheuristics.generators.SimulatedAnnealingH
+9metaheuristics.generators.SimulatedAnnealing#getWeight()Fh
+\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.java‡ ‡("1*%
+1
+‰	 ‰("
+
+‰ ‰(
+""B0.
+,metaheuristics.generators.SimulatedAnnealingHX

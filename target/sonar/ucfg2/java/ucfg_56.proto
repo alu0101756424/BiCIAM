@@ -1,15 +1,15 @@
 
-?problem.definition.Problem#getState()Lproblem/definition/State;T
-JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.java& &("1*¶
-1'	 '(y
-w
-'	 '(
-%0problem.definition.State"__id*E
+Sproblem.definition.Problem#getTypeProblem()Lproblem/definition/Problem$ProblemType;T
+JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.java. .(""1*Ú
+1/	 /(Ž
+‹
+/	 /(,
+%0&problem.definition.Problem$ProblemType"__id*K
 
-__unknown_file ()*'
-problem.definition.Problem"
-state",
-' '( 
-
-%0problem.definition.StateB
+__unknown_file (/*-
+problem.definition.Problem"
+typeProblem":
+/ /(.
+,
+%0&problem.definition.Problem$ProblemTypeB
 problem.definition.ProblemH

@@ -1,15 +1,15 @@
 
-Xproblem.definition.Problem#getTypeSolutionMethod()Lproblem/extension/TypeSolutionMethod;T
-JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.javaZ Z(0"1*›
-1[	 [(ì
-ê
-[	 [(*
-%0$problem.extension.TypeSolutionMethod"__id*R
+`problem.definition.Problem#getFactorySolutionMethod()Lfactory_interface/IFFactorySolutionMethod;T
+JC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/Problem.java`  `(8"1*Í
+1a	 a(õ
+ò
+a	 a(/
+%0)factory_interface.IFFactorySolutionMethod"__id*U
 
-__unknown_file (6*4
-problem.definition.Problem"
-typeSolutionMethod"8
-[ [(,
-*
-%0$problem.extension.TypeSolutionMethodB
+__unknown_file (9*7
+problem.definition.Problem"
+factorySolutionMethod"=
+a a(1
+/
+%0)factory_interface.IFFactorySolutionMethodB
 problem.definition.ProblemH

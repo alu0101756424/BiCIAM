@@ -1,82 +1,45 @@
 
-Tproblem.extension.MetricasMultiobjetivo#TasaError(Ljava/util/List;Ljava/util/List;)Da
-WC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/extension/MetricasMultiobjetivo.java ("5*þ
-4 ((¡
-ž
- (/
-%2problem.definition.State"
-__arrayGet*B
-
-__unknown_file (&
-$
-solutionsFPcurrentjava.util.List*"
-
-__unknown_file (
-""x
-v
- (0&
+Hmetaheuristics.generators.MultiCaseSimulatedAnnealing#%field_initializer
+__unknown_file ("1*Ò
 
-solutionVOproblem.definition.State"__id*<
-
-__unknown_file ( 
-
-%2problem.definition.StateË
-È
- (,
-%3boolean"]problem.extension.MetricasMultiobjetivo#Contains(Lproblem/definition/State;Ljava/util/List;)Z*G
-
-__unknown_file (+)
-'problem.extension.MetricasMultiobjetivo*D
-
-__unknown_file ((
-&
-
-solutionVOproblem.definition.State*?
-
-__unknown_file (#
-!
-solutionsFPtruejava.util.List*
-5*ú
-5 ({y
- (/	
-%0int"java.util.List#size()I*B
-
-__unknown_file (&
-$
-solutionsFPcurrentjava.util.List2size()f
-d
- (/
-%1boolean"	__compare*
- (
-<*
- (
-""*
- (/
-	
-%0int*
-4
-1*†
-1 ({y
- (4	
-%4int"java.util.List#size()I*B
-
-__unknown_file (&
-$
-solutionsFPcurrentjava.util.List2size()f
-d
- (4
-%5float"__calculate*
- (
-/*
- (
-""*
- (4
-	
-%4int"
- (
-"":0
- (8$
-solutionsFPcurrentjava.util.List:-
-9 (T!
-solutionsFPtruejava.util.ListB+)
-'problem.extension.MetricasMultiobjetivoHX
+1 (¤¡
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java!1 !(A
+%0java.util.ArrayList"java.util.ArrayListÂ
+¿
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java!- !(C
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayListô
+ñ
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java! !(DO7
+5metaheuristics.generators.MultiCaseSimulatedAnnealing"
+listStateReference"__id*'
+ (
+
+%0java.util.ArrayList¤¡
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java#% #(5
+%2java.util.ArrayList"java.util.ArrayListÂ
+¿
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java#! #(7
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListë
+è
+o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java# #(8F7
+5metaheuristics.generators.MultiCaseSimulatedAnnealing"
+	listTrace"__id*'
+ (
+
+%2java.util.ArrayList"…
+n
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java  (
+implicit returnB97
+5metaheuristics.generators.MultiCaseSimulatedAnnealing

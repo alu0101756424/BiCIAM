@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764948092311*java2.B N
+1.0alu0101756424_BiCIAMJavaFrontend"1764954062552*java2.BŽN
 8
 3src/main/java/metaheurictics/strategy/Strategy.java2
 	
@@ -218,8 +218,8 @@ Bmetaheuristics.generators.MultiGenerator#clone()Ljava/lang/Object;160
 .metaheurictics.strategy.Strategy#initialize()V162
 D
 =metaheurictics.strategy.Strategy#update(Ljava/lang/Integer;)V164
-P
-Ilocal_search.complement.StopExecute#stopIterations(II)Ljava/lang/Boolean;166
+>
+7local_search.complement.StopExecute#stopIterations(II)Z166
 H
 Ametaheurictics.strategy.Strategy#calculateOffLinePerformance(FI)V168
 ]
@@ -549,6 +549,9 @@ B
 
 133
 13313429
+
+165
+16516629
 G
 124@
 124125122 *
@@ -731,9 +734,6 @@ I
 
 224
 22422529
-
-165
-16516629
 
 240
 24024129

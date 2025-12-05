@@ -1,8 +1,47 @@
 
-Kmetaheuristics.generators.MultiobjectiveStochasticHillClimbing#getWeight()Fx
-nC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveStochasticHillClimbing.javaj j("1*!
-1l	 l(
-"
-l l(
-""BB@
->metaheuristics.generators.MultiobjectiveStochasticHillClimbingHX
+7metaheuristics.generators.TabuSearch#%field_initializer
+__unknown_file ("1*Ÿ	
+1 (ìê
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java!1 !(A
+%0java.util.ArrayList"java.util.ArrayList±
+Æ
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java!- !(C
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList“
+œ
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java! !(D>&
+$metaheuristics.generators.TabuSearch"
+listStateReference"__id*'
+ (
+
+%0java.util.ArrayList¿
+Ω
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java' '(6A&
+$metaheuristics.generators.TabuSearch"
+listCountBetterGender"__id*
+ (
+""∫
+∑
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java( ((0;&
+$metaheuristics.generators.TabuSearch"
+listCountGender"__id*
+ (
+""¥
+±
+^
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java) )(35&
+$metaheuristics.generators.TabuSearch"
+	listTrace"__id*
+ (
+"""t
+]
+TC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/TabuSearch.java √(
+implicit returnB(&
+$metaheuristics.generators.TabuSearch
