@@ -1,0 +1,709 @@
+
+1.0alu0101756424_BiCIAMJavaFrontend"1764948093760*java2.B¦
+B
+=src/test/java/metaheuristics/generators/HillClimbingTest.java2
+	
+type3
+	
+TEST4
+
+
+module-key5
+
+com.example6
+
+package8
+*
+%com.example:metaheuristics.generators9
+0
+*metaheuristics.generators.HillClimbingTest11
+
+class12
+
+access13
+
+public14
+
+simple-name15
+
+HillClimbingTest16
+=
+7metaheuristics.generators.HillClimbingTest.hillClimbing18
+
+field19
+
+private20
+
+hillClimbing21
+,
+&metaheuristics.generators.HillClimbing23
+
+unknown24
+
+is type25
+
+
+uses26
+9
+3metaheuristics.generators.HillClimbingTest.strategy28
+
+strategy29
+&
+ metaheurictics.strategy.Strategy31
+
+org.mockito.Mock33
+
+annotated by34
+8
+2metaheuristics.generators.HillClimbingTest.problem36
+
+problem37
+ 
+problem.definition.Problem39
+9
+3metaheuristics.generators.HillClimbingTest.operator41
+
+operator42
+!
+problem.definition.Operator44
+=
+7metaheuristics.generators.HillClimbingTest.codification46
+
+codification47
+%
+problem.definition.Codification49
+6
+0metaheuristics.generators.HillClimbingTest.state51
+
+state52
+
+problem.definition.State54
+9
+3metaheuristics.generators.HillClimbingTest#setUp()V56
+
+method57
+
+setUp58
+&
+ org.junit.jupiter.api.BeforeEach60
+$
+org.mockito.MockitoAnnotations62
+
+
+references63
+[
+Uorg.mockito.MockitoAnnotations#openMocks(Ljava/lang/Object;)Ljava/lang/AutoCloseable;65
+
+calls66
+I
+Cmetaheuristics.generators.HillClimbingTest#testGettersAndSetters()V68
+
+testGettersAndSetters69
+ 
+org.junit.jupiter.api.Test71
+
+returns72
+V
+Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;74
+P
+Jmetaheurictics.strategy.Strategy#setProblem(Lproblem/definition/Problem;)V76
+*
+$org.mockito.stubbing.OngoingStubbing78
+o
+iorg.mockito.stubbing.OngoingStubbing#thenReturn(Ljava/lang/Object;)Lorg/mockito/stubbing/OngoingStubbing;80
+
+org.mockito.Mockito82
+X
+Rorg.mockito.Mockito#when(Ljava/lang/Object;)Lorg/mockito/stubbing/OngoingStubbing;84
+,
+&problem.definition.Problem$ProblemType86
+Y
+Sproblem.definition.Problem#getTypeProblem()Lproblem/definition/Problem$ProblemType;88
+6
+0problem.definition.Problem$ProblemType.Maximizar90
+S
+Mproblem.definition.Problem#getCodification()Lproblem/definition/Codification;92
+9
+3problem.definition.Codification#getVariableCount()I94
+:
+4metaheuristics.generators.HillClimbing#setWeight(F)V96
+i
+cmetaheuristics.generators.HillClimbing#setGeneratorType(Lmetaheuristics/generators/GeneratorType;)V98
+.
+'metaheuristics.generators.GeneratorType100
+;
+4metaheuristics.generators.GeneratorType.HillClimbing102
+'
+ org.junit.jupiter.api.Assertions104
+[
+Torg.junit.jupiter.api.Assertions#assertEquals(Ljava/lang/Object;Ljava/lang/Object;)V106
+i
+bmetaheuristics.generators.HillClimbing#getGeneratorType()Lmetaheuristics/generators/GeneratorType;108J#
+!
+1
+12
+
+3
+4
+
+5
+6Z
+
+7
+7982
+
+
+5
+6j±	
+
+59
+596024
+
+32
+323324
+
+107
+10710824
+
+89
+899024
+
+61
+616224
+B
+17<
+171819 *
+1 (210:7B
+
+
+13
+20
+
+
+15
+21
+B
+67<
+676857 *
+1A A(210:7B
+
+
+13
+14
+
+
+15
+69
+B
+55<
+555657 *
+1) )(210:7B
+
+
+13
+14
+
+
+15
+58
+
+22
+222324
+B
+50<
+505119 *
+1& &(210:7B
+
+
+13
+20
+
+
+15
+52
+B
+27<
+272819 *
+1 (210:7B
+
+
+13
+20
+
+
+15
+29
+
+73
+737424
+
+87
+878824
+B
+35<
+353619 *
+1 (210:7B
+
+
+13
+20
+
+
+15
+37
+B
+45<
+454619 *
+1# #(210:7B
+
+
+13
+20
+
+
+15
+47
+
+75
+757624
+B
+40<
+404119 *
+1   (210:7B
+
+
+13
+20
+
+
+15
+42
+
+77
+777824
+
+91
+919224
+
+95
+959624
+
+38
+383924
+
+99
+9910024
+
+79
+798024
+
+53
+535424
+
+85
+858624
+
+70
+707124
+
+48
+484924
+
+81
+818224
+
+105
+10510624
+
+30
+303124
+
+93
+939424
+
+64
+646524
+
+103
+10310424
+
+97
+979824
+>
+108
+101112 *
+1 (:7B
+
+
+13
+14
+
+
+15
+16
+
+83
+838424
+
+101
+10110224
+
+43
+434424r¦
+
+172225*
+1 (
+
+172226*
+1 (
+
+172226*
+1 (&
+
+273025*
+1 (
+
+273234*
+1 (
+
+
+273226*
+1 (
+
+
+273026*
+1 (
+
+273026*
+1 (
+
+353825*
+1 (
+
+353234*
+1 (
+
+
+353226*
+1 (
+
+
+353826*
+1 (
+
+353826*
+1 (
+
+404325*
+1! !(
+
+403234*
+1   (
+
+
+403226*
+1   (
+
+
+404326*
+1! !(
+
+404326*
+1! !(
+
+454825*
+1$ $(
+
+453234*
+1# #(
+
+
+453226*
+1# #(
+
+
+454826*
+1$ $(
+
+454826*
+1$ $(&
+
+505325*
+1' '(
+
+503234*
+1& &(
+
+
+503226*
+1& &(
+
+
+505326*
+1' '(
+
+505326*
+1' '(
+
+555934*
+1) )(
+
+555926*
+1) )(
+
+556163*
+1+	 +(
+
+556466*
+1+ +(%
+
+556126*
+1+	 +(
+
+551026*
+1+& +(*
+
+551063*
+1+& +(*
+
+677034*
+1A A(
+
+
+677026*
+1A A(
+
+
+673025*
+1P P(
+
+673026*
+1P	 P(
+
+673072*
+1P! P()
+
+673063*
+1P! P()
+
+677366*
+1P* P(5
+
+673026*
+1P! P()
+
+673063*
+1Q	 Q(
+
+677566*
+1Q Q( 
+
+673826*
+1Q! Q((
+
+673563*
+1Q! Q((
+
+677772*
+1R	 R(
+
+677763*
+1R	 R(
+
+677966*
+1R( R(2
+
+677772*
+1R	 R(
+
+678163*
+1R	 R(
+
+678366*
+1R	 R(
+
+678572*
+1R R(
+
+673863*
+1R R(
+
+678766*
+1R R($
+
+673563*
+1R R(
+
+673826*
+1R R(
+
+673563*
+1R R(
+
+678526*
+1R3 R(>
+
+678563*
+1R3 R(>
+
+678526*
+1R? R(H
+
+678963*
+1R? R(H
+
+677772*
+1S	 S(
+
+677763*
+1S	 S(
+
+677966*
+1S) S(3
+
+677772*
+1S	 S(
+
+678163*
+1S	 S(
+
+678366*
+1S	 S(
+
+674872*
+1S S(
+
+673863*
+1S S(
+
+679166*
+1S S(%
+
+673563*
+1S S(
+
+673826*
+1S S(
+
+673563*
+1S S(
+
+674826*
+1S4 S(@
+
+674563*
+1S4 S(@
+
+677772*
+1T	 T(
+
+677763*
+1T	 T(
+
+677966*
+1T/ T(9
+
+677772*
+1T	 T(
+
+678163*
+1T	 T(
+
+678366*
+1T	 T(
+
+674863*
+1T T(
+
+679366*
+1T T(+
+
+674563*
+1T T(
+
+674826*
+1T T(
+
+674563*
+1T T(
+
+672226*
+1V	 V(
+
+671763*
+1V	 V(
+
+672266*
+1V V((
+
+672263*
+1X	 X(
+
+679566*
+1X X(
+
+671763*
+1X	 X(
+
+672226*
+1X	 X(
+
+671763*
+1X	 X(
+
+672263*
+1]	 ](
+
+679766*
+1] ](&
+
+671763*
+1]	 ](
+
+672226*
+1]	 ](
+
+671763*
+1]	 ](
+
+679926*
+1]' ](4
+
+679926*
+1]5 ](A
+
+6710163*
+1]5 ](A
+
+6710363*
+1^	 ^(
+
+6710566*
+1^	 ^(
+
+679926*
+1^ ^(#
+
+679926*
+1^$ ^(0
+
+6710163*
+1^$ ^(0
+
+679972*
+1^2 ^(>
+
+672263*
+1^2 ^(>
+
+6710766*
+1^? ^(O
+
+671763*
+1^2 ^(>
+
+672226*
+1^2 ^(>
+
+671763*
+1^2 ^(>

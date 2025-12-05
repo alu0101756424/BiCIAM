@@ -1,0 +1,271 @@
+
+1.0alu0101756424_BiCIAMJavaFrontend"1764948093664*java2.B®
+?
+:src/test/java/problem/definition/ObjetiveFunctionTest.java2
+	
+type3
+	
+TEST4
+
+
+module-key5
+
+com.example6
+
+package8
+#
+com.example:problem.definition9
+-
+'problem.definition.ObjetiveFunctionTest11
+
+class12
+
+access13
+
+public14
+
+simple-name15
+
+ObjetiveFunctionTest16
+F
+@problem.definition.ObjetiveFunctionTest#testGettersAndSetters()V18
+
+method19
+
+testGettersAndSetters20
+ 
+org.junit.jupiter.api.Test22
+
+unknown23
+
+annotated by24
+
+
+uses25
+)
+#problem.definition.ObjetiveFunction27
+
+is type28
+
+calls29
+/
+)problem.definition.ObjetiveFunctionTest$131
+
+	protected32
+h
+bproblem.definition.ObjetiveFunctionTest$1#Evaluation(Lproblem/definition/State;)Ljava/lang/Double;34
+
+
+Evaluation35
+
+problem.definition.State37
+
+	has param38
+
+
+references39
+7
+1problem.definition.ObjetiveFunction#setWeight(F)V41
+&
+ org.junit.jupiter.api.Assertions43
+9
+3org.junit.jupiter.api.Assertions#assertEquals(DDD)V45
+6
+0problem.definition.ObjetiveFunction#getWeight()F47
+c
+]problem.definition.ObjetiveFunction#setTypeProblem(Lproblem/definition/Problem$ProblemType;)V49
+,
+&problem.definition.Problem$ProblemType51
+6
+0problem.definition.Problem$ProblemType.Maximizar53
+Z
+Torg.junit.jupiter.api.Assertions#assertEquals(Ljava/lang/Object;Ljava/lang/Object;)V55
+
+returns56
+b
+\problem.definition.ObjetiveFunction#getTypeProblem()Lproblem/definition/Problem$ProblemType;58J#
+!
+1
+12
+
+3
+4
+
+5
+6Z
+
+7
+7982
+
+
+5
+6jð
+
+26
+262723
+B
+17<
+171819 *
+1 (210:7B
+
+
+13
+14
+
+
+15
+20
+
+57
+575823
+>
+108
+101112 *
+1	 	(":7B
+
+
+13
+14
+
+
+15
+16
+6
+300
+303112 *
+1< (=217:7B
+
+
+13
+32
+
+36
+363723
+
+50
+505123
+
+52
+525323
+
+21
+212223
+B
+33<
+333419 *
+1 (230:7B
+
+
+13
+14
+
+
+15
+35
+
+40
+404123
+
+54
+545523
+
+44
+444523
+
+42
+424323
+
+46
+464723
+
+48
+484923r
+
+172124*
+1 (
+
+
+172125*
+1 (
+
+
+172628*
+1 ("
+
+172625*
+1	 (
+
+172629*
+1) (9
+
+333638*
+1& (+
+
+333628*
+1, (1
+
+333625*
+1& (+
+
+172639*
+1	 (
+
+174029*
+1 (
+
+174239*
+1	 (
+
+174429*
+1	 (
+
+172639*
+1 ($
+
+174629*
+1% (.
+
+172639*
+1	 (
+
+174829*
+1 ( 
+
+175025*
+1! (,
+
+175039*
+1! (,
+
+175025*
+1- (6
+
+175239*
+1- (6
+
+174239*
+1	 (
+
+175429*
+1	 (
+
+175025*
+1 (!
+
+175039*
+1 (!
+
+175025*
+1" (+
+
+175239*
+1" (+
+
+175056*
+1- (5
+
+172639*
+1- (5
+
+175729*
+16 (D

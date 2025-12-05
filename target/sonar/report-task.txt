@@ -1,0 +1,7 @@
+organization=alu0101756424
+projectKey=alu0101756424_BiCIAM
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.77094
+dashboardUrl=https://sonarcloud.io/dashboard?id=alu0101756424_BiCIAM
+ceTaskId=AZrvGt81CT09RmWY76rz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZrvGt81CT09RmWY76rz

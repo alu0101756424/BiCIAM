@@ -9,7 +9,8 @@ public class StateTest {
     @Test
     public void testStateInitialization() {
         State state = new State();
-        assertNull(state.getCode());
+        assertNotNull(state.getCode());
+        assertTrue(state.getCode().isEmpty());
         assertEquals(0, state.getNumber());
     }
 

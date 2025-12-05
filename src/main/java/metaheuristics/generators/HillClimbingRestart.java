@@ -53,7 +53,7 @@ public class HillClimbingRestart extends Generator{
 			this.typeCandidate = CandidateType.SmallerCandidate;
 		}
 		this.candidatevalue = new CandidateValue();
-		this.Generatortype = GeneratorType.HillClimbing;
+		this.Generatortype = GeneratorType.HillClimbingRestart;
 		this.weight = 50;
 		listTrace[0] = this.weight;
 		listCountBetterGender[0] = 0;

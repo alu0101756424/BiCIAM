@@ -1,0 +1,189 @@
+
+1.0alu0101756424_BiCIAMJavaFrontend"1764948093845*java2.Bæ
+<
+7src/test/java/metaheurictics/strategy/StrategyTest.java2
+	
+type3
+	
+TEST4
+
+
+module-key5
+
+com.example6
+
+package8
+(
+#com.example:metaheurictics.strategy9
+*
+$metaheurictics.strategy.StrategyTest11
+
+class12
+
+access13
+
+public14
+
+simple-name15
+
+StrategyTest16
+;
+5metaheurictics.strategy.StrategyTest#testSingleton()V18
+
+method19
+
+testSingleton20
+ 
+org.junit.jupiter.api.Test22
+
+unknown23
+
+annotated by24
+
+
+uses25
+&
+ metaheurictics.strategy.Strategy27
+
+is type28
+
+returns29
+
+
+references30
+V
+Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;32
+
+calls33
+&
+ org.junit.jupiter.api.Assertions35
+I
+Corg.junit.jupiter.api.Assertions#assertNotNull(Ljava/lang/Object;)V37
+X
+Rorg.junit.jupiter.api.Assertions#assertSame(Ljava/lang/Object;Ljava/lang/Object;)V39J#
+!
+1
+12
+
+3
+4
+
+5
+6Z
+
+7
+7982
+
+
+5
+6jü
+
+21
+212223
+
+26
+262723
+>
+108
+101112 *
+1 (:7B
+
+
+13
+14
+
+
+15
+16
+B
+17<
+171819 *
+1 (210:7B
+
+
+13
+14
+
+
+15
+20
+
+36
+363723
+
+34
+343523
+
+38
+383923
+
+31
+313223ræ
+
+172124*
+1 (
+
+
+172125*
+1 (
+
+
+172628*
+1
+ 
+(
+
+172625*
+1
+	 
+(
+
+172629*
+1
+ 
+(
+
+172630*
+1
+ 
+(
+
+173133*
+1
+  
+(+
+
+172625*
+1
+ 
+(
+
+172628*
+1 (
+
+172625*
+1	 (
+
+172629*
+1 (
+
+172630*
+1 (
+
+173133*
+1  (+
+
+172625*
+1 (
+
+173430*
+1	 (
+
+173633*
+1	 (
+
+173430*
+1	 (
+
+173833*
+1	 (

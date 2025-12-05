@@ -1,0 +1,11 @@
+metaheuristics\generators\ParticleSwarmOptimizationTest.class
+problem\definition\ObjetiveFunctionTest.class
+evolutionary_algorithms\complement\ProbabilisticSamplingTest.class
+problem\definition\StateTest.class
+local_search\acceptation_type\AcceptationTypeTest.class
+metaheuristics\generators\GeneratorsTest.class
+metaheuristics\generators\MultiGeneratorTest.class
+metaheurictics\strategy\StrategyTest.class
+metaheuristics\generators\HillClimbingTest.class
+problem\definition\ObjetiveFunctionTest$1.class
+problem\definition\ProblemTest.class
