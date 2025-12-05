@@ -1,0 +1,15 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+build.log
+build_error.log
+build_error_utf8.log
+build_result.log
