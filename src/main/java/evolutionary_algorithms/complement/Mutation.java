@@ -7,3 +7,4 @@ public abstract class Mutation {
 	public abstract State mutation (State state, double PM);
 
 }
+

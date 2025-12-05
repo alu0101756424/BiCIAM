@@ -1,0 +1,462 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Package List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Hierarchical Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Class Hierarchy}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Class Index}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Class List}{7}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Namespace Documentation}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Package factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Detailed Description}{11}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Package factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method}{11}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Detailed Description}{12}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {5}Class Documentation}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Acceptable\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Interface Reference}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Anyone Class Reference}{14}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Member Function Documentation}{15}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}acceptCandidate()}{15}{subsubsection.5.2.1.1}%
+\contentsline {section}{\numberline {5.3}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{15}{section.5.3}%
+\contentsline {section}{\numberline {5.4}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Best Class Reference}{15}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Member Function Documentation}{16}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}acceptCandidate()}{16}{subsubsection.5.4.1.1}%
+\contentsline {section}{\numberline {5.5}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multicase Class Reference}{16}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Member Function Documentation}{17}{subsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.1.1}acceptCandidate()}{17}{subsubsection.5.5.1.1}%
+\contentsline {section}{\numberline {5.6}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bad Class Reference}{17}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Member Function Documentation}{18}{subsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.1.1}acceptCandidate()}{18}{subsubsection.5.6.1.1}%
+\contentsline {section}{\numberline {5.7}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}BadT Class Reference}{18}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Member Function Documentation}{19}{subsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.1.1}acceptCandidate()}{19}{subsubsection.5.7.1.1}%
+\contentsline {section}{\numberline {5.8}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}BadU Class Reference}{19}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Member Function Documentation}{20}{subsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {5.8.1.1}acceptCandidate()}{20}{subsubsection.5.8.1.1}%
+\contentsline {section}{\numberline {5.9}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dominated Class Reference}{21}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Member Function Documentation}{21}{subsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {5.9.1.1}acceptCandidate()}{21}{subsubsection.5.9.1.1}%
+\contentsline {section}{\numberline {5.10}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dominated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tabu Class Reference}{22}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Member Function Documentation}{22}{subsection.5.10.1}%
+\contentsline {subsubsection}{\numberline {5.10.1.1}acceptCandidate()}{22}{subsubsection.5.10.1.1}%
+\contentsline {section}{\numberline {5.11}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{23}{section.5.11}%
+\contentsline {section}{\numberline {5.12}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}AIOMutation Class Reference}{23}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Member Function Documentation}{24}{subsection.5.12.1}%
+\contentsline {subsubsection}{\numberline {5.12.1.1}mutation()}{24}{subsubsection.5.12.1.1}%
+\contentsline {section}{\numberline {5.13}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{24}{section.5.13}%
+\contentsline {section}{\numberline {5.14}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{25}{section.5.14}%
+\contentsline {section}{\numberline {5.15}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Value Class Reference}{25}{section.5.15}%
+\contentsline {section}{\numberline {5.16}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Codification Class Reference}{25}{section.5.16}%
+\contentsline {section}{\numberline {5.17}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Codification\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{25}{section.5.17}%
+\contentsline {section}{\numberline {5.18}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Complement\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{26}{section.5.18}%
+\contentsline {section}{\numberline {5.19}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover Class Reference}{26}{section.5.19}%
+\contentsline {section}{\numberline {5.20}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{26}{section.5.20}%
+\contentsline {section}{\numberline {5.21}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution Class Reference}{27}{section.5.21}%
+\contentsline {section}{\numberline {5.22}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estimation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Algorithm Class Reference}{27}{section.5.22}%
+\contentsline {subsection}{\numberline {5.22.1}Member Function Documentation}{29}{subsection.5.22.1}%
+\contentsline {subsubsection}{\numberline {5.22.1.1}awardUpdateREF()}{29}{subsubsection.5.22.1.1}%
+\contentsline {subsubsection}{\numberline {5.22.1.2}generate()}{29}{subsubsection.5.22.1.2}%
+\contentsline {subsubsection}{\numberline {5.22.1.3}getListCountBetterGender()}{29}{subsubsection.5.22.1.3}%
+\contentsline {subsubsection}{\numberline {5.22.1.4}getListCountGender()}{29}{subsubsection.5.22.1.4}%
+\contentsline {subsubsection}{\numberline {5.22.1.5}getReference()}{29}{subsubsection.5.22.1.5}%
+\contentsline {subsubsection}{\numberline {5.22.1.6}getReferenceList()}{30}{subsubsection.5.22.1.6}%
+\contentsline {subsubsection}{\numberline {5.22.1.7}getSonList()}{30}{subsubsection.5.22.1.7}%
+\contentsline {subsubsection}{\numberline {5.22.1.8}getTrace()}{30}{subsubsection.5.22.1.8}%
+\contentsline {subsubsection}{\numberline {5.22.1.9}getType()}{30}{subsubsection.5.22.1.9}%
+\contentsline {subsubsection}{\numberline {5.22.1.10}getWeight()}{30}{subsubsection.5.22.1.10}%
+\contentsline {subsubsection}{\numberline {5.22.1.11}setInitialReference()}{30}{subsubsection.5.22.1.11}%
+\contentsline {subsubsection}{\numberline {5.22.1.12}setWeight()}{30}{subsubsection.5.22.1.12}%
+\contentsline {subsubsection}{\numberline {5.22.1.13}updateReference()}{31}{subsubsection.5.22.1.13}%
+\contentsline {section}{\numberline {5.23}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Estimation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Algorithm\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{31}{section.5.23}%
+\contentsline {section}{\numberline {5.24}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{31}{section.5.24}%
+\contentsline {section}{\numberline {5.25}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}acceptation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dominance Class Reference}{32}{section.5.25}%
+\contentsline {section}{\numberline {5.26}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Evolution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Strategies Class Reference}{32}{section.5.26}%
+\contentsline {subsection}{\numberline {5.26.1}Member Function Documentation}{33}{subsection.5.26.1}%
+\contentsline {subsubsection}{\numberline {5.26.1.1}awardUpdateREF()}{33}{subsubsection.5.26.1.1}%
+\contentsline {subsubsection}{\numberline {5.26.1.2}generate()}{34}{subsubsection.5.26.1.2}%
+\contentsline {subsubsection}{\numberline {5.26.1.3}getListCountBetterGender()}{34}{subsubsection.5.26.1.3}%
+\contentsline {subsubsection}{\numberline {5.26.1.4}getListCountGender()}{34}{subsubsection.5.26.1.4}%
+\contentsline {subsubsection}{\numberline {5.26.1.5}getReference()}{34}{subsubsection.5.26.1.5}%
+\contentsline {subsubsection}{\numberline {5.26.1.6}getReferenceList()}{34}{subsubsection.5.26.1.6}%
+\contentsline {subsubsection}{\numberline {5.26.1.7}getSonList()}{34}{subsubsection.5.26.1.7}%
+\contentsline {subsubsection}{\numberline {5.26.1.8}getTrace()}{34}{subsubsection.5.26.1.8}%
+\contentsline {subsubsection}{\numberline {5.26.1.9}getType()}{35}{subsubsection.5.26.1.9}%
+\contentsline {subsubsection}{\numberline {5.26.1.10}getWeight()}{35}{subsubsection.5.26.1.10}%
+\contentsline {subsubsection}{\numberline {5.26.1.11}setInitialReference()}{35}{subsubsection.5.26.1.11}%
+\contentsline {subsubsection}{\numberline {5.26.1.12}setWeight()}{35}{subsubsection.5.26.1.12}%
+\contentsline {subsubsection}{\numberline {5.26.1.13}updateReference()}{35}{subsubsection.5.26.1.13}%
+\contentsline {section}{\numberline {5.27}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Evolution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Strategies\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{36}{section.5.27}%
+\contentsline {section}{\numberline {5.28}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factores\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ponderados Class Reference}{36}{section.5.28}%
+\contentsline {subsection}{\numberline {5.28.1}Member Function Documentation}{37}{subsection.5.28.1}%
+\contentsline {subsubsection}{\numberline {5.28.1.1}evaluationState()}{37}{subsubsection.5.28.1.1}%
+\contentsline {section}{\numberline {5.29}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factores\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ponderados\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{37}{section.5.29}%
+\contentsline {section}{\numberline {5.30}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{38}{section.5.30}%
+\contentsline {subsection}{\numberline {5.30.1}Member Function Documentation}{38}{subsection.5.30.1}%
+\contentsline {subsubsection}{\numberline {5.30.1.1}createAcceptCandidate()}{38}{subsubsection.5.30.1.1}%
+\contentsline {section}{\numberline {5.31}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{39}{section.5.31}%
+\contentsline {subsection}{\numberline {5.31.1}Member Function Documentation}{40}{subsection.5.31.1}%
+\contentsline {subsubsection}{\numberline {5.31.1.1}createSearchCandidate()}{40}{subsubsection.5.31.1.1}%
+\contentsline {section}{\numberline {5.32}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover Class Reference}{40}{section.5.32}%
+\contentsline {subsection}{\numberline {5.32.1}Member Function Documentation}{41}{subsection.5.32.1}%
+\contentsline {subsubsection}{\numberline {5.32.1.1}createCrossover()}{41}{subsubsection.5.32.1.1}%
+\contentsline {section}{\numberline {5.33}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution Class Reference}{41}{section.5.33}%
+\contentsline {subsection}{\numberline {5.33.1}Member Function Documentation}{42}{subsection.5.33.1}%
+\contentsline {subsubsection}{\numberline {5.33.1.1}createDistribution()}{42}{subsubsection.5.33.1.1}%
+\contentsline {section}{\numberline {5.34}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Father\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection Class Reference}{42}{section.5.34}%
+\contentsline {subsection}{\numberline {5.34.1}Member Function Documentation}{43}{subsection.5.34.1}%
+\contentsline {subsubsection}{\numberline {5.34.1.1}createSelectFather()}{43}{subsubsection.5.34.1.1}%
+\contentsline {section}{\numberline {5.35}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator Class Reference}{44}{section.5.35}%
+\contentsline {subsection}{\numberline {5.35.1}Member Function Documentation}{44}{subsection.5.35.1}%
+\contentsline {subsubsection}{\numberline {5.35.1.1}createGenerator()}{44}{subsubsection.5.35.1.1}%
+\contentsline {section}{\numberline {5.36}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Loader Class Reference}{45}{section.5.36}%
+\contentsline {section}{\numberline {5.37}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation Class Reference}{45}{section.5.37}%
+\contentsline {subsection}{\numberline {5.37.1}Member Function Documentation}{46}{subsection.5.37.1}%
+\contentsline {subsubsection}{\numberline {5.37.1.1}createMutation()}{46}{subsubsection.5.37.1.1}%
+\contentsline {section}{\numberline {5.38}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace Class Reference}{46}{section.5.38}%
+\contentsline {subsection}{\numberline {5.38.1}Member Function Documentation}{47}{subsection.5.38.1}%
+\contentsline {subsubsection}{\numberline {5.38.1.1}createReplace()}{47}{subsubsection.5.38.1.1}%
+\contentsline {section}{\numberline {5.39}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sampling Class Reference}{47}{section.5.39}%
+\contentsline {subsection}{\numberline {5.39.1}Member Function Documentation}{48}{subsection.5.39.1}%
+\contentsline {subsubsection}{\numberline {5.39.1.1}createSampling()}{48}{subsubsection.5.39.1.1}%
+\contentsline {section}{\numberline {5.40}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}method.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Solution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Method Class Reference}{48}{section.5.40}%
+\contentsline {subsection}{\numberline {5.40.1}Member Function Documentation}{49}{subsection.5.40.1}%
+\contentsline {subsubsection}{\numberline {5.40.1.1}createdSolutionMethod()}{49}{subsubsection.5.40.1.1}%
+\contentsline {section}{\numberline {5.41}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Father\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection Class Reference}{49}{section.5.41}%
+\contentsline {section}{\numberline {5.42}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generational\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace Class Reference}{50}{section.5.42}%
+\contentsline {subsection}{\numberline {5.42.1}Member Function Documentation}{51}{subsection.5.42.1}%
+\contentsline {subsubsection}{\numberline {5.42.1.1}replace()}{51}{subsubsection.5.42.1.1}%
+\contentsline {section}{\numberline {5.43}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator Class Reference}{52}{section.5.43}%
+\contentsline {section}{\numberline {5.44}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generators\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{53}{section.5.44}%
+\contentsline {section}{\numberline {5.45}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{53}{section.5.45}%
+\contentsline {section}{\numberline {5.46}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Genetic\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Algorithm Class Reference}{54}{section.5.46}%
+\contentsline {subsection}{\numberline {5.46.1}Member Function Documentation}{56}{subsection.5.46.1}%
+\contentsline {subsubsection}{\numberline {5.46.1.1}awardUpdateREF()}{56}{subsubsection.5.46.1.1}%
+\contentsline {subsubsection}{\numberline {5.46.1.2}generate()}{56}{subsubsection.5.46.1.2}%
+\contentsline {subsubsection}{\numberline {5.46.1.3}getListCountBetterGender()}{56}{subsubsection.5.46.1.3}%
+\contentsline {subsubsection}{\numberline {5.46.1.4}getListCountGender()}{56}{subsubsection.5.46.1.4}%
+\contentsline {subsubsection}{\numberline {5.46.1.5}getReference()}{56}{subsubsection.5.46.1.5}%
+\contentsline {subsubsection}{\numberline {5.46.1.6}getReferenceList()}{56}{subsubsection.5.46.1.6}%
+\contentsline {subsubsection}{\numberline {5.46.1.7}getSonList()}{56}{subsubsection.5.46.1.7}%
+\contentsline {subsubsection}{\numberline {5.46.1.8}getTrace()}{57}{subsubsection.5.46.1.8}%
+\contentsline {subsubsection}{\numberline {5.46.1.9}getType()}{57}{subsubsection.5.46.1.9}%
+\contentsline {subsubsection}{\numberline {5.46.1.10}getWeight()}{57}{subsubsection.5.46.1.10}%
+\contentsline {subsubsection}{\numberline {5.46.1.11}setInitialReference()}{57}{subsubsection.5.46.1.11}%
+\contentsline {subsubsection}{\numberline {5.46.1.12}setWeight()}{57}{subsubsection.5.46.1.12}%
+\contentsline {subsubsection}{\numberline {5.46.1.13}updateReference()}{57}{subsubsection.5.46.1.13}%
+\contentsline {section}{\numberline {5.47}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Genetic\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Algorithm\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{58}{section.5.47}%
+\contentsline {section}{\numberline {5.48}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Greater\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{58}{section.5.48}%
+\contentsline {subsection}{\numberline {5.48.1}Member Function Documentation}{59}{subsection.5.48.1}%
+\contentsline {subsubsection}{\numberline {5.48.1.1}candidate()}{59}{subsubsection.5.48.1.1}%
+\contentsline {section}{\numberline {5.49}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing Class Reference}{59}{section.5.49}%
+\contentsline {subsection}{\numberline {5.49.1}Member Function Documentation}{61}{subsection.5.49.1}%
+\contentsline {subsubsection}{\numberline {5.49.1.1}awardUpdateREF()}{61}{subsubsection.5.49.1.1}%
+\contentsline {subsubsection}{\numberline {5.49.1.2}generate()}{61}{subsubsection.5.49.1.2}%
+\contentsline {subsubsection}{\numberline {5.49.1.3}getListCountBetterGender()}{61}{subsubsection.5.49.1.3}%
+\contentsline {subsubsection}{\numberline {5.49.1.4}getListCountGender()}{61}{subsubsection.5.49.1.4}%
+\contentsline {subsubsection}{\numberline {5.49.1.5}getReference()}{62}{subsubsection.5.49.1.5}%
+\contentsline {subsubsection}{\numberline {5.49.1.6}getReferenceList()}{62}{subsubsection.5.49.1.6}%
+\contentsline {subsubsection}{\numberline {5.49.1.7}getSonList()}{62}{subsubsection.5.49.1.7}%
+\contentsline {subsubsection}{\numberline {5.49.1.8}getTrace()}{62}{subsubsection.5.49.1.8}%
+\contentsline {subsubsection}{\numberline {5.49.1.9}getType()}{62}{subsubsection.5.49.1.9}%
+\contentsline {subsubsection}{\numberline {5.49.1.10}getWeight()}{62}{subsubsection.5.49.1.10}%
+\contentsline {subsubsection}{\numberline {5.49.1.11}setInitialReference()}{62}{subsubsection.5.49.1.11}%
+\contentsline {subsubsection}{\numberline {5.49.1.12}setWeight()}{63}{subsubsection.5.49.1.12}%
+\contentsline {subsubsection}{\numberline {5.49.1.13}updateReference()}{63}{subsubsection.5.49.1.13}%
+\contentsline {section}{\numberline {5.50}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Restart Class Reference}{63}{section.5.50}%
+\contentsline {subsection}{\numberline {5.50.1}Member Function Documentation}{65}{subsection.5.50.1}%
+\contentsline {subsubsection}{\numberline {5.50.1.1}awardUpdateREF()}{65}{subsubsection.5.50.1.1}%
+\contentsline {subsubsection}{\numberline {5.50.1.2}generate()}{65}{subsubsection.5.50.1.2}%
+\contentsline {subsubsection}{\numberline {5.50.1.3}getListCountBetterGender()}{65}{subsubsection.5.50.1.3}%
+\contentsline {subsubsection}{\numberline {5.50.1.4}getListCountGender()}{65}{subsubsection.5.50.1.4}%
+\contentsline {subsubsection}{\numberline {5.50.1.5}getReference()}{66}{subsubsection.5.50.1.5}%
+\contentsline {subsubsection}{\numberline {5.50.1.6}getReferenceList()}{66}{subsubsection.5.50.1.6}%
+\contentsline {subsubsection}{\numberline {5.50.1.7}getSonList()}{66}{subsubsection.5.50.1.7}%
+\contentsline {subsubsection}{\numberline {5.50.1.8}getTrace()}{66}{subsubsection.5.50.1.8}%
+\contentsline {subsubsection}{\numberline {5.50.1.9}getType()}{66}{subsubsection.5.50.1.9}%
+\contentsline {subsubsection}{\numberline {5.50.1.10}getWeight()}{66}{subsubsection.5.50.1.10}%
+\contentsline {subsubsection}{\numberline {5.50.1.11}setInitialReference()}{66}{subsubsection.5.50.1.11}%
+\contentsline {subsubsection}{\numberline {5.50.1.12}setWeight()}{67}{subsubsection.5.50.1.12}%
+\contentsline {subsubsection}{\numberline {5.50.1.13}updateReference()}{67}{subsubsection.5.50.1.13}%
+\contentsline {section}{\numberline {5.51}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Restart\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{67}{section.5.51}%
+\contentsline {section}{\numberline {5.52}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{67}{section.5.52}%
+\contentsline {section}{\numberline {5.53}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Accept\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Interface Reference}{68}{section.5.53}%
+\contentsline {section}{\numberline {5.54}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Interface Reference}{68}{section.5.54}%
+\contentsline {section}{\numberline {5.55}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover Interface Reference}{69}{section.5.55}%
+\contentsline {section}{\numberline {5.56}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distribution Interface Reference}{70}{section.5.56}%
+\contentsline {section}{\numberline {5.57}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Father\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection Interface Reference}{70}{section.5.57}%
+\contentsline {section}{\numberline {5.58}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator Interface Reference}{71}{section.5.58}%
+\contentsline {section}{\numberline {5.59}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation Interface Reference}{72}{section.5.59}%
+\contentsline {section}{\numberline {5.60}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace Interface Reference}{72}{section.5.60}%
+\contentsline {section}{\numberline {5.61}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFactory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Solution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Method Interface Reference}{73}{section.5.61}%
+\contentsline {section}{\numberline {5.62}factory\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}interface.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}IFFSampling Interface Reference}{74}{section.5.62}%
+\contentsline {section}{\numberline {5.63}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DE Class Reference}{74}{section.5.63}%
+\contentsline {section}{\numberline {5.64}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}DETest Class Reference}{75}{section.5.64}%
+\contentsline {section}{\numberline {5.65}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}EE Class Reference}{75}{section.5.65}%
+\contentsline {section}{\numberline {5.66}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}EETest Class Reference}{76}{section.5.66}%
+\contentsline {section}{\numberline {5.67}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GA Class Reference}{76}{section.5.67}%
+\contentsline {section}{\numberline {5.68}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GATest Class Reference}{77}{section.5.68}%
+\contentsline {section}{\numberline {5.69}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Instance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{77}{section.5.69}%
+\contentsline {section}{\numberline {5.70}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Limit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Roulette Class Reference}{78}{section.5.70}%
+\contentsline {section}{\numberline {5.71}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Limit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Threshold Class Reference}{78}{section.5.71}%
+\contentsline {subsection}{\numberline {5.71.1}Member Function Documentation}{79}{subsection.5.71.1}%
+\contentsline {subsubsection}{\numberline {5.71.1.1}awardUpdateREF()}{79}{subsubsection.5.71.1.1}%
+\contentsline {subsubsection}{\numberline {5.71.1.2}generate()}{80}{subsubsection.5.71.1.2}%
+\contentsline {subsubsection}{\numberline {5.71.1.3}getListCountBetterGender()}{80}{subsubsection.5.71.1.3}%
+\contentsline {subsubsection}{\numberline {5.71.1.4}getListCountGender()}{80}{subsubsection.5.71.1.4}%
+\contentsline {subsubsection}{\numberline {5.71.1.5}getReference()}{80}{subsubsection.5.71.1.5}%
+\contentsline {subsubsection}{\numberline {5.71.1.6}getReferenceList()}{80}{subsubsection.5.71.1.6}%
+\contentsline {subsubsection}{\numberline {5.71.1.7}getSonList()}{80}{subsubsection.5.71.1.7}%
+\contentsline {subsubsection}{\numberline {5.71.1.8}getTrace()}{80}{subsubsection.5.71.1.8}%
+\contentsline {subsubsection}{\numberline {5.71.1.9}getType()}{81}{subsubsection.5.71.1.9}%
+\contentsline {subsubsection}{\numberline {5.71.1.10}getWeight()}{81}{subsubsection.5.71.1.10}%
+\contentsline {subsubsection}{\numberline {5.71.1.11}setInitialReference()}{81}{subsubsection.5.71.1.11}%
+\contentsline {subsubsection}{\numberline {5.71.1.12}setWeight()}{81}{subsubsection.5.71.1.12}%
+\contentsline {subsubsection}{\numberline {5.71.1.13}updateReference()}{81}{subsubsection.5.71.1.13}%
+\contentsline {section}{\numberline {5.72}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Limit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Threshold\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{81}{section.5.72}%
+\contentsline {section}{\numberline {5.73}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Metricas\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjetivo Class Reference}{82}{section.5.73}%
+\contentsline {section}{\numberline {5.74}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multi\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Case\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Simulated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Annealing Class Reference}{82}{section.5.74}%
+\contentsline {subsection}{\numberline {5.74.1}Member Function Documentation}{83}{subsection.5.74.1}%
+\contentsline {subsubsection}{\numberline {5.74.1.1}awardUpdateREF()}{83}{subsubsection.5.74.1.1}%
+\contentsline {subsubsection}{\numberline {5.74.1.2}generate()}{84}{subsubsection.5.74.1.2}%
+\contentsline {subsubsection}{\numberline {5.74.1.3}getListCountBetterGender()}{84}{subsubsection.5.74.1.3}%
+\contentsline {subsubsection}{\numberline {5.74.1.4}getListCountGender()}{84}{subsubsection.5.74.1.4}%
+\contentsline {subsubsection}{\numberline {5.74.1.5}getReference()}{84}{subsubsection.5.74.1.5}%
+\contentsline {subsubsection}{\numberline {5.74.1.6}getReferenceList()}{84}{subsubsection.5.74.1.6}%
+\contentsline {subsubsection}{\numberline {5.74.1.7}getSonList()}{84}{subsubsection.5.74.1.7}%
+\contentsline {subsubsection}{\numberline {5.74.1.8}getTrace()}{84}{subsubsection.5.74.1.8}%
+\contentsline {subsubsection}{\numberline {5.74.1.9}getType()}{85}{subsubsection.5.74.1.9}%
+\contentsline {subsubsection}{\numberline {5.74.1.10}getWeight()}{85}{subsubsection.5.74.1.10}%
+\contentsline {subsubsection}{\numberline {5.74.1.11}setInitialReference()}{85}{subsubsection.5.74.1.11}%
+\contentsline {subsubsection}{\numberline {5.74.1.12}setWeight()}{85}{subsubsection.5.74.1.12}%
+\contentsline {subsubsection}{\numberline {5.74.1.13}updateReference()}{85}{subsubsection.5.74.1.13}%
+\contentsline {section}{\numberline {5.75}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multi\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Case\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Simulated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Annealing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{85}{section.5.75}%
+\contentsline {section}{\numberline {5.76}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multi\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator Class Reference}{86}{section.5.76}%
+\contentsline {subsection}{\numberline {5.76.1}Member Function Documentation}{88}{subsection.5.76.1}%
+\contentsline {subsubsection}{\numberline {5.76.1.1}awardUpdateREF()}{88}{subsubsection.5.76.1.1}%
+\contentsline {subsubsection}{\numberline {5.76.1.2}generate()}{88}{subsubsection.5.76.1.2}%
+\contentsline {subsubsection}{\numberline {5.76.1.3}getListCountBetterGender()}{88}{subsubsection.5.76.1.3}%
+\contentsline {subsubsection}{\numberline {5.76.1.4}getListCountGender()}{88}{subsubsection.5.76.1.4}%
+\contentsline {subsubsection}{\numberline {5.76.1.5}getReference()}{88}{subsubsection.5.76.1.5}%
+\contentsline {subsubsection}{\numberline {5.76.1.6}getReferenceList()}{88}{subsubsection.5.76.1.6}%
+\contentsline {subsubsection}{\numberline {5.76.1.7}getSonList()}{88}{subsubsection.5.76.1.7}%
+\contentsline {subsubsection}{\numberline {5.76.1.8}getTrace()}{89}{subsubsection.5.76.1.8}%
+\contentsline {subsubsection}{\numberline {5.76.1.9}getType()}{89}{subsubsection.5.76.1.9}%
+\contentsline {subsubsection}{\numberline {5.76.1.10}getWeight()}{89}{subsubsection.5.76.1.10}%
+\contentsline {subsubsection}{\numberline {5.76.1.11}setInitialReference()}{89}{subsubsection.5.76.1.11}%
+\contentsline {subsubsection}{\numberline {5.76.1.12}setWeight()}{89}{subsubsection.5.76.1.12}%
+\contentsline {subsubsection}{\numberline {5.76.1.13}updateReference()}{89}{subsubsection.5.76.1.13}%
+\contentsline {section}{\numberline {5.77}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multi\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Generator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{90}{section.5.77}%
+\contentsline {section}{\numberline {5.78}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distance Class Reference}{90}{section.5.78}%
+\contentsline {subsection}{\numberline {5.78.1}Member Function Documentation}{92}{subsection.5.78.1}%
+\contentsline {subsubsection}{\numberline {5.78.1.1}awardUpdateREF()}{92}{subsubsection.5.78.1.1}%
+\contentsline {subsubsection}{\numberline {5.78.1.2}generate()}{92}{subsubsection.5.78.1.2}%
+\contentsline {subsubsection}{\numberline {5.78.1.3}getListCountBetterGender()}{92}{subsubsection.5.78.1.3}%
+\contentsline {subsubsection}{\numberline {5.78.1.4}getListCountGender()}{93}{subsubsection.5.78.1.4}%
+\contentsline {subsubsection}{\numberline {5.78.1.5}getReference()}{93}{subsubsection.5.78.1.5}%
+\contentsline {subsubsection}{\numberline {5.78.1.6}getReferenceList()}{93}{subsubsection.5.78.1.6}%
+\contentsline {subsubsection}{\numberline {5.78.1.7}getSonList()}{93}{subsubsection.5.78.1.7}%
+\contentsline {subsubsection}{\numberline {5.78.1.8}getTrace()}{93}{subsubsection.5.78.1.8}%
+\contentsline {subsubsection}{\numberline {5.78.1.9}getType()}{93}{subsubsection.5.78.1.9}%
+\contentsline {subsubsection}{\numberline {5.78.1.10}getWeight()}{93}{subsubsection.5.78.1.10}%
+\contentsline {subsubsection}{\numberline {5.78.1.11}setInitialReference()}{93}{subsubsection.5.78.1.11}%
+\contentsline {subsubsection}{\numberline {5.78.1.12}setWeight()}{94}{subsubsection.5.78.1.12}%
+\contentsline {subsubsection}{\numberline {5.78.1.13}updateReference()}{94}{subsubsection.5.78.1.13}%
+\contentsline {section}{\numberline {5.79}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Distance\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{94}{section.5.79}%
+\contentsline {section}{\numberline {5.80}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Restart Class Reference}{94}{section.5.80}%
+\contentsline {subsection}{\numberline {5.80.1}Member Function Documentation}{96}{subsection.5.80.1}%
+\contentsline {subsubsection}{\numberline {5.80.1.1}awardUpdateREF()}{96}{subsubsection.5.80.1.1}%
+\contentsline {subsubsection}{\numberline {5.80.1.2}generate()}{96}{subsubsection.5.80.1.2}%
+\contentsline {subsubsection}{\numberline {5.80.1.3}getListCountBetterGender()}{96}{subsubsection.5.80.1.3}%
+\contentsline {subsubsection}{\numberline {5.80.1.4}getListCountGender()}{97}{subsubsection.5.80.1.4}%
+\contentsline {subsubsection}{\numberline {5.80.1.5}getReference()}{97}{subsubsection.5.80.1.5}%
+\contentsline {subsubsection}{\numberline {5.80.1.6}getReferenceList()}{97}{subsubsection.5.80.1.6}%
+\contentsline {subsubsection}{\numberline {5.80.1.7}getSonList()}{97}{subsubsection.5.80.1.7}%
+\contentsline {subsubsection}{\numberline {5.80.1.8}getTrace()}{97}{subsubsection.5.80.1.8}%
+\contentsline {subsubsection}{\numberline {5.80.1.9}getType()}{97}{subsubsection.5.80.1.9}%
+\contentsline {subsubsection}{\numberline {5.80.1.10}getWeight()}{97}{subsubsection.5.80.1.10}%
+\contentsline {subsubsection}{\numberline {5.80.1.11}setInitialReference()}{97}{subsubsection.5.80.1.11}%
+\contentsline {subsubsection}{\numberline {5.80.1.12}setWeight()}{98}{subsubsection.5.80.1.12}%
+\contentsline {subsubsection}{\numberline {5.80.1.13}updateReference()}{98}{subsubsection.5.80.1.13}%
+\contentsline {section}{\numberline {5.81}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Restart\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{98}{section.5.81}%
+\contentsline {section}{\numberline {5.82}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Stochastic\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing Class Reference}{98}{section.5.82}%
+\contentsline {subsection}{\numberline {5.82.1}Member Function Documentation}{100}{subsection.5.82.1}%
+\contentsline {subsubsection}{\numberline {5.82.1.1}awardUpdateREF()}{100}{subsubsection.5.82.1.1}%
+\contentsline {subsubsection}{\numberline {5.82.1.2}generate()}{100}{subsubsection.5.82.1.2}%
+\contentsline {subsubsection}{\numberline {5.82.1.3}getListCountBetterGender()}{100}{subsubsection.5.82.1.3}%
+\contentsline {subsubsection}{\numberline {5.82.1.4}getListCountGender()}{100}{subsubsection.5.82.1.4}%
+\contentsline {subsubsection}{\numberline {5.82.1.5}getReference()}{100}{subsubsection.5.82.1.5}%
+\contentsline {subsubsection}{\numberline {5.82.1.6}getReferenceList()}{101}{subsubsection.5.82.1.6}%
+\contentsline {subsubsection}{\numberline {5.82.1.7}getSonList()}{101}{subsubsection.5.82.1.7}%
+\contentsline {subsubsection}{\numberline {5.82.1.8}getTrace()}{101}{subsubsection.5.82.1.8}%
+\contentsline {subsubsection}{\numberline {5.82.1.9}getType()}{101}{subsubsection.5.82.1.9}%
+\contentsline {subsubsection}{\numberline {5.82.1.10}getWeight()}{101}{subsubsection.5.82.1.10}%
+\contentsline {subsubsection}{\numberline {5.82.1.11}setInitialReference()}{101}{subsubsection.5.82.1.11}%
+\contentsline {subsubsection}{\numberline {5.82.1.12}setWeight()}{101}{subsubsection.5.82.1.12}%
+\contentsline {subsubsection}{\numberline {5.82.1.13}updateReference()}{102}{subsubsection.5.82.1.13}%
+\contentsline {section}{\numberline {5.83}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Stochastic\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Hill\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Climbing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{102}{section.5.83}%
+\contentsline {section}{\numberline {5.84}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiobjective\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tabu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search Class Reference}{102}{section.5.84}%
+\contentsline {subsection}{\numberline {5.84.1}Member Function Documentation}{104}{subsection.5.84.1}%
+\contentsline {subsubsection}{\numberline {5.84.1.1}awardUpdateREF()}{104}{subsubsection.5.84.1.1}%
+\contentsline {subsubsection}{\numberline {5.84.1.2}generate()}{104}{subsubsection.5.84.1.2}%
+\contentsline {subsubsection}{\numberline {5.84.1.3}getListCountBetterGender()}{104}{subsubsection.5.84.1.3}%
+\contentsline {subsubsection}{\numberline {5.84.1.4}getListCountGender()}{104}{subsubsection.5.84.1.4}%
+\contentsline {subsubsection}{\numberline {5.84.1.5}getReference()}{104}{subsubsection.5.84.1.5}%
+\contentsline {subsubsection}{\numberline {5.84.1.6}getReferenceList()}{104}{subsubsection.5.84.1.6}%
+\contentsline {subsubsection}{\numberline {5.84.1.7}getSonList()}{104}{subsubsection.5.84.1.7}%
+\contentsline {subsubsection}{\numberline {5.84.1.8}getTrace()}{105}{subsubsection.5.84.1.8}%
+\contentsline {subsubsection}{\numberline {5.84.1.9}getType()}{105}{subsubsection.5.84.1.9}%
+\contentsline {subsubsection}{\numberline {5.84.1.10}getWeight()}{105}{subsubsection.5.84.1.10}%
+\contentsline {subsubsection}{\numberline {5.84.1.11}setInitialReference()}{105}{subsubsection.5.84.1.11}%
+\contentsline {subsubsection}{\numberline {5.84.1.12}setWeight()}{105}{subsubsection.5.84.1.12}%
+\contentsline {subsubsection}{\numberline {5.84.1.13}updateReference()}{105}{subsubsection.5.84.1.13}%
+\contentsline {section}{\numberline {5.85}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multi\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Objetivo\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Puro Class Reference}{106}{section.5.85}%
+\contentsline {subsection}{\numberline {5.85.1}Member Function Documentation}{106}{subsection.5.85.1}%
+\contentsline {subsubsection}{\numberline {5.85.1.1}evaluationState()}{106}{subsubsection.5.85.1.1}%
+\contentsline {section}{\numberline {5.86}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation Class Reference}{107}{section.5.86}%
+\contentsline {section}{\numberline {5.87}problem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}operators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operator Class Reference}{107}{section.5.87}%
+\contentsline {subsection}{\numberline {5.87.1}Member Function Documentation}{108}{subsection.5.87.1}%
+\contentsline {subsubsection}{\numberline {5.87.1.1}generatedNewState()}{108}{subsubsection.5.87.1.1}%
+\contentsline {subsubsection}{\numberline {5.87.1.2}generateRandomState()}{108}{subsubsection.5.87.1.2}%
+\contentsline {section}{\numberline {5.88}problem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}operators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{108}{section.5.88}%
+\contentsline {section}{\numberline {5.89}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{109}{section.5.89}%
+\contentsline {section}{\numberline {5.90}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Not\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dominated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{109}{section.5.90}%
+\contentsline {subsection}{\numberline {5.90.1}Member Function Documentation}{110}{subsection.5.90.1}%
+\contentsline {subsubsection}{\numberline {5.90.1.1}candidate()}{110}{subsubsection.5.90.1.1}%
+\contentsline {section}{\numberline {5.91}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Objetive\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Function Class Reference}{110}{section.5.91}%
+\contentsline {section}{\numberline {5.92}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Objetive\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Function\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{110}{section.5.92}%
+\contentsline {section}{\numberline {5.93}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}One\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Point\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover Class Reference}{111}{section.5.93}%
+\contentsline {subsection}{\numberline {5.93.1}Member Function Documentation}{111}{subsection.5.93.1}%
+\contentsline {subsubsection}{\numberline {5.93.1.1}crossover()}{111}{subsubsection.5.93.1.1}%
+\contentsline {section}{\numberline {5.94}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}One\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Point\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation Class Reference}{112}{section.5.94}%
+\contentsline {subsection}{\numberline {5.94.1}Member Function Documentation}{113}{subsection.5.94.1}%
+\contentsline {subsubsection}{\numberline {5.94.1.1}mutation()}{113}{subsubsection.5.94.1.1}%
+\contentsline {section}{\numberline {5.95}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operator Class Reference}{113}{section.5.95}%
+\contentsline {section}{\numberline {5.96}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{113}{section.5.96}%
+\contentsline {section}{\numberline {5.97}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Particle Class Reference}{114}{section.5.97}%
+\contentsline {subsection}{\numberline {5.97.1}Member Function Documentation}{115}{subsection.5.97.1}%
+\contentsline {subsubsection}{\numberline {5.97.1.1}awardUpdateREF()}{115}{subsubsection.5.97.1.1}%
+\contentsline {subsubsection}{\numberline {5.97.1.2}generate()}{115}{subsubsection.5.97.1.2}%
+\contentsline {subsubsection}{\numberline {5.97.1.3}getListCountBetterGender()}{115}{subsubsection.5.97.1.3}%
+\contentsline {subsubsection}{\numberline {5.97.1.4}getListCountGender()}{115}{subsubsection.5.97.1.4}%
+\contentsline {subsubsection}{\numberline {5.97.1.5}getReference()}{116}{subsubsection.5.97.1.5}%
+\contentsline {subsubsection}{\numberline {5.97.1.6}getReferenceList()}{116}{subsubsection.5.97.1.6}%
+\contentsline {subsubsection}{\numberline {5.97.1.7}getSonList()}{116}{subsubsection.5.97.1.7}%
+\contentsline {subsubsection}{\numberline {5.97.1.8}getTrace()}{116}{subsubsection.5.97.1.8}%
+\contentsline {subsubsection}{\numberline {5.97.1.9}getType()}{116}{subsubsection.5.97.1.9}%
+\contentsline {subsubsection}{\numberline {5.97.1.10}getWeight()}{116}{subsubsection.5.97.1.10}%
+\contentsline {subsubsection}{\numberline {5.97.1.11}setInitialReference()}{116}{subsubsection.5.97.1.11}%
+\contentsline {subsubsection}{\numberline {5.97.1.12}setWeight()}{117}{subsubsection.5.97.1.12}%
+\contentsline {subsubsection}{\numberline {5.97.1.13}updateReference()}{117}{subsubsection.5.97.1.13}%
+\contentsline {section}{\numberline {5.98}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Particle\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Swarm\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Optimization Class Reference}{117}{section.5.98}%
+\contentsline {subsection}{\numberline {5.98.1}Member Function Documentation}{119}{subsection.5.98.1}%
+\contentsline {subsubsection}{\numberline {5.98.1.1}awardUpdateREF()}{119}{subsubsection.5.98.1.1}%
+\contentsline {subsubsection}{\numberline {5.98.1.2}generate()}{119}{subsubsection.5.98.1.2}%
+\contentsline {subsubsection}{\numberline {5.98.1.3}getListCountBetterGender()}{120}{subsubsection.5.98.1.3}%
+\contentsline {subsubsection}{\numberline {5.98.1.4}getListCountGender()}{120}{subsubsection.5.98.1.4}%
+\contentsline {subsubsection}{\numberline {5.98.1.5}getReference()}{120}{subsubsection.5.98.1.5}%
+\contentsline {subsubsection}{\numberline {5.98.1.6}getReferenceList()}{120}{subsubsection.5.98.1.6}%
+\contentsline {subsubsection}{\numberline {5.98.1.7}getSonList()}{120}{subsubsection.5.98.1.7}%
+\contentsline {subsubsection}{\numberline {5.98.1.8}getTrace()}{120}{subsubsection.5.98.1.8}%
+\contentsline {subsubsection}{\numberline {5.98.1.9}getType()}{120}{subsubsection.5.98.1.9}%
+\contentsline {subsubsection}{\numberline {5.98.1.10}getWeight()}{120}{subsubsection.5.98.1.10}%
+\contentsline {subsubsection}{\numberline {5.98.1.11}setInitialReference()}{121}{subsubsection.5.98.1.11}%
+\contentsline {subsubsection}{\numberline {5.98.1.12}setWeight()}{121}{subsubsection.5.98.1.12}%
+\contentsline {subsubsection}{\numberline {5.98.1.13}updateReference()}{121}{subsubsection.5.98.1.13}%
+\contentsline {section}{\numberline {5.99}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Particle\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Swarm\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Optimization\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{121}{section.5.99}%
+\contentsline {section}{\numberline {5.100}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Particle\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{122}{section.5.100}%
+\contentsline {section}{\numberline {5.101}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Probabilistic\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sampling Class Reference}{122}{section.5.101}%
+\contentsline {subsection}{\numberline {5.101.1}Member Function Documentation}{123}{subsection.5.101.1}%
+\contentsline {subsubsection}{\numberline {5.101.1.1}sampling()}{123}{subsubsection.5.101.1.1}%
+\contentsline {section}{\numberline {5.102}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Probability Class Reference}{123}{section.5.102}%
+\contentsline {section}{\numberline {5.103}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Problem Class Reference}{123}{section.5.103}%
+\contentsline {section}{\numberline {5.104}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Problem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{124}{section.5.104}%
+\contentsline {section}{\numberline {5.105}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Problem\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{124}{section.5.105}%
+\contentsline {section}{\numberline {5.106}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Random\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{125}{section.5.106}%
+\contentsline {subsection}{\numberline {5.106.1}Member Function Documentation}{125}{subsection.5.106.1}%
+\contentsline {subsubsection}{\numberline {5.106.1.1}candidate()}{125}{subsubsection.5.106.1.1}%
+\contentsline {section}{\numberline {5.107}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Random\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search Class Reference}{126}{section.5.107}%
+\contentsline {subsection}{\numberline {5.107.1}Member Function Documentation}{127}{subsection.5.107.1}%
+\contentsline {subsubsection}{\numberline {5.107.1.1}awardUpdateREF()}{127}{subsubsection.5.107.1.1}%
+\contentsline {subsubsection}{\numberline {5.107.1.2}generate()}{127}{subsubsection.5.107.1.2}%
+\contentsline {subsubsection}{\numberline {5.107.1.3}getListCountBetterGender()}{127}{subsubsection.5.107.1.3}%
+\contentsline {subsubsection}{\numberline {5.107.1.4}getListCountGender()}{128}{subsubsection.5.107.1.4}%
+\contentsline {subsubsection}{\numberline {5.107.1.5}getReference()}{128}{subsubsection.5.107.1.5}%
+\contentsline {subsubsection}{\numberline {5.107.1.6}getReferenceList()}{128}{subsubsection.5.107.1.6}%
+\contentsline {subsubsection}{\numberline {5.107.1.7}getSonList()}{128}{subsubsection.5.107.1.7}%
+\contentsline {subsubsection}{\numberline {5.107.1.8}getTrace()}{128}{subsubsection.5.107.1.8}%
+\contentsline {subsubsection}{\numberline {5.107.1.9}getType()}{128}{subsubsection.5.107.1.9}%
+\contentsline {subsubsection}{\numberline {5.107.1.10}getWeight()}{128}{subsubsection.5.107.1.10}%
+\contentsline {subsubsection}{\numberline {5.107.1.11}setInitialReference()}{128}{subsubsection.5.107.1.11}%
+\contentsline {subsubsection}{\numberline {5.107.1.12}setWeight()}{129}{subsubsection.5.107.1.12}%
+\contentsline {subsubsection}{\numberline {5.107.1.13}updateReference()}{129}{subsubsection.5.107.1.13}%
+\contentsline {section}{\numberline {5.108}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Random\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{129}{section.5.108}%
+\contentsline {section}{\numberline {5.109}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Range Class Reference}{129}{section.5.109}%
+\contentsline {section}{\numberline {5.110}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace Class Reference}{130}{section.5.110}%
+\contentsline {section}{\numberline {5.111}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{130}{section.5.111}%
+\contentsline {section}{\numberline {5.112}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Roulette\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection Class Reference}{131}{section.5.112}%
+\contentsline {subsection}{\numberline {5.112.1}Member Function Documentation}{131}{subsection.5.112.1}%
+\contentsline {subsubsection}{\numberline {5.112.1.1}selection()}{131}{subsubsection.5.112.1.1}%
+\contentsline {section}{\numberline {5.113}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sampling Class Reference}{132}{section.5.113}%
+\contentsline {section}{\numberline {5.114}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sampling\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{132}{section.5.114}%
+\contentsline {section}{\numberline {5.115}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Interface Reference}{133}{section.5.115}%
+\contentsline {section}{\numberline {5.116}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{133}{section.5.116}%
+\contentsline {section}{\numberline {5.117}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Simulated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Annealing Class Reference}{134}{section.5.117}%
+\contentsline {subsection}{\numberline {5.117.1}Member Function Documentation}{135}{subsection.5.117.1}%
+\contentsline {subsubsection}{\numberline {5.117.1.1}awardUpdateREF()}{135}{subsubsection.5.117.1.1}%
+\contentsline {subsubsection}{\numberline {5.117.1.2}generate()}{135}{subsubsection.5.117.1.2}%
+\contentsline {subsubsection}{\numberline {5.117.1.3}getListCountBetterGender()}{135}{subsubsection.5.117.1.3}%
+\contentsline {subsubsection}{\numberline {5.117.1.4}getListCountGender()}{136}{subsubsection.5.117.1.4}%
+\contentsline {subsubsection}{\numberline {5.117.1.5}getReference()}{136}{subsubsection.5.117.1.5}%
+\contentsline {subsubsection}{\numberline {5.117.1.6}getReferenceList()}{136}{subsubsection.5.117.1.6}%
+\contentsline {subsubsection}{\numberline {5.117.1.7}getSonList()}{136}{subsubsection.5.117.1.7}%
+\contentsline {subsubsection}{\numberline {5.117.1.8}getTrace()}{136}{subsubsection.5.117.1.8}%
+\contentsline {subsubsection}{\numberline {5.117.1.9}getType()}{136}{subsubsection.5.117.1.9}%
+\contentsline {subsubsection}{\numberline {5.117.1.10}getWeight()}{136}{subsubsection.5.117.1.10}%
+\contentsline {subsubsection}{\numberline {5.117.1.11}setInitialReference()}{136}{subsubsection.5.117.1.11}%
+\contentsline {subsubsection}{\numberline {5.117.1.12}setWeight()}{137}{subsubsection.5.117.1.12}%
+\contentsline {subsubsection}{\numberline {5.117.1.13}updateReference()}{137}{subsubsection.5.117.1.13}%
+\contentsline {section}{\numberline {5.118}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Simulated\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Annealing\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{137}{section.5.118}%
+\contentsline {section}{\numberline {5.119}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}candidate\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}type.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Smaller\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Candidate Class Reference}{138}{section.5.119}%
+\contentsline {subsection}{\numberline {5.119.1}Member Function Documentation}{138}{subsection.5.119.1}%
+\contentsline {subsubsection}{\numberline {5.119.1.1}candidate()}{138}{subsubsection.5.119.1.1}%
+\contentsline {section}{\numberline {5.120}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Solution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Method Class Reference}{139}{section.5.120}%
+\contentsline {section}{\numberline {5.121}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}State Class Reference}{139}{section.5.121}%
+\contentsline {section}{\numberline {5.122}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}definition.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}State\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{140}{section.5.122}%
+\contentsline {section}{\numberline {5.123}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Steady\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}State\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Replace Class Reference}{141}{section.5.123}%
+\contentsline {subsection}{\numberline {5.123.1}Member Function Documentation}{141}{subsection.5.123.1}%
+\contentsline {subsubsection}{\numberline {5.123.1.1}replace()}{141}{subsubsection.5.123.1.1}%
+\contentsline {section}{\numberline {5.124}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Stop\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Execute Interface Reference}{142}{section.5.124}%
+\contentsline {section}{\numberline {5.125}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}strategy.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Strategy Class Reference}{142}{section.5.125}%
+\contentsline {section}{\numberline {5.126}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}strategy.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Strategy\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{143}{section.5.126}%
+\contentsline {section}{\numberline {5.127}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Strategy\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type Enum Reference}{143}{section.5.127}%
+\contentsline {section}{\numberline {5.128}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tabu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search Class Reference}{144}{section.5.128}%
+\contentsline {subsection}{\numberline {5.128.1}Member Function Documentation}{145}{subsection.5.128.1}%
+\contentsline {subsubsection}{\numberline {5.128.1.1}awardUpdateREF()}{145}{subsubsection.5.128.1.1}%
+\contentsline {subsubsection}{\numberline {5.128.1.2}generate()}{145}{subsubsection.5.128.1.2}%
+\contentsline {subsubsection}{\numberline {5.128.1.3}getListCountBetterGender()}{145}{subsubsection.5.128.1.3}%
+\contentsline {subsubsection}{\numberline {5.128.1.4}getListCountGender()}{146}{subsubsection.5.128.1.4}%
+\contentsline {subsubsection}{\numberline {5.128.1.5}getReference()}{146}{subsubsection.5.128.1.5}%
+\contentsline {subsubsection}{\numberline {5.128.1.6}getReferenceList()}{146}{subsubsection.5.128.1.6}%
+\contentsline {subsubsection}{\numberline {5.128.1.7}getSonList()}{146}{subsubsection.5.128.1.7}%
+\contentsline {subsubsection}{\numberline {5.128.1.8}getTrace()}{146}{subsubsection.5.128.1.8}%
+\contentsline {subsubsection}{\numberline {5.128.1.9}getType()}{146}{subsubsection.5.128.1.9}%
+\contentsline {subsubsection}{\numberline {5.128.1.10}getWeight()}{146}{subsubsection.5.128.1.10}%
+\contentsline {subsubsection}{\numberline {5.128.1.11}setInitialReference()}{146}{subsubsection.5.128.1.11}%
+\contentsline {subsubsection}{\numberline {5.128.1.12}setWeight()}{147}{subsubsection.5.128.1.12}%
+\contentsline {subsubsection}{\numberline {5.128.1.13}updateReference()}{147}{subsubsection.5.128.1.13}%
+\contentsline {section}{\numberline {5.129}metaheuristics.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}generators.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tabu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Search\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{147}{section.5.129}%
+\contentsline {section}{\numberline {5.130}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tabu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Solutions Class Reference}{148}{section.5.130}%
+\contentsline {section}{\numberline {5.131}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tow\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Points\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Mutation Class Reference}{148}{section.5.131}%
+\contentsline {subsection}{\numberline {5.131.1}Member Function Documentation}{149}{subsection.5.131.1}%
+\contentsline {subsubsection}{\numberline {5.131.1.1}mutation()}{149}{subsubsection.5.131.1.1}%
+\contentsline {section}{\numberline {5.132}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Truncation\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Selection Class Reference}{149}{section.5.132}%
+\contentsline {subsection}{\numberline {5.132.1}Member Function Documentation}{150}{subsection.5.132.1}%
+\contentsline {subsubsection}{\numberline {5.132.1.1}selection()}{150}{subsubsection.5.132.1.1}%
+\contentsline {section}{\numberline {5.133}config.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}tsp\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Dynamic.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TSPState Class Reference}{150}{section.5.133}%
+\contentsline {section}{\numberline {5.134}problem.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}extension.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Type\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Solution\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Method Enum Reference}{151}{section.5.134}%
+\contentsline {section}{\numberline {5.135}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Uniform\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Crossover Class Reference}{151}{section.5.135}%
+\contentsline {subsection}{\numberline {5.135.1}Member Function Documentation}{152}{subsection.5.135.1}%
+\contentsline {subsubsection}{\numberline {5.135.1.1}crossover()}{152}{subsubsection.5.135.1.1}%
+\contentsline {section}{\numberline {5.136}evolutionary\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}algorithms.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Univariate Class Reference}{152}{section.5.136}%
+\contentsline {subsection}{\numberline {5.136.1}Member Function Documentation}{153}{subsection.5.136.1}%
+\contentsline {subsubsection}{\numberline {5.136.1.1}distribution()}{153}{subsubsection.5.136.1.1}%
+\contentsline {section}{\numberline {5.137}local\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}search.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}complement.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Update\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Parameter Class Reference}{153}{section.5.137}%
+\contentsline {chapter}{Index}{155}{section*.334}%

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: metaheurictics.strategy.StrategyTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.503 s - in metaheurictics.strategy.StrategyTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 s - in metaheurictics.strategy.StrategyTest

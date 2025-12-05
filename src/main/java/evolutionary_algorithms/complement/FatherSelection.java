@@ -10,3 +10,4 @@ public abstract class FatherSelection {
 	public abstract List<State> selection(List<State> listState, int truncation);
 
 }
+

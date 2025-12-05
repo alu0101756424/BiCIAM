@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955311245*java2.Bç-
+1.0alu0101756424_BiCIAMJavaFrontend"1764973485137*java2.Bç-
 M
 Hsrc/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java2
 	
@@ -152,11 +152,11 @@ mmetaheuristics.generators.MultiCaseSimulatedAnnealing#generate(Ljava/lang/Integ
 !
 problem.definition.Problem109
 '
- metaheurictics.strategy.Strategy111
+ metaheuristics.strategy.Strategy111
 P
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;113
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;113
 W
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;115
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;115
 "
 problem.definition.Operator117
 s
@@ -311,7 +311,7 @@ F
 H
 161A
 16116286 *
-1à à(210:7B
+1á á(210:7B
 
 
 13
@@ -349,7 +349,7 @@ B
 H
 170A
 17017186 *
-1ö ö(210:7B
+1ô ô(210:7B
 
 
 13
@@ -383,9 +383,6 @@ H
 
 15
 160
-
-114
-11411519
 B
 70<
 707124 *
@@ -413,6 +410,9 @@ B
 
 73
 737419
+
+112
+11211319
 
 99
 9910019
@@ -442,7 +442,7 @@ F
 H
 167A
 16716886 *
-1î î(210:7B
+1ì ì(210:7B
 
 
 13
@@ -450,12 +450,6 @@ H
 
 15
 169
-
-110
-11011119
-
-112
-11211319
 
 120
 12012119
@@ -507,7 +501,7 @@ F
 H
 164A
 16416586 *
-1é é(210:7B
+1ç ç(210:7B
 
 
 13
@@ -539,6 +533,9 @@ B
 
 15
 77
+
+114
+11411519
 
 27
 272819
@@ -624,6 +621,9 @@ B
 
 108
 10810919
+
+110
+11011119
 F
 124?
 12412586 *
@@ -700,7 +700,7 @@ B
 80
 
 116
-11611719r¯(
+11611719r“)
 
 101720*
 12 (;
@@ -1288,3 +1288,14 @@ B
 
 1554821*
 1|  |(%
+
+1581021*
+1Ñ
+ Ñ(
+
+1581089*
+1Ñ
+ Ñ(
+
+1587889*
+1Ñ Ñ(

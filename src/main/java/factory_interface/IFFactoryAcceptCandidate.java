@@ -18,3 +18,4 @@ public interface IFFactoryAcceptCandidate
 	AcceptableCandidate createAcceptCandidate(AcceptType typeacceptation) throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException;
 
 }
+

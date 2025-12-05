@@ -1,15 +1,224 @@
 
-@evolutionary_algorithms.complement.GenerationalReplace#<init>()V
-__unknown_file ("startingBlock*Å
-startingBlockn
-fC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/GenerationalReplace.java	 	(˜
-Ù
-n
-fC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/GenerationalReplace.java	 	(
-%0"4evolutionary_algorithms.complement.Replace#<init>()V*F
- (:8
-6evolutionary_algorithms.complement.GenerationalReplace"Ö
-n
-fC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/GenerationalReplace.java	 	(
-implicit returnB:8
-6evolutionary_algorithms.complement.GenerationalReplace
+„local_search.candidate_type.CandidateValue#stateCandidate(Lproblem/definition/State;Llocal_search/candidate_type/CandidateType;Llocal_search/complement/StrategyType;Ljava/lang/Integer;Ljava/util/List;)Lproblem/definition/State;d
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/local_search/candidate_type/CandidateValue.java ("13*é
+13+ (7x
+v
+ (8&
+filteredNeighborhoodjava.util.List"__id*<
+
+__unknown_file ( 
+
+neighborhoodjava.util.List*
+12*!
+2) *("
+* *(
+""*∑
+3' ((cyw
+( ((08
+%141local_search.candidate_type.NotDominatedCandidate"1local_search.candidate_type.NotDominatedCandidate©
+¶
+( ((2
+%15";local_search.candidate_type.NotDominatedCandidate#<init>()V*V
+
+__unknown_file (:
+8
+%141local_search.candidate_type.NotDominatedCandidate—Œ
+( ((b
+%16problem.definition.State"Ålocal_search.candidate_type.NotDominatedCandidate#candidate(Lproblem/definition/State;Ljava/util/List;)Lproblem/definition/State;*V
+
+__unknown_file (:
+8
+%141local_search.candidate_type.NotDominatedCandidate*H
+
+__unknown_file (,
+*
+stateReferenceproblem.definition.State*D
+
+__unknown_file ((
+&
+filteredNeighborhoodjava.util.List25candidate(Lproblem/definition/State;Ljava/util/List;)"-
+( ((c!
+
+%16problem.definition.State*ò
+4% &(^om
+& &(+3
+%11,local_search.candidate_type.SmallerCandidate",local_search.candidate_type.SmallerCandidateü
+ú
+& &(-
+%12"6local_search.candidate_type.SmallerCandidate#<init>()V*Q
+
+__unknown_file (5
+3
+%11,local_search.candidate_type.SmallerCandidate∆√
+& &(]
+%13problem.definition.State"|local_search.candidate_type.SmallerCandidate#candidate(Lproblem/definition/State;Ljava/util/List;)Lproblem/definition/State;*Q
+
+__unknown_file (5
+3
+%11,local_search.candidate_type.SmallerCandidate*H
+
+__unknown_file (,
+*
+stateReferenceproblem.definition.State*D
+
+__unknown_file ((
+&
+filteredNeighborhoodjava.util.List25candidate(Lproblem/definition/State;Ljava/util/List;)"-
+& &(^!
+
+%13problem.definition.State*î
+5# $(^nl
+$ $(+2
+%8,local_search.candidate_type.GreaterCandidate",local_search.candidate_type.GreaterCandidateù
+ö
+$ $(-
+%9"6local_search.candidate_type.GreaterCandidate#<init>()V*P
+
+__unknown_file (4
+2
+%8,local_search.candidate_type.GreaterCandidate≈¬
+$ $(]
+%10problem.definition.State"|local_search.candidate_type.GreaterCandidate#candidate(Lproblem/definition/State;Ljava/util/List;)Lproblem/definition/State;*P
+
+__unknown_file (4
+2
+%8,local_search.candidate_type.GreaterCandidate*H
+
+__unknown_file (,
+*
+stateReferenceproblem.definition.State*D
+
+__unknown_file ((
+&
+filteredNeighborhoodjava.util.List25candidate(Lproblem/definition/State;Ljava/util/List;)"-
+$ $(^!
+
+%10problem.definition.State*å
+6! "(]lj
+" "(*1
+%5+local_search.candidate_type.RandomCandidate"+local_search.candidate_type.RandomCandidateõ
+ò
+" "(,
+%6"5local_search.candidate_type.RandomCandidate#<init>()V*O
+
+__unknown_file (3
+1
+%5+local_search.candidate_type.RandomCandidate¬ø
+" "(\
+%7problem.definition.State"{local_search.candidate_type.RandomCandidate#candidate(Lproblem/definition/State;Ljava/util/List;)Lproblem/definition/State;*O
+
+__unknown_file (3
+1
+%5+local_search.candidate_type.RandomCandidate*H
+
+__unknown_file (,
+*
+stateReferenceproblem.definition.State*D
+
+__unknown_file ((
+&
+filteredNeighborhoodjava.util.List25candidate(Lproblem/definition/State;Ljava/util/List;)",
+" "(] 
+
+%7problem.definition.State*!
+7 ("
+ (
+""*†
+8 ( àÖ
+ (*
+%4boolean"java.util.List#isEmpty()Z*D
+
+__unknown_file ((
+&
+filteredNeighborhoodjava.util.List2	isEmpty()*
+7
+1*É
+10 (Qn
+l
+ (Q&
+filteredNeighborhoodjava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List*
+8*ﬂ
+11' (4ü
+ú
+' (4+
+%2%local_search.complement.TabuSolutions"__id*]
+
+__unknown_file (A*?,
+*local_search.candidate_type.CandidateValue"
+tabuSolutions¶£
+' (Q
+%3java.util.List"Vlocal_search.complement.TabuSolutions#filterNeighbor(Ljava/util/List;)Ljava/util/List;*I
+
+__unknown_file (-
++
+%2%local_search.complement.TabuSolutions*<
+
+__unknown_file ( 
+
+neighborhoodjava.util.List2 filterNeighbor(Ljava/util/List;)*
+10*∆
+12 (ü
+ú
+ (+
+%0%local_search.complement.TabuSolutions"__id*]
+
+__unknown_file (A*?,
+*local_search.candidate_type.CandidateValue"
+tabuSolutionsä
+á
+ (%
+%1boolean"	__compare*
+ ( 
+!=*9
+ (-
++
+%0%local_search.complement.TabuSolutions*
+! (%
+""*
+8
+11*∆
+1   (h
+f
+! !( 0
+%17)local_search.candidate_type.CandidateType"__id*"
+
+__unknown_file (
+""h
+f
+# #(!0
+%18)local_search.candidate_type.CandidateType"__id*"
+
+__unknown_file (
+""h
+f
+% %(!0
+%19)local_search.candidate_type.CandidateType"__id*"
+
+__unknown_file (
+""h
+f
+' '(&0
+%20)local_search.candidate_type.CandidateType"__id*"
+
+__unknown_file (
+""*
+2
+3
+4
+5
+6:6
+  (5*
+stateReferenceproblem.definition.State:=
+6 (I1
+type)local_search.candidate_type.CandidateType:<
+J (`0
+strategy$local_search.complement.StrategyType:/
+a (x#
+operatornumberjava.lang.Integer:+
+	y (ë
+neighborhoodjava.util.ListB.,
+*local_search.candidate_type.CandidateValueH

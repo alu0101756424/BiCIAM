@@ -10,3 +10,4 @@ public interface IFFactorySolutionMethod {
 	SolutionMethod createdSolutionMethod(TypeSolutionMethod  method) throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException ;
 
 }
+

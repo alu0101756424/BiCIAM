@@ -16,3 +16,4 @@ public class RandomCandidate implements SearchCandidate {
         return neighborhood.get(index);
     }
 }
+

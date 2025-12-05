@@ -1,7 +1,7 @@
 package local_search.acceptation_type;
 
 import local_search.complement.TabuSolutions;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.State;
 
 public class AcceptNotDominatedTabu implements AcceptableCandidate {
@@ -29,3 +29,4 @@ public class AcceptNotDominatedTabu implements AcceptableCandidate {
         return !dominance.dominance(stateCurrent, stateCandidate);
     }
 }
+

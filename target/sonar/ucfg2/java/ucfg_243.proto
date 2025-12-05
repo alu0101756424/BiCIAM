@@ -1,7 +1,18 @@
 
-6metaheuristics.generators.LimitRoulette#getLimitLow()Fa
-WC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitRoulette.java ("1*!
-1	 ("
- (
-""B+)
-'metaheuristics.generators.LimitRouletteHX
+xmetaheuristics.generators.MultiobjectiveHillClimbingDistance#getGeneratorType()Lmetaheuristics/generators/GeneratorType;x
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.javaœ œ(&"1*†
+1
+	 (µ
+²
+
+	 (-
+%0'metaheuristics.generators.GeneratorType"__id*o
+
+__unknown_file (S*Q>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
+Generatortype"=
+
+ (/
+-
+%0'metaheuristics.generators.GeneratorTypeB@>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistanceH

@@ -1,9 +1,47 @@
 
-Cmetaheuristics.generators.HillClimbing#getListCountBetterGender()[Ib
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javaé é(&"1*%
-1
-ê	 ê("
-
-ê ê($
-""B*(
-&metaheuristics.generators.HillClimbingH
+9metaheuristics.generators.HillClimbing#%field_initializer
+__unknown_file ("1*Ô	
+1 (ïí
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java!0 !(@
+%0java.util.ArrayList"java.util.ArrayList≥
+∞
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java!, !(B
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList÷
+”
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java! !(C@(
+&metaheuristics.generators.HillClimbing"
+listStateReference"__id*'
+ (
+
+%0java.util.ArrayListƒ
+¡
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java' '(3C(
+&metaheuristics.generators.HillClimbing"
+listCountBetterGender"__id*
+ (
+""æ
+ª
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java( ((-=(
+&metaheuristics.generators.HillClimbing"
+listCountGender"__id*
+ (
+""∏
+µ
+`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java) )(07(
+&metaheuristics.generators.HillClimbing"
+	listTrace"__id*
+ (
+"""v
+_
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.java û(
+implicit returnB*(
+&metaheuristics.generators.HillClimbing

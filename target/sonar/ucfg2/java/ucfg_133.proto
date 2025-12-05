@@ -1,15 +1,15 @@
 
-zmetaheuristics.generators.MultiobjectiveStochasticHillClimbing#getGeneratorType()Lmetaheuristics/generators/GeneratorType;x
-nC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveStochasticHillClimbing.javaP P(&"1*‚
-1Q	 Q(µ
-²
-Q	 Q(-
-%0'metaheuristics.generators.GeneratorType"__id*q
+gmetaheuristics.generators.MultiobjectiveStochasticHillClimbing#getReference()Lproblem/definition/State;x
+nC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveStochasticHillClimbing.javaC C("1*ç
+1D	 D(©
+¦
+D	 D(
+%0problem.definition.State"__id*t
 
-__unknown_file (U*S@
->metaheuristics.generators.MultiobjectiveStochasticHillClimbing"
-Generatortype";
-Q Q(/
--
-%0'metaheuristics.generators.GeneratorTypeBB@
+__unknown_file (X*V@
+>metaheuristics.generators.MultiobjectiveStochasticHillClimbing"
+stateReferenceHC",
+D D( 
+
+%0problem.definition.StateBB@
 >metaheuristics.generators.MultiobjectiveStochasticHillClimbingH

@@ -24,3 +24,4 @@ public class ObjetiveFunctionTest {
         assertEquals(ProblemType.Maximizar, function.getTypeProblem());
     }
 }
+

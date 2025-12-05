@@ -20,3 +20,4 @@ public class FactoryGenerator implements IFFactoryGenerator {
 		return generator;
 	}
 }
+

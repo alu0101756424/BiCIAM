@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955310542*java2.Bá$
+1.0alu0101756424_BiCIAMJavaFrontend"1764973484419*java2.Bá$
 :
 5src/main/java/metaheuristics/generators/Particle.java2
 	
@@ -115,11 +115,11 @@ Ymetaheuristics.generators.Particle#UpdateCode(Ljava/util/ArrayList;)Ljava/util/
 >
 8metaheuristics.generators.ParticleSwarmOptimization.wmin78
 &
- metaheurictics.strategy.Strategy80
+ metaheuristics.strategy.Strategy80
 5
-/metaheurictics.strategy.Strategy#getCountMax()I82
+/metaheuristics.strategy.Strategy#getCountMax()I82
 V
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;84
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;84
 M
 Gmetaheuristics.generators.ParticleSwarmOptimization.countCurrentIterPSO86
 C
@@ -135,7 +135,7 @@ F
 E
 ?problem.definition.Problem#getState()Lproblem/definition/State;98
 P
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;100
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;100
 H
 Ametaheuristics.generators.ParticleSwarmOptimization.countParticle102
 O
@@ -335,6 +335,9 @@ H
 15
 148
 
+81
+818219
+
 17
 171819
 B
@@ -360,9 +363,6 @@ H
 
 15
 128
-
-83
-838419
 B
 60<
 606138 *
@@ -386,6 +386,9 @@ H
 
 15
 142
+
+99
+9910019
 
 119
 11912019
@@ -428,12 +431,6 @@ H
 
 15
 151
-
-79
-798019
-
-99
-9910019
 B
 44<
 444538 *
@@ -449,9 +446,6 @@ B
 
 77
 777819
-
-81
-818219
 B
 63<
 636438 *
@@ -496,6 +490,9 @@ B
 
 75
 757619
+
+83
+838419
 
 117
 11711819
@@ -578,6 +575,9 @@ H
 
 15
 131
+
+79
+798019
 
 95
 959619

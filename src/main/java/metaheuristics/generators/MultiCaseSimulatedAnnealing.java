@@ -11,7 +11,7 @@ import local_search.acceptation_type.AcceptableCandidate;
 import local_search.candidate_type.CandidateType;
 import local_search.candidate_type.CandidateValue;
 import local_search.complement.StrategyType;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem;
 import problem.definition.State;
 
@@ -129,8 +129,7 @@ public class MultiCaseSimulatedAnnealing extends Generator {
 
 	@Override
 	public float getWeight() {
-		// TODO Auto-generated method stub
-		return 0;
+		return this.weight;
 	}
 
 	@Override
@@ -158,3 +157,4 @@ public class MultiCaseSimulatedAnnealing extends Generator {
 	}
 	
 }
+

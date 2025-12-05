@@ -4,7 +4,7 @@ package evolutionary_algorithms.complement;
 import java.util.ArrayList;
 import java.util.List;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import metaheuristics.generators.GeneratorType;
 
 import problem.definition.State;
@@ -83,3 +83,4 @@ public class ProbabilisticSampling extends Sampling {
 			return staList;
 		}
 }
+

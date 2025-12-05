@@ -25,3 +25,4 @@ public abstract class ObjetiveFunction {
 
 	public abstract Double Evaluation(State state);
 }
+

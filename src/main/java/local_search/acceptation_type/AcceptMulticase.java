@@ -12,3 +12,4 @@ public class AcceptMulticase implements AcceptableCandidate {
         return true;
     }
 }
+

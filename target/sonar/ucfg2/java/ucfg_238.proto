@@ -1,9 +1,162 @@
 
-Imetaheuristics.generators.MultiobjectiveHillClimbingDistance#getTrace()[Fx
-lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java˚ ˚("1*%
-1
-˝	 ˝("
+çmetaheuristics.generators.MultiobjectiveHillClimbingDistance#SolutionMoreDistance(Ljava/util/List;Ljava/util/List;)Lproblem/definition/State;v
+lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.javav v(#"8*Í
+2
+É
+ É(ß
+§
 
-˝ ˝(
-""B@>
-<metaheuristics.generators.MultiobjectiveHillClimbingDistanceH
+É
+ É(
+%10problem.definition.State"
+__arrayGet*E
+
+__unknown_file ()
+'
+	solutionsproblem.definition.State[]*"
+
+__unknown_file (
+"""/
+
+É É(!
+
+%10problem.definition.State*Å
+3
+Ç Ç(h
+f
+
+Ç Ç(
+%9boolean"	__compare*
+
+Ç	 Ç(
+!=*
+
+Ç Ç(
+""*
+
+Ç Ç(2*
+2
+1*w
+5~
+ ~(c
+a
+~ ~(
+maxjava.lang.Double"__id*6
+
+__unknown_file (
+
+distjava.lang.Double*
+7*õ
+6| |(ì
+ê
+| |(
+%7java.lang.Double"
+__arrayGet*<
+
+__unknown_file ( 
+
+distancejava.lang.Double[]*"
+
+__unknown_file (
+""b
+`
+| |(
+distjava.lang.Double"__id*4
+
+__unknown_file (
+
+%7java.lang.Doubleâ
+Ü
+} }(
+%8boolean"	__compare*
+} }(
+>*&
+} }(
+
+
+distjava.lang.Double*%
+} }(
+
+maxjava.lang.Double*
+5
+7*x
+7{ {(a
+_
+{ {(%
+%6boolean"	__compare*
+{ {(
+<*
+{ {(
+""*
+{ {(%
+""*
+3
+6*∆	
+8w w(M
+K
+w w(
+maxjava.lang.Double"__id* 
+
+__unknown_file (2yw
+y: y(Q	
+%0int"java.util.List#size()I*@
+
+__unknown_file ($
+"
+distanceSolutionjava.util.List2size():8
+y/ y(R
+%1java.lang.Double[]"java.lang.Double[]ˇ¸
+y y(S
+%2java.lang.Double[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*@
+
+__unknown_file ($
+"
+distanceSolutionjava.util.List*6
+
+__unknown_file (
+
+%1java.lang.Double[]2toArray([Ljava/lang/Object;)j
+h
+y y(T
+distancejava.lang.Double[]"__id*6
+
+__unknown_file (
+
+%2java.lang.Double[]nl
+z. z(:	
+%3int"java.util.List#size()I*5
+
+__unknown_file (
+
+statejava.util.List2size()JH
+z$ z(; 
+%4problem.definition.State[]"problem.definition.State[]ÑÅ
+z z(< 
+%5problem.definition.State[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*5
+
+__unknown_file (
+
+statejava.util.List*>
+
+__unknown_file ("
+ 
+%4problem.definition.State[]2toArray([Ljava/lang/Object;){
+y
+z z(='
+	solutionsproblem.definition.State[]"__id*>
+
+__unknown_file ("
+ 
+%5problem.definition.State[]*
+7*%
+1
+Ö
+ Ö("
+
+Ö Ö(
+"":#
+v$ v(6
+statejava.util.List:.
+v7 v(T"
+distanceSolutionjava.util.ListB@>
+<metaheuristics.generators.MultiobjectiveHillClimbingDistance

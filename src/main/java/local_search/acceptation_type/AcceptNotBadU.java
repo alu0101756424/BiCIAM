@@ -12,3 +12,4 @@ public class AcceptNotBadU implements AcceptableCandidate {
         return true;
     }
 }
+

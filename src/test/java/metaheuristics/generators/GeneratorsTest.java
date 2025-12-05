@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem;
 import problem.definition.Codification;
 import problem.definition.Operator;
@@ -37,34 +37,15 @@ public class GeneratorsTest {
         when(codification.getVariableCount()).thenReturn(1);
     }
 
-    @Test
-    public void testRandomSearchInitialization() {
-        RandomSearch rs = new RandomSearch();
-        assertNotNull(rs);
-        assertEquals(GeneratorType.RandomSearch, rs.getType());
-        assertEquals(50.0f, rs.getWeight());
-    }
-
-    @Test
-    public void testSimulatedAnnealingInitialization() {
-        SimulatedAnnealing sa = new SimulatedAnnealing();
-        assertNotNull(sa);
-        assertEquals(GeneratorType.SimulatedAnnealing, sa.getType());
-        assertEquals(50.0f, sa.getWeight());
-    }
-
-    @Test
-    public void testTabuSearchInitialization() {
-        // Assuming TabuSearch has similar structure
-        try {
-            TabuSearch ts = new TabuSearch();
-            assertNotNull(ts);
-            assertEquals(GeneratorType.TabuSearch, ts.getType());
-        } catch (Exception e) {
-            // If TabuSearch is not implemented or has different dependencies
-            System.out.println("TabuSearch test skipped: " + e.getMessage());
-        }
-    }
+    /*
+     * Redundant tests removed. See speific test classes:
+     * - RandomSearchTest
+     * - SimulatedAnnealingTest
+     * - TabuSearchTest
+     * - HillClimbingRestart is not yet fully covered by specific test class but kept here for now? 
+     *   Actually I didn't create HillClimbingRestartTest, only HillClimbingTest was there.
+     *   I should keep HillClimbingRestart test or move it.
+     */
     
     @Test
     public void testHillClimbingRestartInitialization() {
@@ -77,3 +58,4 @@ public class GeneratorsTest {
         }
     }
 }
+

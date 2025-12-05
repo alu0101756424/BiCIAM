@@ -14,7 +14,7 @@ import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
 import local_search.complement.StrategyType;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem;
 import problem.definition.State;
 
@@ -73,3 +73,4 @@ public class CandidateTypeTest {
         assertNotNull(result);
     }
 }
+

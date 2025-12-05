@@ -16,3 +16,4 @@ public interface IFFactoryCandidate
 {
 	SearchCandidate createSearchCandidate(CandidateType typeCandidate) throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException;
 }
+

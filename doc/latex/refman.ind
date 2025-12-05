@@ -1,0 +1,940 @@
+\begin{theindex}
+
+  \item {acceptCandidate}
+    \subitem {local\_search.acceptation\_type.AcceptAnyone}, 
+		\hyperpage{15}
+    \subitem {local\_search.acceptation\_type.AcceptBest}, 
+		\hyperpage{16}
+    \subitem {local\_search.acceptation\_type.AcceptMulticase}, 
+		\hyperpage{17}
+    \subitem {local\_search.acceptation\_type.AcceptNotBad}, 
+		\hyperpage{18}
+    \subitem {local\_search.acceptation\_type.AcceptNotBadT}, 
+		\hyperpage{19}
+    \subitem {local\_search.acceptation\_type.AcceptNotBadU}, 
+		\hyperpage{20}
+    \subitem {local\_search.acceptation\_type.AcceptNotDominated}, 
+		\hyperpage{21}
+    \subitem {local\_search.acceptation\_type.AcceptNotDominatedTabu}, 
+		\hyperpage{22}
+  \item {awardUpdateREF}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{33}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{61}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{65}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{79}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{83}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{92}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{96}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{115}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{119}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{127}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{135}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{145}
+
+  \indexspace
+
+  \item {candidate}
+    \subitem {local\_search.candidate\_type.GreaterCandidate}, 
+		\hyperpage{59}
+    \subitem {local\_search.candidate\_type.NotDominatedCandidate}, 
+		\hyperpage{110}
+    \subitem {local\_search.candidate\_type.RandomCandidate}, 
+		\hyperpage{125}
+    \subitem {local\_search.candidate\_type.SmallerCandidate}, 
+		\hyperpage{138}
+  \item {config.tspDynamic.TSPState}, \hyperpage{150}
+  \item {createAcceptCandidate}
+    \subitem {factory\_method.FactoryAcceptCandidate}, \hyperpage{38}
+  \item {createCrossover}
+    \subitem {factory\_method.FactoryCrossover}, \hyperpage{41}
+  \item {createDistribution}
+    \subitem {factory\_method.FactoryDistribution}, \hyperpage{42}
+  \item {createdSolutionMethod}
+    \subitem {factory\_method.FactorySolutionMethod}, \hyperpage{49}
+  \item {createGenerator}
+    \subitem {factory\_method.FactoryGenerator}, \hyperpage{44}
+  \item {createMutation}
+    \subitem {factory\_method.FactoryMutation}, \hyperpage{46}
+  \item {createReplace}
+    \subitem {factory\_method.FactoryReplace}, \hyperpage{47}
+  \item {createSampling}
+    \subitem {factory\_method.FactorySampling}, \hyperpage{48}
+  \item {createSearchCandidate}
+    \subitem {factory\_method.FactoryCandidate}, \hyperpage{40}
+  \item {createSelectFather}
+    \subitem {factory\_method.FactoryFatherSelection}, \hyperpage{43}
+  \item {crossover}
+    \subitem {evolutionary\_algorithms.complement.OnePointCrossover}, 
+		\hyperpage{111}
+    \subitem {evolutionary\_algorithms.complement.UniformCrossover}, 
+		\hyperpage{152}
+
+  \indexspace
+
+  \item {distribution}
+    \subitem {evolutionary\_algorithms.complement.Univariate}, 
+		\hyperpage{153}
+
+  \indexspace
+
+  \item {evaluationState}
+    \subitem {problem.extension.FactoresPonderados}, \hyperpage{37}
+    \subitem {problem.extension.MultiObjetivoPuro}, \hyperpage{106}
+  \item {evolutionary\_algorithms.complement.AIOMutation}, 
+		\hyperpage{23}
+    \subitem {mutation}, \hyperpage{24}
+  \item {evolutionary\_algorithms.complement.Crossover}, \hyperpage{26}
+  \item {evolutionary\_algorithms.complement.CrossoverType}, 
+		\hyperpage{26}
+  \item {evolutionary\_algorithms.complement.Distribution}, 
+		\hyperpage{27}
+  \item {evolutionary\_algorithms.complement.DistributionType}, 
+		\hyperpage{31}
+  \item {evolutionary\_algorithms.complement.FatherSelection}, 
+		\hyperpage{49}
+  \item {evolutionary\_algorithms.complement.GenerationalReplace}, 
+		\hyperpage{50}
+    \subitem {replace}, \hyperpage{51}
+  \item {evolutionary\_algorithms.complement.Mutation}, \hyperpage{107}
+  \item {evolutionary\_algorithms.complement.MutationType}, 
+		\hyperpage{109}
+  \item {evolutionary\_algorithms.complement.OnePointCrossover}, 
+		\hyperpage{111}
+    \subitem {crossover}, \hyperpage{111}
+  \item {evolutionary\_algorithms.complement.OnePointMutation}, 
+		\hyperpage{112}
+    \subitem {mutation}, \hyperpage{113}
+  \item {evolutionary\_algorithms.complement.ProbabilisticSampling}, 
+		\hyperpage{122}
+    \subitem {sampling}, \hyperpage{123}
+  \item {evolutionary\_algorithms.complement.Probability}, 
+		\hyperpage{123}
+  \item {evolutionary\_algorithms.complement.Range}, \hyperpage{129}
+  \item {evolutionary\_algorithms.complement.Replace}, \hyperpage{130}
+  \item {evolutionary\_algorithms.complement.ReplaceType}, 
+		\hyperpage{130}
+  \item {evolutionary\_algorithms.complement.RouletteSelection}, 
+		\hyperpage{131}
+    \subitem {selection}, \hyperpage{131}
+  \item {evolutionary\_algorithms.complement.Sampling}, \hyperpage{132}
+  \item {evolutionary\_algorithms.complement.SamplingType}, 
+		\hyperpage{132}
+  \item {evolutionary\_algorithms.complement.SelectionType}, 
+		\hyperpage{133}
+  \item {evolutionary\_algorithms.complement.SteadyStateReplace}, 
+		\hyperpage{141}
+    \subitem {replace}, \hyperpage{141}
+  \item {evolutionary\_algorithms.complement.TowPointsMutation}, 
+		\hyperpage{148}
+    \subitem {mutation}, \hyperpage{149}
+  \item {evolutionary\_algorithms.complement.TruncationSelection}, 
+		\hyperpage{149}
+    \subitem {selection}, \hyperpage{150}
+  \item {evolutionary\_algorithms.complement.UniformCrossover}, 
+		\hyperpage{151}
+    \subitem {crossover}, \hyperpage{152}
+  \item {evolutionary\_algorithms.complement.Univariate}, 
+		\hyperpage{152}
+    \subitem {distribution}, \hyperpage{153}
+
+  \indexspace
+
+  \item {factory\_interface}, \hyperpage{11}
+  \item {factory\_interface.IFFactoryAcceptCandidate}, \hyperpage{68}
+  \item {factory\_interface.IFFactoryCandidate}, \hyperpage{68}
+  \item {factory\_interface.IFFactoryCrossover}, \hyperpage{69}
+  \item {factory\_interface.IFFactoryDistribution}, \hyperpage{70}
+  \item {factory\_interface.IFFactoryFatherSelection}, \hyperpage{70}
+  \item {factory\_interface.IFFactoryGenerator}, \hyperpage{71}
+  \item {factory\_interface.IFFactoryMutation}, \hyperpage{72}
+  \item {factory\_interface.IFFactoryReplace}, \hyperpage{72}
+  \item {factory\_interface.IFFactorySolutionMethod}, \hyperpage{73}
+  \item {factory\_interface.IFFSampling}, \hyperpage{74}
+  \item {factory\_method}, \hyperpage{11}
+  \item {factory\_method.FactoryAcceptCandidate}, \hyperpage{38}
+    \subitem {createAcceptCandidate}, \hyperpage{38}
+  \item {factory\_method.FactoryCandidate}, \hyperpage{39}
+    \subitem {createSearchCandidate}, \hyperpage{40}
+  \item {factory\_method.FactoryCrossover}, \hyperpage{40}
+    \subitem {createCrossover}, \hyperpage{41}
+  \item {factory\_method.FactoryDistribution}, \hyperpage{41}
+    \subitem {createDistribution}, \hyperpage{42}
+  \item {factory\_method.FactoryFatherSelection}, \hyperpage{42}
+    \subitem {createSelectFather}, \hyperpage{43}
+  \item {factory\_method.FactoryGenerator}, \hyperpage{44}
+    \subitem {createGenerator}, \hyperpage{44}
+  \item {factory\_method.FactoryLoader}, \hyperpage{45}
+  \item {factory\_method.FactoryMutation}, \hyperpage{45}
+    \subitem {createMutation}, \hyperpage{46}
+  \item {factory\_method.FactoryReplace}, \hyperpage{46}
+    \subitem {createReplace}, \hyperpage{47}
+  \item {factory\_method.FactorySampling}, \hyperpage{47}
+    \subitem {createSampling}, \hyperpage{48}
+  \item {factory\_method.FactorySolutionMethod}, \hyperpage{48}
+    \subitem {createdSolutionMethod}, \hyperpage{49}
+
+  \indexspace
+
+  \item {generate}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{33}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{61}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{65}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{79}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{83}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{92}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{96}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{115}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{119}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{127}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{135}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{145}
+  \item {generatedNewState}
+    \subitem {problem\_operators.MutationOperator}, \hyperpage{108}
+  \item {generateRandomState}
+    \subitem {problem\_operators.MutationOperator}, \hyperpage{108}
+  \item {getListCountBetterGender}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{61}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{65}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{92}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{96}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{115}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{119}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{127}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{135}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{145}
+  \item {getListCountGender}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{61}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{65}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{92}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{96}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{115}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{127}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{135}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{145}
+  \item {getReference}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{61}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{65}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{115}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {getReferenceList}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{29}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{100}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {getSonList}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {getTrace}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{56}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{88}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{104}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {getType}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{34}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{57}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{80}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{84}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{89}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{105}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {getWeight}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{35}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{57}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{81}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{85}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{89}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{105}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+
+  \indexspace
+
+  \item {local\_search.acceptation\_type.AcceptableCandidate}, 
+		\hyperpage{13}
+  \item {local\_search.acceptation\_type.AcceptAnyone}, \hyperpage{14}
+    \subitem {acceptCandidate}, \hyperpage{15}
+  \item {local\_search.acceptation\_type.AcceptationTypeTest}, 
+		\hyperpage{15}
+  \item {local\_search.acceptation\_type.AcceptBest}, \hyperpage{15}
+    \subitem {acceptCandidate}, \hyperpage{16}
+  \item {local\_search.acceptation\_type.AcceptMulticase}, 
+		\hyperpage{16}
+    \subitem {acceptCandidate}, \hyperpage{17}
+  \item {local\_search.acceptation\_type.AcceptNotBad}, \hyperpage{17}
+    \subitem {acceptCandidate}, \hyperpage{18}
+  \item {local\_search.acceptation\_type.AcceptNotBadT}, \hyperpage{18}
+    \subitem {acceptCandidate}, \hyperpage{19}
+  \item {local\_search.acceptation\_type.AcceptNotBadU}, \hyperpage{19}
+    \subitem {acceptCandidate}, \hyperpage{20}
+  \item {local\_search.acceptation\_type.AcceptNotDominated}, 
+		\hyperpage{21}
+    \subitem {acceptCandidate}, \hyperpage{21}
+  \item {local\_search.acceptation\_type.AcceptNotDominatedTabu}, 
+		\hyperpage{22}
+    \subitem {acceptCandidate}, \hyperpage{22}
+  \item {local\_search.acceptation\_type.AcceptType}, \hyperpage{23}
+  \item {local\_search.acceptation\_type.Dominance}, \hyperpage{32}
+  \item {local\_search.candidate\_type.CandidateType}, \hyperpage{24}
+  \item {local\_search.candidate\_type.CandidateTypeTest}, 
+		\hyperpage{25}
+  \item {local\_search.candidate\_type.CandidateValue}, \hyperpage{25}
+  \item {local\_search.candidate\_type.GreaterCandidate}, 
+		\hyperpage{58}
+    \subitem {candidate}, \hyperpage{59}
+  \item {local\_search.candidate\_type.NotDominatedCandidate}, 
+		\hyperpage{109}
+    \subitem {candidate}, \hyperpage{110}
+  \item {local\_search.candidate\_type.RandomCandidate}, 
+		\hyperpage{125}
+    \subitem {candidate}, \hyperpage{125}
+  \item {local\_search.candidate\_type.SearchCandidate}, 
+		\hyperpage{133}
+  \item {local\_search.candidate\_type.SmallerCandidate}, 
+		\hyperpage{138}
+    \subitem {candidate}, \hyperpage{138}
+  \item {local\_search.complement.ComplementTest}, \hyperpage{26}
+  \item {local\_search.complement.StopExecute}, \hyperpage{142}
+  \item {local\_search.complement.StrategyType}, \hyperpage{143}
+  \item {local\_search.complement.TabuSolutions}, \hyperpage{148}
+  \item {local\_search.complement.UpdateParameter}, \hyperpage{153}
+
+  \indexspace
+
+  \item {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{27}
+    \subitem {awardUpdateREF}, \hyperpage{29}
+    \subitem {generate}, \hyperpage{29}
+    \subitem {getListCountBetterGender}, \hyperpage{29}
+    \subitem {getListCountGender}, \hyperpage{29}
+    \subitem {getReference}, \hyperpage{29}
+    \subitem {getReferenceList}, \hyperpage{29}
+    \subitem {getSonList}, \hyperpage{30}
+    \subitem {getTrace}, \hyperpage{30}
+    \subitem {getType}, \hyperpage{30}
+    \subitem {getWeight}, \hyperpage{30}
+    \subitem {setInitialReference}, \hyperpage{30}
+    \subitem {setWeight}, \hyperpage{30}
+    \subitem {updateReference}, \hyperpage{30}
+  \item {metaheuristics.generators.DistributionEstimationAlgorithmTest}, 
+		\hyperpage{31}
+  \item {metaheuristics.generators.EvolutionStrategies}, \hyperpage{32}
+    \subitem {awardUpdateREF}, \hyperpage{33}
+    \subitem {generate}, \hyperpage{33}
+    \subitem {getListCountBetterGender}, \hyperpage{34}
+    \subitem {getListCountGender}, \hyperpage{34}
+    \subitem {getReference}, \hyperpage{34}
+    \subitem {getReferenceList}, \hyperpage{34}
+    \subitem {getSonList}, \hyperpage{34}
+    \subitem {getTrace}, \hyperpage{34}
+    \subitem {getType}, \hyperpage{34}
+    \subitem {getWeight}, \hyperpage{35}
+    \subitem {setInitialReference}, \hyperpage{35}
+    \subitem {setWeight}, \hyperpage{35}
+    \subitem {updateReference}, \hyperpage{35}
+  \item {metaheuristics.generators.EvolutionStrategiesTest}, 
+		\hyperpage{36}
+  \item {metaheuristics.generators.Generator}, \hyperpage{52}
+  \item {metaheuristics.generators.GeneratorsTest}, \hyperpage{53}
+  \item {metaheuristics.generators.GeneratorType}, \hyperpage{53}
+  \item {metaheuristics.generators.GeneticAlgorithm}, \hyperpage{54}
+    \subitem {awardUpdateREF}, \hyperpage{56}
+    \subitem {generate}, \hyperpage{56}
+    \subitem {getListCountBetterGender}, \hyperpage{56}
+    \subitem {getListCountGender}, \hyperpage{56}
+    \subitem {getReference}, \hyperpage{56}
+    \subitem {getReferenceList}, \hyperpage{56}
+    \subitem {getSonList}, \hyperpage{56}
+    \subitem {getTrace}, \hyperpage{56}
+    \subitem {getType}, \hyperpage{57}
+    \subitem {getWeight}, \hyperpage{57}
+    \subitem {setInitialReference}, \hyperpage{57}
+    \subitem {setWeight}, \hyperpage{57}
+    \subitem {updateReference}, \hyperpage{57}
+  \item {metaheuristics.generators.GeneticAlgorithmTest}, 
+		\hyperpage{58}
+  \item {metaheuristics.generators.HillClimbing}, \hyperpage{59}
+    \subitem {awardUpdateREF}, \hyperpage{61}
+    \subitem {generate}, \hyperpage{61}
+    \subitem {getListCountBetterGender}, \hyperpage{61}
+    \subitem {getListCountGender}, \hyperpage{61}
+    \subitem {getReference}, \hyperpage{61}
+    \subitem {getReferenceList}, \hyperpage{62}
+    \subitem {getSonList}, \hyperpage{62}
+    \subitem {getTrace}, \hyperpage{62}
+    \subitem {getType}, \hyperpage{62}
+    \subitem {getWeight}, \hyperpage{62}
+    \subitem {setInitialReference}, \hyperpage{62}
+    \subitem {setWeight}, \hyperpage{62}
+    \subitem {updateReference}, \hyperpage{63}
+  \item {metaheuristics.generators.HillClimbingRestart}, \hyperpage{63}
+    \subitem {awardUpdateREF}, \hyperpage{65}
+    \subitem {generate}, \hyperpage{65}
+    \subitem {getListCountBetterGender}, \hyperpage{65}
+    \subitem {getListCountGender}, \hyperpage{65}
+    \subitem {getReference}, \hyperpage{65}
+    \subitem {getReferenceList}, \hyperpage{66}
+    \subitem {getSonList}, \hyperpage{66}
+    \subitem {getTrace}, \hyperpage{66}
+    \subitem {getType}, \hyperpage{66}
+    \subitem {getWeight}, \hyperpage{66}
+    \subitem {setInitialReference}, \hyperpage{66}
+    \subitem {setWeight}, \hyperpage{66}
+    \subitem {updateReference}, \hyperpage{67}
+  \item {metaheuristics.generators.HillClimbingRestartTest}, 
+		\hyperpage{67}
+  \item {metaheuristics.generators.HillClimbingTest}, \hyperpage{67}
+  \item {metaheuristics.generators.InstanceDE}, \hyperpage{74}
+  \item {metaheuristics.generators.InstanceDETest}, \hyperpage{75}
+  \item {metaheuristics.generators.InstanceEE}, \hyperpage{75}
+  \item {metaheuristics.generators.InstanceEETest}, \hyperpage{76}
+  \item {metaheuristics.generators.InstanceGA}, \hyperpage{76}
+  \item {metaheuristics.generators.InstanceGATest}, \hyperpage{77}
+  \item {metaheuristics.generators.InstanceTest}, \hyperpage{77}
+  \item {metaheuristics.generators.LimitRoulette}, \hyperpage{78}
+  \item {metaheuristics.generators.LimitThreshold}, \hyperpage{78}
+    \subitem {awardUpdateREF}, \hyperpage{79}
+    \subitem {generate}, \hyperpage{79}
+    \subitem {getListCountBetterGender}, \hyperpage{80}
+    \subitem {getListCountGender}, \hyperpage{80}
+    \subitem {getReference}, \hyperpage{80}
+    \subitem {getReferenceList}, \hyperpage{80}
+    \subitem {getSonList}, \hyperpage{80}
+    \subitem {getTrace}, \hyperpage{80}
+    \subitem {getType}, \hyperpage{80}
+    \subitem {getWeight}, \hyperpage{81}
+    \subitem {setInitialReference}, \hyperpage{81}
+    \subitem {setWeight}, \hyperpage{81}
+    \subitem {updateReference}, \hyperpage{81}
+  \item {metaheuristics.generators.LimitThresholdTest}, \hyperpage{81}
+  \item {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{82}
+    \subitem {awardUpdateREF}, \hyperpage{83}
+    \subitem {generate}, \hyperpage{83}
+    \subitem {getListCountBetterGender}, \hyperpage{84}
+    \subitem {getListCountGender}, \hyperpage{84}
+    \subitem {getReference}, \hyperpage{84}
+    \subitem {getReferenceList}, \hyperpage{84}
+    \subitem {getSonList}, \hyperpage{84}
+    \subitem {getTrace}, \hyperpage{84}
+    \subitem {getType}, \hyperpage{84}
+    \subitem {getWeight}, \hyperpage{85}
+    \subitem {setInitialReference}, \hyperpage{85}
+    \subitem {setWeight}, \hyperpage{85}
+    \subitem {updateReference}, \hyperpage{85}
+  \item {metaheuristics.generators.MultiCaseSimulatedAnnealingTest}, 
+		\hyperpage{85}
+  \item {metaheuristics.generators.MultiGenerator}, \hyperpage{86}
+    \subitem {awardUpdateREF}, \hyperpage{88}
+    \subitem {generate}, \hyperpage{88}
+    \subitem {getListCountBetterGender}, \hyperpage{88}
+    \subitem {getListCountGender}, \hyperpage{88}
+    \subitem {getReference}, \hyperpage{88}
+    \subitem {getReferenceList}, \hyperpage{88}
+    \subitem {getSonList}, \hyperpage{88}
+    \subitem {getTrace}, \hyperpage{88}
+    \subitem {getType}, \hyperpage{89}
+    \subitem {getWeight}, \hyperpage{89}
+    \subitem {setInitialReference}, \hyperpage{89}
+    \subitem {setWeight}, \hyperpage{89}
+    \subitem {updateReference}, \hyperpage{89}
+  \item {metaheuristics.generators.MultiGeneratorTest}, \hyperpage{90}
+  \item {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{90}
+    \subitem {awardUpdateREF}, \hyperpage{92}
+    \subitem {generate}, \hyperpage{92}
+    \subitem {getListCountBetterGender}, \hyperpage{92}
+    \subitem {getListCountGender}, \hyperpage{92}
+    \subitem {getReference}, \hyperpage{93}
+    \subitem {getReferenceList}, \hyperpage{93}
+    \subitem {getSonList}, \hyperpage{93}
+    \subitem {getTrace}, \hyperpage{93}
+    \subitem {getType}, \hyperpage{93}
+    \subitem {getWeight}, \hyperpage{93}
+    \subitem {setInitialReference}, \hyperpage{93}
+    \subitem {setWeight}, \hyperpage{93}
+    \subitem {updateReference}, \hyperpage{94}
+  \item {metaheuristics.generators.MultiobjectiveHillClimbingDistanceTest}, 
+		\hyperpage{94}
+  \item {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{94}
+    \subitem {awardUpdateREF}, \hyperpage{96}
+    \subitem {generate}, \hyperpage{96}
+    \subitem {getListCountBetterGender}, \hyperpage{96}
+    \subitem {getListCountGender}, \hyperpage{96}
+    \subitem {getReference}, \hyperpage{97}
+    \subitem {getReferenceList}, \hyperpage{97}
+    \subitem {getSonList}, \hyperpage{97}
+    \subitem {getTrace}, \hyperpage{97}
+    \subitem {getType}, \hyperpage{97}
+    \subitem {getWeight}, \hyperpage{97}
+    \subitem {setInitialReference}, \hyperpage{97}
+    \subitem {setWeight}, \hyperpage{97}
+    \subitem {updateReference}, \hyperpage{98}
+  \item {metaheuristics.generators.MultiobjectiveHillClimbingRestartTest}, 
+		\hyperpage{98}
+  \item {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{98}
+    \subitem {awardUpdateREF}, \hyperpage{100}
+    \subitem {generate}, \hyperpage{100}
+    \subitem {getListCountBetterGender}, \hyperpage{100}
+    \subitem {getListCountGender}, \hyperpage{100}
+    \subitem {getReference}, \hyperpage{100}
+    \subitem {getReferenceList}, \hyperpage{100}
+    \subitem {getSonList}, \hyperpage{101}
+    \subitem {getTrace}, \hyperpage{101}
+    \subitem {getType}, \hyperpage{101}
+    \subitem {getWeight}, \hyperpage{101}
+    \subitem {setInitialReference}, \hyperpage{101}
+    \subitem {setWeight}, \hyperpage{101}
+    \subitem {updateReference}, \hyperpage{101}
+  \item {metaheuristics.generators.MultiobjectiveStochasticHillClimbingTest}, 
+		\hyperpage{102}
+  \item {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{102}
+    \subitem {awardUpdateREF}, \hyperpage{104}
+    \subitem {generate}, \hyperpage{104}
+    \subitem {getListCountBetterGender}, \hyperpage{104}
+    \subitem {getListCountGender}, \hyperpage{104}
+    \subitem {getReference}, \hyperpage{104}
+    \subitem {getReferenceList}, \hyperpage{104}
+    \subitem {getSonList}, \hyperpage{104}
+    \subitem {getTrace}, \hyperpage{104}
+    \subitem {getType}, \hyperpage{105}
+    \subitem {getWeight}, \hyperpage{105}
+    \subitem {setInitialReference}, \hyperpage{105}
+    \subitem {setWeight}, \hyperpage{105}
+    \subitem {updateReference}, \hyperpage{105}
+  \item {metaheuristics.generators.Particle}, \hyperpage{114}
+    \subitem {awardUpdateREF}, \hyperpage{115}
+    \subitem {generate}, \hyperpage{115}
+    \subitem {getListCountBetterGender}, \hyperpage{115}
+    \subitem {getListCountGender}, \hyperpage{115}
+    \subitem {getReference}, \hyperpage{115}
+    \subitem {getReferenceList}, \hyperpage{116}
+    \subitem {getSonList}, \hyperpage{116}
+    \subitem {getTrace}, \hyperpage{116}
+    \subitem {getType}, \hyperpage{116}
+    \subitem {getWeight}, \hyperpage{116}
+    \subitem {setInitialReference}, \hyperpage{116}
+    \subitem {setWeight}, \hyperpage{116}
+    \subitem {updateReference}, \hyperpage{117}
+  \item {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{117}
+    \subitem {awardUpdateREF}, \hyperpage{119}
+    \subitem {generate}, \hyperpage{119}
+    \subitem {getListCountBetterGender}, \hyperpage{119}
+    \subitem {getListCountGender}, \hyperpage{120}
+    \subitem {getReference}, \hyperpage{120}
+    \subitem {getReferenceList}, \hyperpage{120}
+    \subitem {getSonList}, \hyperpage{120}
+    \subitem {getTrace}, \hyperpage{120}
+    \subitem {getType}, \hyperpage{120}
+    \subitem {getWeight}, \hyperpage{120}
+    \subitem {setInitialReference}, \hyperpage{120}
+    \subitem {setWeight}, \hyperpage{121}
+    \subitem {updateReference}, \hyperpage{121}
+  \item {metaheuristics.generators.ParticleSwarmOptimizationTest}, 
+		\hyperpage{121}
+  \item {metaheuristics.generators.ParticleTest}, \hyperpage{122}
+  \item {metaheuristics.generators.RandomSearch}, \hyperpage{126}
+    \subitem {awardUpdateREF}, \hyperpage{127}
+    \subitem {generate}, \hyperpage{127}
+    \subitem {getListCountBetterGender}, \hyperpage{127}
+    \subitem {getListCountGender}, \hyperpage{127}
+    \subitem {getReference}, \hyperpage{128}
+    \subitem {getReferenceList}, \hyperpage{128}
+    \subitem {getSonList}, \hyperpage{128}
+    \subitem {getTrace}, \hyperpage{128}
+    \subitem {getType}, \hyperpage{128}
+    \subitem {getWeight}, \hyperpage{128}
+    \subitem {setInitialReference}, \hyperpage{128}
+    \subitem {setWeight}, \hyperpage{128}
+    \subitem {updateReference}, \hyperpage{129}
+  \item {metaheuristics.generators.RandomSearchTest}, \hyperpage{129}
+  \item {metaheuristics.generators.SimulatedAnnealing}, \hyperpage{134}
+    \subitem {awardUpdateREF}, \hyperpage{135}
+    \subitem {generate}, \hyperpage{135}
+    \subitem {getListCountBetterGender}, \hyperpage{135}
+    \subitem {getListCountGender}, \hyperpage{135}
+    \subitem {getReference}, \hyperpage{136}
+    \subitem {getReferenceList}, \hyperpage{136}
+    \subitem {getSonList}, \hyperpage{136}
+    \subitem {getTrace}, \hyperpage{136}
+    \subitem {getType}, \hyperpage{136}
+    \subitem {getWeight}, \hyperpage{136}
+    \subitem {setInitialReference}, \hyperpage{136}
+    \subitem {setWeight}, \hyperpage{136}
+    \subitem {updateReference}, \hyperpage{137}
+  \item {metaheuristics.generators.SimulatedAnnealingTest}, 
+		\hyperpage{137}
+  \item {metaheuristics.generators.TabuSearch}, \hyperpage{144}
+    \subitem {awardUpdateREF}, \hyperpage{145}
+    \subitem {generate}, \hyperpage{145}
+    \subitem {getListCountBetterGender}, \hyperpage{145}
+    \subitem {getListCountGender}, \hyperpage{145}
+    \subitem {getReference}, \hyperpage{146}
+    \subitem {getReferenceList}, \hyperpage{146}
+    \subitem {getSonList}, \hyperpage{146}
+    \subitem {getTrace}, \hyperpage{146}
+    \subitem {getType}, \hyperpage{146}
+    \subitem {getWeight}, \hyperpage{146}
+    \subitem {setInitialReference}, \hyperpage{146}
+    \subitem {setWeight}, \hyperpage{146}
+    \subitem {updateReference}, \hyperpage{147}
+  \item {metaheuristics.generators.TabuSearchTest}, \hyperpage{147}
+  \item {metaheuristics.strategy.Strategy}, \hyperpage{142}
+  \item {metaheuristics.strategy.StrategyTest}, \hyperpage{143}
+  \item {mutation}
+    \subitem {evolutionary\_algorithms.complement.AIOMutation}, 
+		\hyperpage{24}
+    \subitem {evolutionary\_algorithms.complement.OnePointMutation}, 
+		\hyperpage{113}
+    \subitem {evolutionary\_algorithms.complement.TowPointsMutation}, 
+		\hyperpage{149}
+
+  \indexspace
+
+  \item {problem.definition.Codification}, \hyperpage{25}
+  \item {problem.definition.CodificationTest}, \hyperpage{25}
+  \item {problem.definition.ObjetiveFunction}, \hyperpage{110}
+  \item {problem.definition.ObjetiveFunctionTest}, \hyperpage{110}
+  \item {problem.definition.Operator}, \hyperpage{113}
+  \item {problem.definition.OperatorTest}, \hyperpage{113}
+  \item {problem.definition.Problem}, \hyperpage{123}
+  \item {problem.definition.Problem.ProblemType}, \hyperpage{124}
+  \item {problem.definition.ProblemTest}, \hyperpage{124}
+  \item {problem.definition.State}, \hyperpage{139}
+  \item {problem.definition.StateTest}, \hyperpage{140}
+  \item {problem.extension.FactoresPonderados}, \hyperpage{36}
+    \subitem {evaluationState}, \hyperpage{37}
+  \item {problem.extension.FactoresPonderadosTest}, \hyperpage{37}
+  \item {problem.extension.MetricasMultiobjetivo}, \hyperpage{82}
+  \item {problem.extension.MultiObjetivoPuro}, \hyperpage{106}
+    \subitem {evaluationState}, \hyperpage{106}
+  \item {problem.extension.SolutionMethod}, \hyperpage{139}
+  \item {problem.extension.TypeSolutionMethod}, \hyperpage{151}
+  \item {problem\_operators.MutationOperator}, \hyperpage{107}
+    \subitem {generatedNewState}, \hyperpage{108}
+    \subitem {generateRandomState}, \hyperpage{108}
+  \item {problem\_operators.MutationOperatorTest}, \hyperpage{108}
+
+  \indexspace
+
+  \item {replace}
+    \subitem {evolutionary\_algorithms.complement.GenerationalReplace}, 
+		\hyperpage{51}
+    \subitem {evolutionary\_algorithms.complement.SteadyStateReplace}, 
+		\hyperpage{141}
+
+  \indexspace
+
+  \item {sampling}
+    \subitem {evolutionary\_algorithms.complement.ProbabilisticSampling}, 
+		\hyperpage{123}
+  \item {selection}
+    \subitem {evolutionary\_algorithms.complement.RouletteSelection}, 
+		\hyperpage{131}
+    \subitem {evolutionary\_algorithms.complement.TruncationSelection}, 
+		\hyperpage{150}
+  \item {setInitialReference}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{35}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{57}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{81}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{85}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{89}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{105}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{120}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+  \item {setWeight}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{35}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{57}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{62}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{66}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{81}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{85}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{89}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{93}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{97}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{105}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{116}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{121}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{128}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{136}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{146}
+
+  \indexspace
+
+  \item {updateReference}
+    \subitem {metaheuristics.generators.DistributionEstimationAlgorithm}, 
+		\hyperpage{30}
+    \subitem {metaheuristics.generators.EvolutionStrategies}, 
+		\hyperpage{35}
+    \subitem {metaheuristics.generators.GeneticAlgorithm}, 
+		\hyperpage{57}
+    \subitem {metaheuristics.generators.HillClimbing}, \hyperpage{63}
+    \subitem {metaheuristics.generators.HillClimbingRestart}, 
+		\hyperpage{67}
+    \subitem {metaheuristics.generators.LimitThreshold}, \hyperpage{81}
+    \subitem {metaheuristics.generators.MultiCaseSimulatedAnnealing}, 
+		\hyperpage{85}
+    \subitem {metaheuristics.generators.MultiGenerator}, \hyperpage{89}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingDistance}, 
+		\hyperpage{94}
+    \subitem {metaheuristics.generators.MultiobjectiveHillClimbingRestart}, 
+		\hyperpage{98}
+    \subitem {metaheuristics.generators.MultiobjectiveStochasticHillClimbing}, 
+		\hyperpage{101}
+    \subitem {metaheuristics.generators.MultiobjectiveTabuSearch}, 
+		\hyperpage{105}
+    \subitem {metaheuristics.generators.Particle}, \hyperpage{117}
+    \subitem {metaheuristics.generators.ParticleSwarmOptimization}, 
+		\hyperpage{121}
+    \subitem {metaheuristics.generators.RandomSearch}, \hyperpage{129}
+    \subitem {metaheuristics.generators.SimulatedAnnealing}, 
+		\hyperpage{137}
+    \subitem {metaheuristics.generators.TabuSearch}, \hyperpage{147}
+
+\end{theindex}

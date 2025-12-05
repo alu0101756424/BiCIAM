@@ -20,3 +20,4 @@ public class FactoryMutation implements IFFactoryMutation {
 		return mutation;
 	}
 }
+

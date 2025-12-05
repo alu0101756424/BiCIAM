@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955311760*java2.B∫+
+1.0alu0101756424_BiCIAMJavaFrontend"1764973485553*java2.B∫+
 >
 9src/main/java/metaheuristics/generators/HillClimbing.java2
 	
@@ -136,11 +136,11 @@ references86
 Y
 Sproblem.definition.Problem#getTypeProblem()Lproblem/definition/Problem$ProblemType;97
 &
- metaheurictics.strategy.Strategy99
+ metaheuristics.strategy.Strategy99
 P
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;101
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;101
 W
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;103
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;103
 7
 0problem.definition.Problem$ProblemType.Maximizar105
 A
@@ -369,9 +369,6 @@ B
 
 15
 81
-
-102
-10210319
 H
 177A
 17717884 *
@@ -412,6 +409,9 @@ F
 
 58
 585919
+
+100
+10010119
 F
 135?
 13513684 *
@@ -441,12 +441,6 @@ B
 
 15
 65
-
-98
-989919
-
-100
-10010119
 
 119
 11912019
@@ -520,6 +514,9 @@ B
 
 15
 57
+
+102
+10210319
 
 27
 272819
@@ -664,6 +661,9 @@ F
 94
 949519
 
+98
+989919
+
 48
 484919
 H
@@ -714,7 +714,7 @@ H
 11011119
 
 115
-11511619rÙ,
+11511619rÏ-
 
 101720*
 1# (,
@@ -1316,6 +1316,19 @@ H
 
 1624821*
 1|  |(%
+
+1656386*
+1Ñ
+ Ñ(
+
+1681021*
+1ä ä(
+
+1681086*
+1ä ä(
+
+1686386*
+1ä ä(
 
 1711021*
 1ê

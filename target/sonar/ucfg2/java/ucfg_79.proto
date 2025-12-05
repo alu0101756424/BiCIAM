@@ -1,18 +1,18 @@
 
-bmetaheuristics.generators.MultiGenerator#getActiveGenerator()Lmetaheuristics/generators/Generator;d
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiGenerator.java— —(+"1*ì
+Rmetaheuristics.generators.MultiGenerator#getListGeneratedPP()Ljava/util/ArrayList;d
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiGenerator.java‹! ‹(3"1*Â
 1
-˜	 ˜(Ÿ
-œ
+Œ Œ(+Š
+‡
 
-˜	 ˜()
-%0#metaheuristics.generators.Generator"__id*]
+Œ Œ(+
+%0java.util.List"__id*]
 
 __unknown_file (A*?*
 (metaheuristics.generators.MultiGenerator"
-activeGenerator"9
+listGeneratedPP"$
 
-˜ ˜(+
-)
-%0#metaheuristics.generators.GeneratorB,"*
-(metaheuristics.generators.MultiGeneratorH
+Œ Œ(,
+
+%0java.util.ListB,"*
+(metaheuristics.generators.MultiGenerator

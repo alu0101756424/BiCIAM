@@ -12,3 +12,4 @@ public interface IFFactoryFatherSelection {
 	
 	FatherSelection createSelectFather(SelectionType selectionType)throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException ;
 }
+

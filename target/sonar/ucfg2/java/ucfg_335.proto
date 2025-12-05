@@ -1,7 +1,9 @@
 
-Cmetaheuristics.generators.HillClimbing#getSonList()Ljava/util/List;`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javar r("1*!
-1t	 t("
-t t(
-""B*(
-&metaheuristics.generators.HillClimbingH
+7metaheuristics.generators.GeneticAlgorithm#getTrace()[Ff
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java÷ ÷("1*%
+1
+ù	 ù("
+
+ù ù(
+""B.,
+*metaheuristics.generators.GeneticAlgorithmH

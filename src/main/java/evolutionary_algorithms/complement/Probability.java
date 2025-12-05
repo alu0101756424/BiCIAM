@@ -5,7 +5,18 @@ public class Probability {
     private Object value;
 	private float probability;
 	
-	
+	public Probability(Probability probability) {
+		this.key = probability.getKey();
+		this.value = probability.getValue();
+		this.probability = probability.getProbability();
+	}
+	public Probability() {
+	}
+	public Probability(Object key, Object value, float probability) {
+		this.key = key;
+		this.value = value;
+		this.probability = probability;
+	}
 	public float getProbability() {
 		return probability;
 	}
@@ -25,3 +36,4 @@ public class Probability {
 		this.value = value;
 	}
 }
+

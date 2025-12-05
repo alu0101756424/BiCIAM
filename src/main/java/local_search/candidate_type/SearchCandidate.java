@@ -6,3 +6,4 @@ import problem.definition.State;
 public interface SearchCandidate {
     State candidate(State stateReference, List<State> neighborhood);
 }
+

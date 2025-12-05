@@ -14,3 +14,4 @@ public class AcceptNotBadT implements AcceptableCandidate {
         return true;
     }
 }
+

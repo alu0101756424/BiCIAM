@@ -1,15 +1,15 @@
 
-Qmetaheuristics.generators.LimitThreshold#getReference()Lproblem/definition/State;b
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java_ _("1*—
-1`	 `(ì
-ê
-`	 `(
-%0problem.definition.State"__id*^
+Tproblem.definition.State#getTypeGenerator()Lmetaheuristics/generators/GeneratorType;R
+HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.java( ((&"1*‹
+1)	 )(è
+å
+)	 )(-
+%0'metaheuristics.generators.GeneratorType"__id*K
 
-__unknown_file (B*@*
-(metaheuristics.generators.LimitThreshold"
-stateReferenceLT",
-` `( 
-
-%0problem.definition.StateB,*
-(metaheuristics.generators.LimitThresholdH
+__unknown_file (/*-
+problem.definition.State"
+typeGenerator";
+) )(/
+-
+%0'metaheuristics.generators.GeneratorTypeB
+problem.definition.StateH

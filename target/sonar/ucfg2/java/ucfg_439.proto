@@ -1,9 +1,32 @@
 
-5metaheuristics.generators.LimitThreshold#getWeight()Fd
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java‡ ‡("1*%
-1
-‰	 ‰("
-
-‰ ‰(
-""B,*
-(metaheuristics.generators.LimitThresholdHX
+@problem.definition.State#Comparator(Lproblem/definition/State;)ZR
+HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.javaF F("3*É
+3H H(­ª
+I I(
+%0java.util.ArrayList"7problem.definition.State#getCode()Ljava/util/ArrayList;*?
+
+__unknown_file (#
+!
+stateproblem.definition.State2	getCode()¦£
+I I(%
+%1java.util.ArrayList"7problem.definition.State#getCode()Ljava/util/ArrayList;*8
+
+__unknown_file (
+problem.definition.State2	getCode()ÛØ
+I I(&
+%2boolean"/java.util.ArrayList#equals(Ljava/lang/Object;)Z*7
+
+__unknown_file (
+
+%0java.util.ArrayList*7
+
+__unknown_file (
+
+%1java.util.ArrayList2equals(Ljava/lang/Object;)*
+1*!
+1L	 L("
+L L(
+"":-
+F F(&!
+stateproblem.definition.StateB
+problem.definition.StateHX

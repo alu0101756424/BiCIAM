@@ -19,3 +19,4 @@ public class GenerationalReplace extends Replace {
 		return listState;
 	}
 }
+

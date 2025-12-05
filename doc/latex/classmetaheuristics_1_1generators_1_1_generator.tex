@@ -1,0 +1,71 @@
+\doxysection{metaheuristics.\+generators.\+Generator Class Reference}
+\hypertarget{classmetaheuristics_1_1generators_1_1_generator}{}\label{classmetaheuristics_1_1generators_1_1_generator}\index{metaheuristics.generators.Generator@{metaheuristics.generators.Generator}}
+
+
+Inheritance diagram for metaheuristics.\+generators.\+Generator\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{classmetaheuristics_1_1generators_1_1_generator__inherit__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a06f6f7622b9ce32590eadbdf6bf962b5}\label{classmetaheuristics_1_1generators_1_1_generator_a06f6f7622b9ce32590eadbdf6bf962b5} 
+abstract \mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} {\bfseries generate} (Integer operatornumber)  throws Illegal\+Argument\+Exception, Security\+Exception, Class\+Not\+Found\+Exception, Instantiation\+Exception, Illegal\+Access\+Exception, Invocation\+Target\+Exception, No\+Such\+Method\+Exception
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_aa1c5878953f2111221b21cb9b1e6cc9f}\label{classmetaheuristics_1_1generators_1_1_generator_aa1c5878953f2111221b21cb9b1e6cc9f} 
+abstract void {\bfseries update\+Reference} (\mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} state\+Candidate, Integer count\+Iterations\+Current)  throws Illegal\+Argument\+Exception, Security\+Exception, Class\+Not\+Found\+Exception, Instantiation\+Exception, Illegal\+Access\+Exception, Invocation\+Target\+Exception, No\+Such\+Method\+Exception
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_aa56dd45a45776f6023b9f74179cc6384}\label{classmetaheuristics_1_1generators_1_1_generator_aa56dd45a45776f6023b9f74179cc6384} 
+abstract \mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} {\bfseries get\+Reference} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_aa9f7c4c983705f843b8fcc81e4aa8ba4}\label{classmetaheuristics_1_1generators_1_1_generator_aa9f7c4c983705f843b8fcc81e4aa8ba4} 
+abstract void {\bfseries set\+Initial\+Reference} (\mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} state\+Initial\+Ref)
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a5a123306b43c42d28cd1d6e17f8067a5}\label{classmetaheuristics_1_1generators_1_1_generator_a5a123306b43c42d28cd1d6e17f8067a5} 
+abstract \mbox{\hyperlink{enummetaheuristics_1_1generators_1_1_generator_type}{Generator\+Type}} {\bfseries get\+Type} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_ae168237b306de55fe4d6dfda75c7cd13}\label{classmetaheuristics_1_1generators_1_1_generator_ae168237b306de55fe4d6dfda75c7cd13} 
+abstract List$<$ \mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} $>$ {\bfseries get\+Reference\+List} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_aee09d724c1b3040e7a7ad0b64e341c96}\label{classmetaheuristics_1_1generators_1_1_generator_aee09d724c1b3040e7a7ad0b64e341c96} 
+abstract List$<$ \mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} $>$ {\bfseries get\+Son\+List} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a3513d3953ecc97683f38bcb662b74b9b}\label{classmetaheuristics_1_1generators_1_1_generator_a3513d3953ecc97683f38bcb662b74b9b} 
+abstract boolean {\bfseries award\+Update\+REF} (\mbox{\hyperlink{classproblem_1_1definition_1_1_state}{State}} state\+Candidate)
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a8b3c66b57b4c739666989fbce667eb40}\label{classmetaheuristics_1_1generators_1_1_generator_a8b3c66b57b4c739666989fbce667eb40} 
+abstract void {\bfseries set\+Weight} (float weight)
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a64f2b824081c7af593bf9aa8eabf2c9e}\label{classmetaheuristics_1_1generators_1_1_generator_a64f2b824081c7af593bf9aa8eabf2c9e} 
+abstract float {\bfseries get\+Weight} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a75d7f30dd2cb3f92475db8525ac7c6e7}\label{classmetaheuristics_1_1generators_1_1_generator_a75d7f30dd2cb3f92475db8525ac7c6e7} 
+abstract float\mbox{[}$\,$\mbox{]} {\bfseries get\+Trace} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_ac5bace71f51c16b611ede3ed53263473}\label{classmetaheuristics_1_1generators_1_1_generator_ac5bace71f51c16b611ede3ed53263473} 
+abstract int\mbox{[}$\,$\mbox{]} {\bfseries get\+List\+Count\+Better\+Gender} ()
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_ac5d6d45ee8017fb87d80aa952edfc34e}\label{classmetaheuristics_1_1generators_1_1_generator_ac5d6d45ee8017fb87d80aa952edfc34e} 
+abstract int\mbox{[}$\,$\mbox{]} {\bfseries get\+List\+Count\+Gender} ()
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a3c0145210385b6257c8fc20cac1f830a}\label{classmetaheuristics_1_1generators_1_1_generator_a3c0145210385b6257c8fc20cac1f830a} 
+int {\bfseries count\+Gender}
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a43815f3944c514ba3156b0e68482befa}\label{classmetaheuristics_1_1generators_1_1_generator_a43815f3944c514ba3156b0e68482befa} 
+int {\bfseries count\+Better\+Gender}
+\item 
+\Hypertarget{classmetaheuristics_1_1generators_1_1_generator_a535a5753046bdda55fb6fee44c4b1f88}\label{classmetaheuristics_1_1generators_1_1_generator_a535a5753046bdda55fb6fee44c4b1f88} 
+int\mbox{[}$\,$\mbox{]} {\bfseries list\+Count\+Better\+Gender}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Intelli\+JPro/uni/\+LB/\+Bi\+CIAM/src/main/java/metaheuristics/generators/Generator.\+java\end{DoxyCompactItemize}

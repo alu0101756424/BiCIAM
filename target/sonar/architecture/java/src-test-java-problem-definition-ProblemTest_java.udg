@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955314875*java2.B‡
+1.0alu0101756424_BiCIAMJavaFrontend"1764973489075*java2.B‘!
 6
 1src/test/java/problem/definition/ProblemTest.java2
 	
@@ -170,7 +170,19 @@ E
 #
 org.mockito.ArgumentMatchers136
 L
-Eorg.mockito.ArgumentMatchers#any(Ljava/lang/Class;)Ljava/lang/Object;138J#
+Eorg.mockito.ArgumentMatchers#any(Ljava/lang/Class;)Ljava/lang/Object;138
+G
+@problem.definition.ProblemTest#testEvaluateWithSolutionMethod()V140
+%
+testEvaluateWithSolutionMethod141
++
+$problem.extension.TypeSolutionMethod143
+>
+7problem.extension.TypeSolutionMethod.FactoresPonderados145
+J
+Corg.junit.jupiter.api.Assertions#assertNotNull(Ljava/lang/Object;)V147
+_
+Xproblem.definition.Problem#getTypeSolutionMethod()Lproblem/extension/TypeSolutionMethod;149J#
 !
 1
 12
@@ -186,13 +198,19 @@ Eorg.mockito.ArgumentMatchers#any(Ljava/lang/Class;)Ljava/lang/Object;138J#
 
 
 5
-6jÖ
+6jú
 
 64
 646524
 
+142
+14214324
+
 135
 13513624
+
+146
+14614724
 B
 27<
 272819 *
@@ -261,6 +279,17 @@ B
 
 88
 888924
+F
+139?
+13914062 *
+1P P(210:7B
+
+
+13
+14
+
+15
+141
 B
 35<
 353619 *
@@ -328,6 +357,9 @@ B
 30
 303124
 
+144
+14414524
+
 110
 11011124
 
@@ -372,6 +404,9 @@ B
 
 137
 13713824
+
+148
+14814924
 
 106
 10610724
@@ -440,7 +475,7 @@ B
 949524
 
 48
-484924r‡+
+484924rË0
 
 172225*
 1 (
@@ -1060,3 +1095,80 @@ B
 
 11213771*
 1N% N((
+
+1397534*
+1P P(
+
+
+1397526*
+1P P(
+
+
+1392268*
+1S	 S(
+
+13911771*
+1S S(&
+
+1391768*
+1S	 S(
+
+1392226*
+1S	 S(
+
+1391768*
+1S	 S(
+
+13914226*
+1S' S(9
+
+13914226*
+1S: S(L
+
+13914468*
+1S: S(L
+
+1392268*
+1_ _(
+
+13912971*
+1_ _(
+
+1391768*
+1_ _(
+
+1392226*
+1_ _(
+
+1391768*
+1_ _(
+
+1393826*
+1_ _(#
+
+1393568*
+1_ _(#
+
+1397968*
+1k	 k(
+
+13914671*
+1k	 k(
+
+13914283*
+1k k(
+
+1392268*
+1k k(
+
+13914871*
+1k k(4
+
+1391768*
+1k k(
+
+1392226*
+1k k(
+
+1391768*
+1k k(

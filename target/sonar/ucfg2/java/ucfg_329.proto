@@ -1,15 +1,9 @@
 
-Ometaheuristics.generators.HillClimbing#getReference()Lproblem/definition/State;`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javaW W("1*Ï
-1X	 X(‘
-Ž
-X	 X(
-%0problem.definition.State"__id*\
-
-__unknown_file (@*>(
-&metaheuristics.generators.HillClimbing"
-stateReferenceHC",
-X X( 
-
-%0problem.definition.StateB*(
-&metaheuristics.generators.HillClimbingH
+Gmetaheuristics.generators.GeneticAlgorithm#getSonList()Ljava/util/List;f
+ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.javaÓ Ó("1*%
+1
+Õ	 Õ("
+
+Õ Õ(
+""B.,
+*metaheuristics.generators.GeneticAlgorithmH

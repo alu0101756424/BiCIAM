@@ -20,3 +20,4 @@ public class FactoryDistribution implements IFFactoryDistribution {
 		return distribution;
 	}
 }
+

@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.List;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 import problem.definition.State;
 import problem.definition.Problem.ProblemType;
@@ -60,7 +60,7 @@ public class GeneticAlgorithm extends Generator {
 	
     public GeneticAlgorithm() {
 		super();
-		this.listState = getListStateRef(); // llamada al método que devuelve la lista. 
+		this.listState = getListStateRef(); // llamada al mï¿½todo que devuelve la lista. 
 //		this.selectionType = SelectionType.Truncation;
 //		this.crossoverType = CrossoverType.UniformCrossover;
 //		this.mutationType = MutationType.UniformMutation;
@@ -250,3 +250,4 @@ public class GeneticAlgorithm extends Generator {
 	}
 
 }
+

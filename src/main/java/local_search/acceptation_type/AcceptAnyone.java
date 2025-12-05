@@ -8,3 +8,4 @@ public class AcceptAnyone implements AcceptableCandidate {
         return true;
     }
 }
+

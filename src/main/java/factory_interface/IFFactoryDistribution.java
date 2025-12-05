@@ -11,3 +11,4 @@ import evolutionary_algorithms.complement.DistributionType;
 public interface IFFactoryDistribution {
 	Distribution createDistribution(DistributionType typedistribution) throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException;
 }
+

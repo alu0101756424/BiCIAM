@@ -1,35 +1,15 @@
 
-Xmetaheuristics.generators.SimulatedAnnealing#awardUpdateREF(Lproblem/definition/State;)Zh
-\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.java€ €("startingBlock*®
-startingBlock
-€ €(4
-š
- (
-
-%0"
-__annotate*2
+=metaheuristics.strategy.Strategy#getListKey()Ljava/util/List;Z
+PC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/strategy/Strategy.java> >(""1*ª
+1? ?(w
+u
+? ?(
+%0java.util.List"__id*M
 
-__unknown_file (
-java.lang.Override*H
-
-__unknown_file (,
-*
-stateCandidateproblem.definition.Statel
-j
-
-€% €(3*
-stateCandidateproblem.definition.State"__annotation*"
-
-__unknown_file (
-
-%0*
-1*%
-1
-‚	 ‚("
-
-‚ ‚(
-"":8
-
-€ €(3*
-stateCandidateproblem.definition.StateB0.
-,metaheuristics.generators.SimulatedAnnealingHX
+__unknown_file (1*/"
+ metaheuristics.strategy.Strategy"	
+listKey""
+? ?(
+
+%0java.util.ListB$"
+ metaheuristics.strategy.StrategyH

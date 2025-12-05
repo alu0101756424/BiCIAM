@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955314846*java2.B€$
+1.0alu0101756424_BiCIAMJavaFrontend"1764973488983*java2.B€$
 I
 Dsrc/test/java/local_search/acceptation_type/AcceptationTypeTest.java2
 	
@@ -76,13 +76,13 @@ Uorg.mockito.MockitoAnnotations#openMocks(Ljava/lang/Object;)Ljava/lang/AutoClos
 
 calls49
 &
- metaheurictics.strategy.Strategy51
+ metaheuristics.strategy.Strategy51
 
 returns52
 V
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;54
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;54
 P
-Jmetaheurictics.strategy.Strategy#setProblem(Lproblem/definition/Problem;)V56
+Jmetaheuristics.strategy.Strategy#setProblem(Lproblem/definition/Problem;)V56
 K
 Elocal_search.acceptation_type.AcceptationTypeTest#testAcceptAnyone()V58
 
@@ -258,12 +258,6 @@ F
 15
 115
 
-53
-535424
-
-55
-555624
-
 93
 939424
 F
@@ -306,9 +300,6 @@ F
 
 15
 102
-
-50
-505124
 
 141
 14114224
@@ -336,6 +327,9 @@ B
 
 81
 818224
+
+55
+555624
 B
 57<
 575840 *
@@ -383,6 +377,9 @@ F
 
 91
 919224
+
+53
+535424
 
 107
 10710824
@@ -452,6 +449,9 @@ B
 
 22
 222324
+
+50
+505124
 
 33
 333424

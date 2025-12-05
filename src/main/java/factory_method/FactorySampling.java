@@ -19,3 +19,4 @@ public class FactorySampling implements IFFSampling {
 		return sampling;
 	}
 }
+

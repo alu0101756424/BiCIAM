@@ -2,7 +2,7 @@ package problem.extension;
 
 import java.util.ArrayList;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 import problem.definition.ObjetiveFunction;
 import problem.definition.State;
@@ -43,3 +43,4 @@ public class MultiObjetivoPuro extends SolutionMethod {
 	}
 
 }
+

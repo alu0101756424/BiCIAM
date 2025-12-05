@@ -1,18 +1,15 @@
 
-wmetaheuristics.generators.MultiobjectiveHillClimbingRestart#getGeneratorType()Lmetaheuristics/generators/GeneratorType;w
-kC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingRestart.java‡ ‡(&"1*…
-1
-ˆ	 ˆ(´
-±
-
-ˆ	 ˆ(-
-%0'metaheuristics.generators.GeneratorType"__id*n
+dmetaheuristics.generators.MultiobjectiveHillClimbingRestart#getReference()Lproblem/definition/State;u
+kC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingRestart.java{ {("1*ä
+1|	 |(¦
+£
+|	 |(
+%0problem.definition.State"__id*q
 
-__unknown_file (R*P=
-;metaheuristics.generators.MultiobjectiveHillClimbingRestart"
-Generatortype"=
-
-ˆ ˆ(/
--
-%0'metaheuristics.generators.GeneratorTypeB?=
+__unknown_file (U*S=
+;metaheuristics.generators.MultiobjectiveHillClimbingRestart"
+stateReferenceHC",
+| |( 
+
+%0problem.definition.StateB?=
 ;metaheuristics.generators.MultiobjectiveHillClimbingRestartH

@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem;
 import problem.definition.State;
 import problem.definition.Problem.ProblemType;
@@ -128,3 +128,4 @@ public class AcceptationTypeTest {
         assertNotNull(accept.acceptCandidate(stateCurrent, stateCandidate));
     }
 }
+

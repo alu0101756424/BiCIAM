@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.List;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 import problem.definition.State;
 import problem.definition.Problem.ProblemType;
@@ -54,7 +54,7 @@ public class DistributionEstimationAlgorithm extends Generator {
 	
 	public DistributionEstimationAlgorithm() {
 		super();
-		this.referenceList = getListStateRef(); // llamada al método que devuelve la lista. 
+		this.referenceList = getListStateRef(); // llamada al mï¿½todo que devuelve la lista. 
 //		this.selectionType = SelectionType.Truncation;
 		//this.replaceType = ReplaceType.Generational;
 //		this.replaceType = ReplaceType.Smallest;
@@ -249,12 +249,13 @@ public class DistributionEstimationAlgorithm extends Generator {
 	@Override
 	public float getWeight() {
 		// TODO Auto-generated method stub
-		return 0;
+		return weight;
 	}
 
 	@Override
 	public void setWeight(float weight) {
 		// TODO Auto-generated method stub
+		this.weight = weight;
 		
 	}
 

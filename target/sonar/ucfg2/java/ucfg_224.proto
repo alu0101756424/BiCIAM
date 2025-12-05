@@ -1,18 +1,15 @@
 
-emetaheuristics.generators.MultiobjectiveHillClimbingDistance#getReference()Lproblem/definition/State;x
-lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.java ("1*ë
-1
-	 (©
-¦
-
-	 (
-%0problem.definition.State"__id*r
+_metaheuristics.generators.SimulatedAnnealing#getType()Lmetaheuristics/generators/GeneratorType;f
+\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javao o("1*ð
+1p	 p(£
+ 
+p	 p(-
+%0'metaheuristics.generators.GeneratorType"__id*_
 
-__unknown_file (V*T>
-<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
-stateReferenceHC".
-
- ( 
-
-%0problem.definition.StateB@>
-<metaheuristics.generators.MultiobjectiveHillClimbingDistanceH
+__unknown_file (C*A.
+,metaheuristics.generators.SimulatedAnnealing"
+typeGenerator";
+p p(/
+-
+%0'metaheuristics.generators.GeneratorTypeB0.
+,metaheuristics.generators.SimulatedAnnealingH

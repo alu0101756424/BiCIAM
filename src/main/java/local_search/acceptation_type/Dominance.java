@@ -1,7 +1,7 @@
 package local_search.acceptation_type;
 
 import java.util.List;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem.ProblemType;
 import problem.definition.State;
 
@@ -58,3 +58,4 @@ public class Dominance {
         return false;
     }
 }
+

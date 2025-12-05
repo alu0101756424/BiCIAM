@@ -24,3 +24,4 @@ public class FactoryAcceptCandidate implements IFFactoryAcceptCandidate{
 		return acceptCandidate;
 	}
 }
+

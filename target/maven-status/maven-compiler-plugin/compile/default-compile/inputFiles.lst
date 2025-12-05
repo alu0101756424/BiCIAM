@@ -66,7 +66,6 @@ C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\local_search\complement\StopExecute.j
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\local_search\complement\StrategyType.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\local_search\complement\TabuSolutions.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\local_search\complement\UpdateParameter.java
-C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheurictics\strategy\Strategy.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\DistributionEstimationAlgorithm.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\EvolutionStrategies.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\Generator.java
@@ -90,6 +89,7 @@ C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\ParticleSwa
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\RandomSearch.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\SimulatedAnnealing.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\generators\TabuSearch.java
+C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\metaheuristics\strategy\Strategy.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\problem\definition\Codification.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\problem\definition\ObjetiveFunction.java
 C:\IntelliJPro\uni\LB\BiCIAM\src\main\java\problem\definition\Operator.java

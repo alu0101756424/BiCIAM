@@ -1,47 +1,15 @@
 
-Lmetaheuristics.generators.DistributionEstimationAlgorithm#%field_initializer
-__unknown_file ("1*¼
-1 (¨¥
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java) (9
-%0java.util.ArrayList"java.util.ArrayListÆ
-Ã
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java% (;
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayList÷
-ô
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java (<N;
-9metaheuristics.generators.DistributionEstimationAlgorithm"
-referenceList"__id*'
- (
-
-%0java.util.ArrayListê
-ç
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java2 2(3V;
-9metaheuristics.generators.DistributionEstimationAlgorithm"
-listCountBetterGender"__id*
- (
-""ä
-á
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java3 3(-P;
-9metaheuristics.generators.DistributionEstimationAlgorithm"
-listCountGender"__id*
- (
-""Þ
-Û
-s
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java4 4(0J;
-9metaheuristics.generators.DistributionEstimationAlgorithm"
-	listTrace"__id*
- (
-"""‰
-r
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java  (
-implicit returnB=;
-9metaheuristics.generators.DistributionEstimationAlgorithm
+Ymetaheuristics.generators.HillClimbing#getType()Lmetaheuristics/generators/GeneratorType;`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/HillClimbing.javam m("1*ê
+1n	 n(
+š
+n	 n(-
+%0'metaheuristics.generators.GeneratorType"__id*Y
+
+__unknown_file (=*;(
+&metaheuristics.generators.HillClimbing"
+Generatortype";
+n n(/
+-
+%0'metaheuristics.generators.GeneratorTypeB*(
+&metaheuristics.generators.HillClimbingH

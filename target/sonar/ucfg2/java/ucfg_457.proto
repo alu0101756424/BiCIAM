@@ -1,71 +1,9 @@
 
-Fmetaheuristics.generators.ParticleSwarmOptimization#%field_initializer
-__unknown_file ("1*¤
-1 (¢Ÿ
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java. (>
-%0java.util.ArrayList"java.util.ArrayListÀ
-½
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java* (@
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListð
-í
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java (AM5
-3metaheuristics.generators.ParticleSwarmOptimization"
-listStateReference"__id*'
- (
-
-%0java.util.ArrayList¢Ÿ
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java, (?
-%2java.util.ArrayList"java.util.ArrayListÀ
-½
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java( (B
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayListê
-ç
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java (CG5
-3metaheuristics.generators.ParticleSwarmOptimization"
-listParticle"__id*'
- (
-
-%2java.util.ArrayListÍ
-Ê
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java (A5
-3metaheuristics.generators.ParticleSwarmOptimization"
-weight"__id*
- (22Þ
-Û
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java$ $(6P5
-3metaheuristics.generators.ParticleSwarmOptimization"
-listCountBetterGender"__id*
- (
-""Ø
-Õ
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java% %(0J5
-3metaheuristics.generators.ParticleSwarmOptimization"
-listCountGender"__id*
- (
-""Ò
-Ï
-m
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java& &(3D5
-3metaheuristics.generators.ParticleSwarmOptimization"
-	listTrace"__id*
- (
-"""ƒ
-l
-cC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/ParticleSwarmOptimization.java ¨(
-implicit returnB75
-3metaheuristics.generators.ParticleSwarmOptimization
+Emetaheuristics.generators.LimitThreshold#getListCountBetterGender()[Id
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java” ”(&"1*%
+1
+–	 –("
+
+– –($
+""B,*
+(metaheuristics.generators.LimitThresholdH

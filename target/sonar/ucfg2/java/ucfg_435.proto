@@ -1,7 +1,7 @@
 
-Kmetaheuristics.generators.LimitThreshold#getReferenceList()Ljava/util/List;b
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.javas s($"1*!
-1t	 t("
-t t(
-""B,*
-(metaheuristics.generators.LimitThresholdH
+%problem.definition.State#getNumber()IR
+HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.java8 8("1*!
+19	 9("
+9 9(
+""B
+problem.definition.StateHX

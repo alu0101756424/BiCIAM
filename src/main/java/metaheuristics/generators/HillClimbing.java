@@ -10,7 +10,7 @@ import local_search.acceptation_type.AcceptableCandidate;
 import local_search.candidate_type.CandidateType;
 import local_search.candidate_type.CandidateValue;
 import local_search.complement.StrategyType;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 import problem.definition.State;
 import problem.definition.Problem.ProblemType;
@@ -129,13 +129,13 @@ public class HillClimbing extends Generator{
 	@Override
 	public float getWeight() {
 		// TODO Auto-generated method stub
-		return 0;
+		return weight;
 	}
 
 	@Override
 	public void setWeight(float weight) {
-		// TODO Auto-generated method stub
-		
+		// TODO Auto-generated method 
+		this.weight = weight;
 	}
 	
 	@Override
@@ -156,3 +156,4 @@ public class HillClimbing extends Generator{
 		return this.listTrace;
 	}
 }
+

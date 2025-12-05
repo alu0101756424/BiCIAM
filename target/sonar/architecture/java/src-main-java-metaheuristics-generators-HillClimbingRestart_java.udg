@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955305195*java2.B‡1
+1.0alu0101756424_BiCIAMJavaFrontend"1764973479538*java2.B‡1
 E
 @src/main/java/metaheuristics/generators/HillClimbingRestart.java2
 	
@@ -148,11 +148,11 @@ references95
 Z
 Sproblem.definition.Problem#getTypeProblem()Lproblem/definition/Problem$ProblemType;106
 '
- metaheurictics.strategy.Strategy108
+ metaheuristics.strategy.Strategy108
 P
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;110
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;110
 W
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;112
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;112
 7
 0problem.definition.Problem$ProblemType.Maximizar114
 A
@@ -166,7 +166,7 @@ emetaheuristics.generators.HillClimbingRestart#generate(Ljava/lang/Integer;)Lpro
 
 generate123
 :
-3metaheurictics.strategy.Strategy#getCountCurrent()I125
+3metaheuristics.strategy.Strategy#getCountCurrent()I125
 "
 problem.definition.Operator127
 [
@@ -375,9 +375,6 @@ B
 
 15
 78
-
-111
-11111219
 B
 79<
 798024 *
@@ -419,6 +416,9 @@ B
 
 68
 686919
+
+109
+10911019
 
 98
 989919
@@ -437,12 +437,6 @@ B
 
 15
 75
-
-107
-10710819
-
-109
-10911019
 
 130
 13013119
@@ -522,6 +516,9 @@ B
 
 15
 54
+
+124
+12412519
 B
 85<
 858624 *
@@ -545,6 +542,9 @@ F
 
 15
 123
+
+111
+11111219
 
 39
 394019
@@ -678,8 +678,8 @@ H
 103
 10310419
 
-124
-12412519
+107
+10710819
 H
 171A
 17117293 *

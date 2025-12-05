@@ -24,3 +24,4 @@ public class Range {
 	  this.min = min;
    }
 }
+

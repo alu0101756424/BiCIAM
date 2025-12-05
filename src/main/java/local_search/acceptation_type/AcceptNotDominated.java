@@ -1,6 +1,6 @@
 package local_search.acceptation_type;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.State;
 
 public class AcceptNotDominated implements AcceptableCandidate {
@@ -17,3 +17,4 @@ public class AcceptNotDominated implements AcceptableCandidate {
         return !dominance.dominance(stateCurrent, stateCandidate);
     }
 }
+

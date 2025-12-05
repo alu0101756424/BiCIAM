@@ -1,26 +1,9 @@
 
-4problem.definition.State#getCopy()Ljava/lang/Object;R
-HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.javaB B("1*ò
-1C C(¦£
-C C(!
-%0java.util.ArrayList"7problem.definition.State#getCode()Ljava/util/ArrayList;*8
-
-__unknown_file (
-problem.definition.State2	getCode()FD
-C C(
-%1problem.definition.State"problem.definition.StateÃ
-À
-C	 C("
-%2"7problem.definition.State#<init>(Ljava/util/ArrayList;)V*<
-
-__unknown_file ( 
-
-%1problem.definition.State*7
-
-__unknown_file (
-
-%0java.util.ArrayList",
-C C(# 
-
-%1problem.definition.StateB
-problem.definition.StateH
+0problem.definition.ObjetiveFunction#getWeight()F]
+SC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/ObjetiveFunction.java
+ 
+("1*!
+1	 ("
+ (
+""B'%
+#problem.definition.ObjetiveFunctionHX

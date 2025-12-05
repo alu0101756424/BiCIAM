@@ -49,7 +49,7 @@ problem\extension\MultiObjetivoPuro.class
 problem_operators\MutationOperator.class
 factory_interface\IFFactoryCandidate.class
 local_search\acceptation_type\AcceptNotBadU.class
-metaheurictics\strategy\Strategy.class
+metaheuristics\strategy\Strategy.class
 local_search\candidate_type\RandomCandidate.class
 local_search\complement\StrategyType.class
 local_search\acceptation_type\AcceptAnyone.class

@@ -21,3 +21,4 @@ public class FactoryCandidate implements IFFactoryCandidate{
 		return searchcandidate;
 	}
 }
+

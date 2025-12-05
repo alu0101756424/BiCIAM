@@ -1,79 +1,9 @@
 
-ametaheuristics.generators.MultiobjectiveHillClimbingDistance#Contain(Lproblem/definition/State;)Zx
-lC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiobjectiveHillClimbingDistance.javaÐ Ð("5*½
-3
-Ó Ó(ž›
-
-Ó Ó(&
-%3problem.definition.State"+java.util.Iterator#next()Ljava/lang/Object;*8
-
-__unknown_file (
-
-iterjava.util.Iterator2next()w
-u
-
-Ó Ó('#
-elementproblem.definition.State"__id*<
-
-__unknown_file ( 
-
-%3problem.definition.StateŒ‰
-
-Ô Ô(
-%4boolean"@problem.definition.State#Comparator(Lproblem/definition/State;)Z*A
-
-__unknown_file (%
-#
-elementproblem.definition.State*?
-
-__unknown_file (#
-!
-stateproblem.definition.State2&Comparator(Lproblem/definition/State;)*
-4*›
-4
-Ò7 Ò(;
-
-Ò7 Ò(E
-%2boolean"java.util.Iterator#hasNext()Z*8
-
-__unknown_file (
-
-iterjava.util.Iterator2	hasNext()*
-3
-1*·
-5
-Ñ Ñ(›
-˜
-
-Ò Ò(*
-%0java.util.List"__id*n
-
-__unknown_file (R*P>
-<metaheuristics.generators.MultiobjectiveHillClimbingDistance"
-visitedState˜•
-
-Ò Ò(5
-%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*2
-
-__unknown_file (
-
-%0java.util.List2
-iterator()h
-f
-
-Ò Ò(5
-iterjava.util.Iterator"__id*6
-
-__unknown_file (
-
-%1java.util.Iterator*
-4*%
+9metaheuristics.generators.SimulatedAnnealing#getTrace()[Fh
+\C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/SimulatedAnnealing.javaŸ Ÿ("1*%
 1
-Ø	 Ø("
+¡	 ¡("
 
-Ø Ø(
-"":/
-
-Ð Ð($!
-stateproblem.definition.StateB@>
-<metaheuristics.generators.MultiobjectiveHillClimbingDistanceX
+¡ ¡(
+""B0.
+,metaheuristics.generators.SimulatedAnnealingH

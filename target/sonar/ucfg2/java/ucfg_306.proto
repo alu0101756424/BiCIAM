@@ -1,18 +1,7 @@
 
-Imetaheuristics.generators.GeneticAlgorithm#getListState()Ljava/util/List;f
-ZC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/GeneticAlgorithm.java’ ’( "1*¾
-1
-“	 “(†
-ƒ
-
-“	 “(
-%0java.util.List"__id*Y
-
-__unknown_file (=*;,
-*metaheuristics.generators.GeneticAlgorithm"
-	listState"$
-
-“ “(
-
-%0java.util.ListB.,
-*metaheuristics.generators.GeneticAlgorithmH
+Rmetaheuristics.generators.MultiCaseSimulatedAnnealing#getSonList()Ljava/util/List;o
+eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.javav v("1*!
+1x	 x("
+x x(
+""B97
+5metaheuristics.generators.MultiCaseSimulatedAnnealingH

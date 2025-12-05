@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955311438*java2.B«>
+1.0alu0101756424_BiCIAMJavaFrontend"1764973485304*java2.B«>
 B
 =src/main/java/metaheuristics/generators/GeneticAlgorithm.java2
 	
@@ -182,11 +182,11 @@ _evolutionary_algorithms.complement.FatherSelection#selection(Ljava/util/List;I)
 F
 ?problem.definition.Problem#getState()Lproblem/definition/State;134
 '
- metaheurictics.strategy.Strategy136
+ metaheuristics.strategy.Strategy136
 P
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;138
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;138
 W
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;140
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;140
 ?
 8problem.definition.State#setCode(Ljava/util/ArrayList;)V142
 >
@@ -262,9 +262,9 @@ Jmetaheuristics.generators.GeneticAlgorithm#setListState(Ljava/util/List;)V204
 
 getListStateRef206
 D
-=metaheurictics.strategy.Strategy#getListKey()Ljava/util/List;208
+=metaheuristics.strategy.Strategy#getListKey()Ljava/util/List;208
 5
-.metaheurictics.strategy.Strategy.mapGenerators210
+.metaheuristics.strategy.Strategy.mapGenerators210
 s
 lmetaheuristics.generators.GeneratorType#valueOf(Ljava/lang/String;)Lmetaheuristics/generators/GeneratorType;212
 -
@@ -468,9 +468,6 @@ G
 
 125
 12512619
-
-139
-13914019
 B
 48<
 484924 *
@@ -515,6 +512,9 @@ F
 76
 767719
 
+137
+13713819
+
 147
 14714819
 
@@ -557,12 +557,6 @@ B
 
 15
 83
-
-135
-13513619
-
-137
-13713819
 
 194
 19419519
@@ -625,6 +619,9 @@ I
 
 143
 14314419
+
+207
+20720819
 I
 229B
 229230110 *
@@ -664,6 +661,9 @@ I
 
 15
 219
+
+139
+13914019
 B
 96<
 969724 *
@@ -823,6 +823,9 @@ F
 15
 16
 
+209
+20921019
+
 133
 13313419
 I
@@ -852,6 +855,9 @@ B
 131
 13113219
 
+135
+13513619
+
 169
 16917019
 
@@ -871,9 +877,6 @@ I
 
 123
 12312419
-
-207
-20720819
 I
 247B
 247248110 *
@@ -905,9 +908,6 @@ I
 
 165
 16516619
-
-209
-20921019
 
 61
 616219

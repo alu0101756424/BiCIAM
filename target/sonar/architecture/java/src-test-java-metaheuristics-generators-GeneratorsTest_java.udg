@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955314920*java2.BÏ
+1.0alu0101756424_BiCIAMJavaFrontend"1764973489176*java2.B«
 @
 ;src/test/java/metaheuristics/generators/GeneratorsTest.java2
 	
@@ -78,13 +78,13 @@ Uorg.mockito.MockitoAnnotations#openMocks(Ljava/lang/Object;)Ljava/lang/AutoClos
 
 calls51
 &
- metaheurictics.strategy.Strategy53
+ metaheuristics.strategy.Strategy53
 
 returns54
 V
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;56
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;56
 P
-Jmetaheurictics.strategy.Strategy#setProblem(Lproblem/definition/Problem;)V58
+Jmetaheuristics.strategy.Strategy#setProblem(Lproblem/definition/Problem;)V58
 *
 $org.mockito.stubbing.OngoingStubbing60
 o
@@ -105,14 +105,14 @@ K
 Eproblem.definition.Problem#getOperator()Lproblem/definition/Operator;76
 9
 3problem.definition.Codification#getVariableCount()I78
-P
-Jmetaheuristics.generators.GeneratorsTest#testRandomSearchInitialization()V80
-$
-testRandomSearchInitialization81
+W
+Qmetaheuristics.generators.GeneratorsTest#testHillClimbingRestartInitialization()V80
++
+%testHillClimbingRestartInitialization81
  
 org.junit.jupiter.api.Test83
-,
-&metaheuristics.generators.RandomSearch85
+3
+-metaheuristics.generators.HillClimbingRestart85
 &
  org.junit.jupiter.api.Assertions87
 I
@@ -121,46 +121,10 @@ Z
 Torg.junit.jupiter.api.Assertions#assertEquals(Ljava/lang/Object;Ljava/lang/Object;)V91
 -
 'metaheuristics.generators.GeneratorType93
-:
-4metaheuristics.generators.GeneratorType.RandomSearch95
-_
-Ymetaheuristics.generators.RandomSearch#getType()Lmetaheuristics/generators/GeneratorType;97
-8
-2org.junit.jupiter.api.Assertions#assertEquals(FF)V99
-:
-3metaheuristics.generators.RandomSearch#getWeight()F101
-W
-Pmetaheuristics.generators.GeneratorsTest#testSimulatedAnnealingInitialization()V103
-+
-$testSimulatedAnnealingInitialization104
-3
-,metaheuristics.generators.SimulatedAnnealing106
 A
-:metaheuristics.generators.GeneratorType.SimulatedAnnealing108
+;metaheuristics.generators.GeneratorType.HillClimbingRestart95
 f
-_metaheuristics.generators.SimulatedAnnealing#getType()Lmetaheuristics/generators/GeneratorType;110
-@
-9metaheuristics.generators.SimulatedAnnealing#getWeight()F112
-O
-Hmetaheuristics.generators.GeneratorsTest#testTabuSearchInitialization()V114
-#
-testTabuSearchInitialization115
-+
-$metaheuristics.generators.TabuSearch117
-9
-2metaheuristics.generators.GeneratorType.TabuSearch119
-^
-Wmetaheuristics.generators.TabuSearch#getType()Lmetaheuristics/generators/GeneratorType;121
-X
-Qmetaheuristics.generators.GeneratorsTest#testHillClimbingRestartInitialization()V123
-,
-%testHillClimbingRestartInitialization124
-4
--metaheuristics.generators.HillClimbingRestart126
-B
-;metaheuristics.generators.GeneratorType.HillClimbingRestart128
-g
-`metaheuristics.generators.HillClimbingRestart#getType()Lmetaheuristics/generators/GeneratorType;130J#
+`metaheuristics.generators.HillClimbingRestart#getType()Lmetaheuristics/generators/GeneratorType;97J#
 !
 1
 12
@@ -176,7 +140,7 @@ g
 
 
 5
-6j­
+6jÄ
 B
 30<
 303119 *
@@ -195,32 +159,21 @@ B
 
 94
 949524
-
-116
-11611724
+
+26
+262724
 
 88
 888924
-F
-113?
-11311442 *
-18 8(210:7B
-
-
-13
-14
-
-15
-115
+
+55
+555624
+
+71
+717224
 
 46
 464724
-
-118
-11811924
-
-107
-10710824
 B
 40<
 404142 *
@@ -233,69 +186,6 @@ B
 
 15
 43
-
-84
-848524
-
-55
-555624
-
-100
-10010124
-
-109
-10911024
-
-57
-575824
-
-73
-737424
-
-111
-11111224
-
-92
-929324
-
-61
-616224
-
-67
-676824
-
-82
-828324
-
-52
-525324
-
-75
-757624
-
-77
-777824
-
-49
-495024
-
-105
-10510624
-
-65
-656624
-
-127
-12712824
-
-26
-262724
-
-120
-12012124
-
-71
-717224
 
 69
 697024
@@ -311,26 +201,42 @@ B
 
 15
 37
-F
-122?
-12212342 *
-1E E(210:7B
+B
+79<
+798042 *
+12 2(210:7B
 
 
 13
 14
-
-15
-124
-
-129
-12913024
+
+
+15
+81
+
+96
+969724
 
 59
 596024
 
+73
+737424
+
 22
 222324
+
+52
+525324
+
+92
+929324
+
+61
+616224
+
+67
+676824
 B
 17<
 171819 *
@@ -344,6 +250,9 @@ B
 15
 21
 
+82
+828324
+
 33
 333424
 
@@ -353,40 +262,23 @@ B
 90
 909124
 
-98
-989924
+75
+757624
 
-96
-969724
-F
-102?
-10210342 *
-10 0(210:7B
-
-
-13
-14
-
-15
-104
+77
+777824
+
+49
+495024
 
 86
 868724
-B
-79<
-798042 *
-1( ((210:7B
-
-
-13
-14
-
-
-15
-81
-
-125
-12512624
+
+65
+656624
+
+84
+848524
 >
 108
 101112 *
@@ -401,7 +293,10 @@ B
 16
 
 38
-383924rŸ!
+383924
+
+57
+575824rÂ
 
 172225*
 1 (
@@ -671,213 +566,48 @@ B
 1% %(
 
 798228*
-1( ((
+12 2(
 
 
 798229*
-1( ((
+12 2(
 
 
 798425*
-1* *(
+15! 5($
 
 798429*
-1*	 *(
+15 5( 
 
 798451*
-1* *(+
+15+ 5(>
 
 798648*
-1+	 +(
+16 6(
 
 798851*
-1+	 +(
+16 6(
 
 798648*
-1,	 ,(
+17 7(
 
 799051*
-1,	 ,(
+17 7(
 
 799229*
-1, ,(#
+17 7('
 
 799229*
-1,$ ,(0
+17( 7(;
 
 799448*
-1,$ ,(0
+17( 7(;
 
 799254*
-1,2 ,(4
+17= 7(@
 
 798448*
-1,2 ,(4
+17= 7(@
 
 799651*
-1,5 ,(<
-
-798648*
-1-	 -(
-
-799851*
-1-	 -(
-
-798448*
-1- -(
-
-7910051*
-1-  -()
-
-1028228*
-10 0(
-
-
-1028229*
-10 0(
-
-
-10210525*
-12 2(
-
-10210529*
-12	 2(
-
-10210551*
-12% 2(7
-
-1028648*
-13	 3(
-
-1028851*
-13	 3(
-
-1028648*
-14	 4(
-
-1029051*
-14	 4(
-
-1029229*
-14 4(#
-
-1029229*
-14$ 4(6
-
-10210748*
-14$ 4(6
-
-1029254*
-148 4(:
-
-10210548*
-148 4(:
-
-10210951*
-14; 4(B
-
-1028648*
-15	 5(
-
-1029851*
-15	 5(
-
-10210548*
-15 5(
-
-10211151*
-15  5()
-
-1138228*
-18 8(
-
-
-1138229*
-18 8(
-
-
-11311625*
-1< <(
-
-11311629*
-1< <(
-
-11311651*
-1<! <(+
-
-1138648*
-1= =(
-
-1138851*
-1= =(
-
-1138648*
-1> >(
-
-1139051*
-1> >(
-
-1139229*
-1> >('
-
-1139229*
-1>( >(2
-
-11311848*
-1>( >(2
-
-1139254*
-1>4 >(6
-
-11311648*
-1>4 >(6
-
-11312051*
-1>7 >(>
-
-1228228*
-1E E(
-
-
-1228229*
-1E E(
-
-
-12212525*
-1H! H($
-
-12212529*
-1H H( 
-
-12212551*
-1H+ H(>
-
-1228648*
-1I I(
-
-1228851*
-1I I(
-
-1228648*
-1J J(
-
-1229051*
-1J J(
-
-1229229*
-1J J('
-
-1229229*
-1J( J(;
-
-12212748*
-1J( J(;
-
-1229254*
-1J= J(@
-
-12212548*
-1J= J(@
-
-12212951*
-1JA J(H
+17A 7(H

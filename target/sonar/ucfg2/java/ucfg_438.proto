@@ -1,36 +1,26 @@
 
-Tmetaheuristics.generators.LimitThreshold#awardUpdateREF(Lproblem/definition/State;)Zd
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.javaÇ Ç("startingBlock*∞
-startingBlock
-Ç Ç(4ü
-ú
-
-Å Å(
-
-%0"
-__annotate*2
+4problem.definition.State#getCopy()Ljava/lang/Object;R
+HC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/problem/definition/State.javaB B("1*Ú
+1C C(¶£
+C C(!
+%0java.util.ArrayList"7problem.definition.State#getCode()Ljava/util/ArrayList;*8
 
-__unknown_file (
-java.lang.Override*H
+__unknown_file (
+problem.definition.State2	getCode()FD
+C C(
+%1problem.definition.State"problem.definition.State√
+¿
+C	 C("
+%2"7problem.definition.State#<init>(Ljava/util/ArrayList;)V*<
 
-__unknown_file (,
-*
-stateCandidateproblem.definition.Statel
-j
-
-Ç% Ç(3*
-stateCandidateproblem.definition.State"__annotation*"
+__unknown_file ( 
+
+%1problem.definition.State*7
 
-__unknown_file (
-
-%0*
-1*%
-1
-Ñ	 Ñ("
-
-Ñ Ñ(
-"":8
-
-Ç Ç(3*
-stateCandidateproblem.definition.StateB,*
-(metaheuristics.generators.LimitThresholdHX
+__unknown_file (
+
+%0java.util.ArrayList",
+C C(# 
+
+%1problem.definition.StateB
+problem.definition.StateH

@@ -12,7 +12,7 @@ import local_search.candidate_type.CandidateType;
 import local_search.candidate_type.CandidateValue;
 import local_search.complement.StrategyType;
 import local_search.complement.TabuSolutions;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 import problem.definition.Problem;
 import problem.definition.State;
 
@@ -184,5 +184,6 @@ public class MultiobjectiveTabuSearch extends Generator {
 	}
 
 }
+
 
 

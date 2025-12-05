@@ -12,3 +12,5 @@ build.log
 build_error.log
 build_error_utf8.log
 build_result.log
+
+target/

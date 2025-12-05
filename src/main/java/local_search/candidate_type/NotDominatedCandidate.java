@@ -27,3 +27,4 @@ public class NotDominatedCandidate implements SearchCandidate {
         return neighborhood.get(0);
     }
 }
+

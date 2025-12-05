@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764955307963*java2.Bý	
+1.0alu0101756424_BiCIAMJavaFrontend"1764973481957*java2.Bý	
 ?
 :src/main/java/local_search/acceptation_type/Dominance.java2
 	
@@ -62,11 +62,11 @@ C
 Y
 Sproblem.definition.Problem#getTypeProblem()Lproblem/definition/Problem$ProblemType;39
 &
- metaheurictics.strategy.Strategy41
+ metaheuristics.strategy.Strategy41
 O
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;43
+Imetaheuristics.strategy.Strategy#getProblem()Lproblem/definition/Problem;43
 V
-Pmetaheurictics.strategy.Strategy#getStrategy()Lmetaheurictics/strategy/Strategy;45
+Pmetaheuristics.strategy.Strategy#getStrategy()Lmetaheuristics/strategy/Strategy;45
 6
 0problem.definition.Problem$ProblemType.Maximizar47
 h
@@ -105,8 +105,17 @@ blocal_search.acceptation_type.Dominance#ListDominance(Lproblem/definition/State
 36
 363726
 
+40
+404126
+
+44
+444526
+
 31
 313226
+
+42
+424326
 
 24
 242526
@@ -116,12 +125,6 @@ blocal_search.acceptation_type.Dominance#ListDominance(Lproblem/definition/State
 
 46
 464726
-
-40
-404126
-
-42
-424326
 B
 21<
 212219 *
@@ -162,10 +165,7 @@ B
 16
 
 38
-383926
-
-44
-444526rÌ
+383926rÌ
 
 171020*
 1

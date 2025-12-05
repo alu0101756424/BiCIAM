@@ -1,18 +1,15 @@
 
-Vmetaheuristics.generators.DistributionEstimationAlgorithm#getSonList()Ljava/util/List;u
-iC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.javaÍ Í("1*À
-1
-Î	 Î(ì
-ê
-
-Î	 Î(
-%0java.util.List"__id*f
-
-__unknown_file (J*H;
-9metaheuristics.generators.DistributionEstimationAlgorithm"	
-sonList"$
-
-Î Î(
-
-%0java.util.ListB=;
-9metaheuristics.generators.DistributionEstimationAlgorithmH
+7evolutionary_algorithms.complement.Univariate#<init>()V
+__unknown_file ("startingBlock*·
+startingBlocke
+]C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/Univariate.java (Í
+Á
+e
+]C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/Univariate.java (
+%0"9evolutionary_algorithms.complement.Distribution#<init>()V*=
+ (1/
+-evolutionary_algorithms.complement.Univariate"|
+e
+]C:/IntelliJPro/uni/LB/BiCIAM/src/main/java/evolutionary_algorithms/complement/Univariate.java (
+implicit returnB1/
+-evolutionary_algorithms.complement.Univariate

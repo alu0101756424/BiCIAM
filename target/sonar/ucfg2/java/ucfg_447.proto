@@ -1,15 +1,15 @@
 
-Imetaheurictics.strategy.Strategy#getProblem()Lproblem/definition/Problem;Z
-PC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheurictics/strategy/Strategy.java& &("1*ƒ
-1' '(Ñ
-Å
-' '( 
-%0problem.definition.Problem"__id*M
+Qmetaheuristics.generators.LimitThreshold#getReference()Lproblem/definition/State;b
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/LimitThreshold.java_ _("1*—
+1`	 `(ì
+ê
+`	 `(
+%0problem.definition.State"__id*^
 
-__unknown_file (1*/"
- metaheurictics.strategy.Strategy"	
-problem".
-' '("
- 
-%0problem.definition.ProblemB$"
- metaheurictics.strategy.StrategyH
+__unknown_file (B*@*
+(metaheuristics.generators.LimitThreshold"
+stateReferenceLT",
+` `( 
+
+%0problem.definition.StateB,*
+(metaheuristics.generators.LimitThresholdH

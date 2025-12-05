@@ -1,18 +1,9 @@
 
-[metaheuristics.generators.MultiGenerator#getType()Lmetaheuristics/generators/GeneratorType;d
-XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiGenerator.javaÄ Ä("1*ò
+Qmetaheuristics.generators.MultiGenerator#getReference()Lproblem/definition/State;d
+XC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiGenerator.java² ²("1*%
 1
-Å	 Å(¡
-ž
+´	 ´("
 
-Å	 Å(-
-%0'metaheuristics.generators.GeneratorType"__id*[
-
-__unknown_file (?*=*
-(metaheuristics.generators.MultiGenerator"
-Generatortype"=
-
-Å Å(/
--
-%0'metaheuristics.generators.GeneratorTypeB,*
+´ ´(
+""B,*
 (metaheuristics.generators.MultiGeneratorH

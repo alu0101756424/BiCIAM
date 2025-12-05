@@ -4,3 +4,4 @@ public enum TypeSolutionMethod {
 
 	FactoresPonderados,MultiObjetivoPuro; //OrdenamientoLexicografico,
 }
+

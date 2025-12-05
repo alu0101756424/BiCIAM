@@ -14,7 +14,7 @@ import local_search.acceptation_type.AcceptableCandidate;
 import local_search.candidate_type.CandidateType;
 import local_search.candidate_type.CandidateValue;
 import local_search.complement.StrategyType;
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 public class MultiobjectiveHillClimbingDistance extends Generator{
 
@@ -225,25 +225,22 @@ public class MultiobjectiveHillClimbingDistance extends Generator{
 
 	@Override
 	public float getWeight() {
-		// TODO Auto-generated method stub
-		return 0;
+		return weight;
 	}
 
 	@Override
 	public void setWeight(float weight) {
-		// TODO Auto-generated method stub
+		this.weight = weight;
 
 	}
 
 	@Override
 	public int[] getListCountBetterGender() {
-		// TODO Auto-generated method stub
-		return null;
+		return listCountBetterGender;
 	}
 
 	@Override
 	public int[] getListCountGender() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
@@ -253,3 +250,4 @@ public class MultiobjectiveHillClimbingDistance extends Generator{
 		return null;
 	}
 }
+

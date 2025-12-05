@@ -6,3 +6,4 @@ public enum GeneratorType {
 	MultiGenerator, 
 	MultiobjectiveTabuSearch, MultiobjectiveStochasticHillClimbing,MultiCaseSimulatedAnnealing, MultiobjectiveHillClimbingRestart, MultiobjectiveHillClimbingDistance; //mutiobjetivos
 }
+

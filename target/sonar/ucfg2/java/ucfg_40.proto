@@ -1,15 +1,15 @@
 
-Ymetaheuristics.generators.RandomSearch#getType()Lmetaheuristics/generators/GeneratorType;`
-VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/RandomSearch.javaW W("1*ê
-1X	 X(
-š
-X	 X(-
-%0'metaheuristics.generators.GeneratorType"__id*Y
+Ometaheuristics.generators.RandomSearch#getReference()Lproblem/definition/State;`
+VC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/RandomSearch.javaB B("1*Ï
+1C	 C(‘
+Ž
+C	 C(
+%0problem.definition.State"__id*\
 
-__unknown_file (=*;(
-&metaheuristics.generators.RandomSearch"
-typeGenerator";
-X X(/
--
-%0'metaheuristics.generators.GeneratorTypeB*(
+__unknown_file (@*>(
+&metaheuristics.generators.RandomSearch"
+stateReferenceRS",
+C C( 
+
+%0problem.definition.StateB*(
 &metaheuristics.generators.RandomSearchH

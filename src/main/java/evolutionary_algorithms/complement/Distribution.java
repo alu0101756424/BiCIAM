@@ -9,3 +9,4 @@ public abstract class Distribution {
 	public abstract List<Probability> distribution(List<State> fathers);
 
 }
+

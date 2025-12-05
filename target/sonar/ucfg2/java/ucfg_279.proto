@@ -1,45 +1,36 @@
 
-Hmetaheuristics.generators.MultiCaseSimulatedAnnealing#%field_initializer
-__unknown_file ("1*Ò
+Nmetaheuristics.generators.Particle#awardUpdateREF(Lproblem/definition/State;)Z^
+RC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/Particle.javaÄ Ä("startingBlock*°
+startingBlock
+Ä Ä(4Ÿ
+œ
 
-1 (¤¡
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java!1 !(A
-%0java.util.ArrayList"java.util.ArrayListÂ
-¿
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java!- !(C
-%1"java.util.ArrayList#<init>()V*'
- (
-
-%0java.util.ArrayListô
-ñ
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java! !(DO7
-5metaheuristics.generators.MultiCaseSimulatedAnnealing"
-listStateReference"__id*'
- (
-
-%0java.util.ArrayList¤¡
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java#% #(5
-%2java.util.ArrayList"java.util.ArrayListÂ
-¿
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java#! #(7
-%3"java.util.ArrayList#<init>()V*'
- (
-
-%2java.util.ArrayListë
-è
-o
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java# #(8F7
-5metaheuristics.generators.MultiCaseSimulatedAnnealing"
-	listTrace"__id*'
- (
-
-%2java.util.ArrayList"…
-n
-eC:/IntelliJPro/uni/LB/BiCIAM/src/main/java/metaheuristics/generators/MultiCaseSimulatedAnnealing.java  (
-implicit returnB97
-5metaheuristics.generators.MultiCaseSimulatedAnnealing
+Ã Ã(
+
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*H
+
+__unknown_file (,
+*
+stateCandidateproblem.definition.Statel
+j
+
+Ä% Ä(3*
+stateCandidateproblem.definition.State"__annotation*"
+
+__unknown_file (
+
+%0*
+1*%
+1
+Æ	 Æ("
+
+Æ Æ(
+"":8
+
+Ä Ä(3*
+stateCandidateproblem.definition.StateB&$
+"metaheuristics.generators.ParticleHX

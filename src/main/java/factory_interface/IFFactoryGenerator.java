@@ -9,3 +9,4 @@ public interface IFFactoryGenerator {
 	
 	Generator createGenerator(GeneratorType Generatortype)throws IllegalArgumentException, SecurityException, ClassNotFoundException, InstantiationException, IllegalAccessException, InvocationTargetException, NoSuchMethodException ;
 }
+

@@ -3,7 +3,7 @@ package evolutionary_algorithms.complement;
 import java.util.ArrayList;
 import java.util.List;
 
-import metaheurictics.strategy.Strategy;
+import metaheuristics.strategy.Strategy;
 
 import problem.definition.State;
 
@@ -51,3 +51,4 @@ public class OnePointCrossover extends Crossover {
 	
 	
 }
+
