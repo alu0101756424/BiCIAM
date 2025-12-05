@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764954064297*java2.BÃ<
+1.0alu0101756424_BiCIAMJavaFrontend"1764955313423*java2.B¾<
 K
 Fsrc/main/java/metaheuristics/generators/ParticleSwarmOptimization.java2
 	
@@ -197,8 +197,8 @@ c
 getReference144
 
 getListStateRef145
-I
-Bmetaheurictics.strategy.Strategy#getListKey()Ljava/util/ArrayList;147
+D
+=metaheurictics.strategy.Strategy#getListKey()Ljava/util/List;147
 -
 &metaheuristics.generators.RandomSearch149
 @
@@ -507,9 +507,6 @@ G
 
 126
 12612719
-
-146
-14614719
 
 132
 13213319
@@ -873,6 +870,9 @@ I
 
 15
 229
+
+146
+14614719
 
 27
 272819

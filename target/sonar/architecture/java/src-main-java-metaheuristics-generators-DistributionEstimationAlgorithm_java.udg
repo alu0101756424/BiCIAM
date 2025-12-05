@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764954061674*java2.Bý@
+1.0alu0101756424_BiCIAMJavaFrontend"1764955312283*java2.Bø@
 Q
 Lsrc/main/java/metaheuristics/generators/DistributionEstimationAlgorithm.java2
 	
@@ -231,8 +231,8 @@ u
 nevolutionary_algorithms.complement.Replace#replace(Lproblem/definition/State;Ljava/util/List;)Ljava/util/List;177
 
 getListStateRef178
-I
-Bmetaheurictics.strategy.Strategy#getListKey()Ljava/util/ArrayList;180
+D
+=metaheurictics.strategy.Strategy#getListKey()Ljava/util/List;180
 5
 .metaheurictics.strategy.Strategy.mapGenerators182
 s
@@ -541,9 +541,6 @@ B
 
 151
 15115219
-
-179
-17918019
 B
 41<
 414224 *
@@ -891,6 +888,9 @@ G
 
 15
 121
+
+179
+17918019
 
 204
 20420519

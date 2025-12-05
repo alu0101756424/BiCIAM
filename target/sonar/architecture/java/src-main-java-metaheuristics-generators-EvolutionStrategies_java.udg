@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764954062169*java2.Bó9
+1.0alu0101756424_BiCIAMJavaFrontend"1764955312914*java2.Bî9
 E
 @src/main/java/metaheuristics/generators/EvolutionStrategies.java2
 	
@@ -233,8 +233,8 @@ u
 nevolutionary_algorithms.complement.Replace#replace(Lproblem/definition/State;Ljava/util/List;)Ljava/util/List;181
 
 getListStateRef182
-I
-Bmetaheurictics.strategy.Strategy#getListKey()Ljava/util/ArrayList;184
+D
+=metaheurictics.strategy.Strategy#getListKey()Ljava/util/List;184
 5
 .metaheurictics.strategy.Strategy.mapGenerators186
 s
@@ -485,9 +485,6 @@ H
 
 15
 216
-
-183
-18318419
 
 122
 12212319
@@ -796,6 +793,9 @@ F
 
 110
 11011119
+
+183
+18318419
 
 27
 272819

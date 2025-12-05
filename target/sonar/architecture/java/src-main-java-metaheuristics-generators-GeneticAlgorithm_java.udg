@@ -1,5 +1,5 @@
 
-1.0alu0101756424_BiCIAMJavaFrontend"1764954061049*java2.B°>
+1.0alu0101756424_BiCIAMJavaFrontend"1764955311438*java2.B«>
 B
 =src/main/java/metaheuristics/generators/GeneticAlgorithm.java2
 	
@@ -261,8 +261,8 @@ Jmetaheuristics.generators.GeneticAlgorithm#setListState(Ljava/util/List;)V204
 setListState205
 
 getListStateRef206
-I
-Bmetaheurictics.strategy.Strategy#getListKey()Ljava/util/ArrayList;208
+D
+=metaheurictics.strategy.Strategy#getListKey()Ljava/util/List;208
 5
 .metaheurictics.strategy.Strategy.mapGenerators210
 s
@@ -534,9 +534,6 @@ I
 
 176
 17617719
-
-207
-20720819
 I
 186B
 186187110 *
@@ -874,6 +871,9 @@ I
 
 123
 12312419
+
+207
+20720819
 I
 247B
 247248110 *
