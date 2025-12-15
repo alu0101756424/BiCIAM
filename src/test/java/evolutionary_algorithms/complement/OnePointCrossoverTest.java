@@ -77,4 +77,18 @@ class OnePointCrossoverTest {
         
         assertTrue(hasZero || hasOne, "Child should have genes");
     }
+    @Test
+    void testRandomGeneratorSafety() {
+        // Stress test the random generator ensuring it only produces 0 and 1
+        boolean seen0 = false;
+        boolean seen1 = false;
+        for (int i = 0; i < 1_000_000; i++) {
+            int random = java.util.concurrent.ThreadLocalRandom.current().nextInt(2);
+            assertTrue(random == 0 || random == 1, "Random value must be 0 or 1, got: " + random);
+            if (random == 0) seen0 = true;
+            if (random == 1) seen1 = true;
+        }
+        assertTrue(seen0, "Should have generated 0");
+        assertTrue(seen1, "Should have generated 1");
+    }
 }
