@@ -24,7 +24,7 @@ BiCIAM is a Java-based metaheuristics framework designed to solve optimization p
 Clone the repository and build the project using Maven:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/alu0101756424/BiCIAM.git
 cd BiCIAM
 mvn clean install
 ```
