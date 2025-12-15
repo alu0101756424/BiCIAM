@@ -277,4 +277,35 @@ public class TabuSearchTest {
         assertEquals(1, TabuSolutions.listTabu.size());
         assertEquals(s2, TabuSolutions.listTabu.get(0));
     }
+    @Test
+    public void testAccessors() {
+        // Test setInitialReference and getReference
+        tabuSearch.setInitialReference(stateMock);
+        assertSame(stateMock, tabuSearch.getReference());
+        
+        // Test getStateReferenceTS
+        assertSame(stateMock, tabuSearch.getStateReferenceTS());
+        
+        // Test setStateRef
+        State otherState = mock(State.class);
+        tabuSearch.setStateRef(otherState);
+        assertSame(otherState, tabuSearch.getReference());
+        assertSame(otherState, tabuSearch.getStateReferenceTS());
+        
+        // Test setTypeGenerator and getTypeGenerator
+        tabuSearch.setTypeGenerator(GeneratorType.GeneticAlgorithm);
+        assertEquals(GeneratorType.GeneticAlgorithm, tabuSearch.getTypeGenerator());
+        
+        // Test getType (should return what's in typeGenerator)
+        assertEquals(GeneratorType.GeneticAlgorithm, tabuSearch.getType());
+        
+        // Test setTypeCandidate
+        tabuSearch.setTypeCandidate(CandidateType.GreaterCandidate);
+        // Since there is no getter for typeCandidate, verifying via behavior in generate() 
+        // would be complex here, but we can verify it doesn't throw exception.
+        
+        // Additional check for default type
+        TabuSearch ts = new TabuSearch();
+        assertEquals(GeneratorType.TabuSearch, ts.getType());
+    }
 }

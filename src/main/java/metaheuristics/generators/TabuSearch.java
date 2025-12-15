@@ -29,6 +29,9 @@ public class TabuSearch extends Generator {
 	private CandidateType typeCandidate;
 	private State stateReferenceTS;
     private IFFactoryAcceptCandidate ifacceptCandidate;
+    public State getStateReferenceTS() {
+		return stateReferenceTS;
+	}
     private GeneratorType typeGenerator;
     private List<State> listStateReference = new ArrayList<State>();
     private float weight;
