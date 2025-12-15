@@ -41,6 +41,7 @@ evolutionary_algorithms\complement\TowPointsMutationTest.class
 metaheuristics\generators\TabuSearchTest.class
 metaheuristics\generators\DistributionEstimationAlgorithmTest.class
 evolutionary_algorithms\complement\ProbabilisticSamplingTest.class
+local_search\acceptation_type\AcceptNotDominatedTabuTest.class
 evolutionary_algorithms\complement\OnePointCrossoverTest$1.class
 metaheuristics\strategy\StrategyTest.class
 factory_method\FactoryGeneratorTest.class
