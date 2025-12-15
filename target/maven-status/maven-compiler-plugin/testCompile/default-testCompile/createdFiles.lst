@@ -1,4 +1,5 @@
 problem\definition\ObjetiveFunctionTest.class
+problem\extension\MultiObjetivoPuroTest.class
 local_search\candidate_type\CandidateTypeTest.class
 metaheuristics\generators\InstanceDETest.class
 evolutionary_algorithms\complement\AIOMutationTest.class

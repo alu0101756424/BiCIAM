@@ -42,7 +42,7 @@ class MultiObjetivoPuroTest {
         
         ObjetiveFunction objFunc = mock(ObjetiveFunction.class);
         when(objFunc.getTypeProblem()).thenReturn(ProblemType.Maximizar);
-        when(objFunc.evaluation(any(State.class))).thenReturn(0.8);
+        when(objFunc.Evaluation(any(State.class))).thenReturn(0.8);
         
         ArrayList<ObjetiveFunction> functions = new ArrayList<>();
         functions.add(objFunc);
@@ -62,7 +62,7 @@ class MultiObjetivoPuroTest {
         
         ObjetiveFunction objFunc = mock(ObjetiveFunction.class);
         when(objFunc.getTypeProblem()).thenReturn(ProblemType.Minimizar);
-        when(objFunc.evaluation(any(State.class))).thenReturn(0.2);
+        when(objFunc.Evaluation(any(State.class))).thenReturn(0.2);
         
         ArrayList<ObjetiveFunction> functions = new ArrayList<>();
         functions.add(objFunc);
@@ -82,7 +82,7 @@ class MultiObjetivoPuroTest {
         
         ObjetiveFunction objFunc = mock(ObjetiveFunction.class);
         when(objFunc.getTypeProblem()).thenReturn(ProblemType.Maximizar);
-        when(objFunc.evaluation(any(State.class))).thenReturn(0.8);
+        when(objFunc.Evaluation(any(State.class))).thenReturn(0.8);
         
         ArrayList<ObjetiveFunction> functions = new ArrayList<>();
         functions.add(objFunc);
@@ -102,7 +102,7 @@ class MultiObjetivoPuroTest {
         
         ObjetiveFunction objFunc = mock(ObjetiveFunction.class);
         when(objFunc.getTypeProblem()).thenReturn(ProblemType.Minimizar);
-        when(objFunc.evaluation(any(State.class))).thenReturn(0.2);
+        when(objFunc.Evaluation(any(State.class))).thenReturn(0.2);
         
         ArrayList<ObjetiveFunction> functions = new ArrayList<>();
         functions.add(objFunc);
