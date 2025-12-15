@@ -30,5 +30,18 @@ class ProbabilityTest {
         assertEquals(p1.getValue(), p2.getValue());
         assertEquals(p1.getProbability(), p2.getProbability());
     }
+
+    @Test
+    void testParameterizedConstructor() {
+        Object key = "testKey";
+        Object value = 123;
+        float prob = 0.75f;
+
+        Probability p = new Probability(key, value, prob);
+
+        assertEquals(key, p.getKey());
+        assertEquals(value, p.getValue());
+        assertEquals(prob, p.getProbability());
+    }
 }
 
