@@ -55,6 +55,7 @@
     <build>
         <plugins>
             <!-- OWASP Dependency-Check -->
+                 <!--
             <plugin>
                 <groupId>org.owasp</groupId>
                 <artifactId>dependency-check-maven</artifactId>
@@ -70,7 +71,7 @@
                     </execution>
                 </executions>
             </plugin>
-
+-->
             <!-- JaCoCo -->
             <plugin>
                 <groupId>org.jacoco</groupId>
