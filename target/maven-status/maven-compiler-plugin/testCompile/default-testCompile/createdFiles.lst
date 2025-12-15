@@ -36,6 +36,7 @@ metaheuristics\generators\RandomSearchTest.class
 problem_operators\MutationOperatorTest.class
 metaheuristics\generators\MultiobjectiveHillClimbingRestartTest.class
 problem\definition\OperatorTest.class
+local_search\acceptation_type\DominanceTest.class
 evolutionary_algorithms\complement\TowPointsMutationTest.class
 metaheuristics\generators\TabuSearchTest.class
 metaheuristics\generators\DistributionEstimationAlgorithmTest.class
