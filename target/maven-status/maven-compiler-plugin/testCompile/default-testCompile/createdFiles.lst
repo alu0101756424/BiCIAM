@@ -22,6 +22,7 @@ local_search\complement\UpdateParameterTest.class
 problem\definition\ObjetiveFunctionTest$1.class
 factory_method\FactoryLoaderTest.class
 problem\definition\OperatorTest$OperatorStub.class
+problem\extension\MetricasMultiobjetivoTest.class
 problem\definition\CodificationTest.class
 evolutionary_algorithms\complement\SteadyStateReplaceTest.class
 metaheuristics\generators\GeneratorsTest.class
